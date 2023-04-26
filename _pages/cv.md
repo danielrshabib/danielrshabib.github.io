@@ -59,21 +59,13 @@ COVID-19 Research
 Community Service
 ======
 * Aug 2022-Present: Shade Tree Free Clinic Coordinator, Vanderbilt University School of Medicine
-  * Mentor: Alexander Langerman, MD, SM, FACS
-* Nov 2022- Present: Research Assistant
-  * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
-  * Mentor: Alexander Langerman, MD, SM, FACS
-* Nov 2022- Present: Research Assistant
-  * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
-  * Mentor: Alexander Langerman, MD, SM, FACS
-* Nov 2022- Present: Research Assistant
-  * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
-  * Mentor: Alexander Langerman, MD, SM, FACS
+* Jan 2021-July 2022: Community Health Design & Social Innovation Intern, Johns Hopkins Sibley Memorial Hospital
+* Dec 2019-Feb 2020: Hospice Volunteer, Gilchrist Hospice Center
+* June 2015-Aug 2019: Hospital Volunteer, LewisGale Medical Center
 
 Leadership
 ======
 * Aug 2021-June 2022: Community Assistant, Nine East 33rd Student Apartments
-  * Mentor: Alexander Langerman, MD, SM, FACS
 * Jan 2020-Dec 2021: Teaching Assistant, Johns Hopkins University Organic Chemistry Lab
 * June 2018-Aug 2019: Tennis Instructor, North Cross School
   
@@ -86,16 +78,16 @@ Skills
 
 Honors, Awards, and Grants
 ======
-2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
-2022: PanHellenic Scholarship Foundation Award ($2,500)
-2022: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
-2021: Omicron Delta Kappa Honor Society, Beta Circle
-2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
-2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
-2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
-2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
-2019: Johns Hopkins University Creative Writing Contest Winner
-2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
+* 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
+* 2022: PanHellenic Scholarship Foundation Award ($2,500)
+* 2022: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
+* 2021: Omicron Delta Kappa Honor Society, Beta Circle
+* 2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
+* 2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
+* 2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
+* 2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
+* 2019: Johns Hopkins University Creative Writing Contest Winner
+* 2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
 
 Coursework
 ======
@@ -118,6 +110,6 @@ Conference Activity
 
 Popular Works
 ======
-[Researching the COVID-19 Pandemic: New Vistas and Data Limitations](https://blog.brill.com/view/post/guest-post/podcast/researching-the-covid-19-pandemic.xml)
-[COVID-19 in the Middle East](https://www.policyforum.net/covid-19-in-the-middle-east/)
-[Stars, stripes and nicotine addiction](https://roanoke.com/opinion/commentary/habib-stars-stripes-and-nicotine-addiction/article_26b9a122-2d2f-5d1a-9b23-f0a258e4567c.html)
+* Habib D, Elmore N. [Researching the COVID-19 Pandemic: New Vistas and Data Limitations](https://blog.brill.com/view/post/guest-post/podcast/researching-the-covid-19-pandemic.xml), Middle East Law and Governance Blog, 2022.
+* Habib D. [COVID-19 in the Middle East](https://www.policyforum.net/covid-19-in-the-middle-east/), Asia & The Pacific Policy Society, 2020.
+* Habib D. [Stars, stripes and nicotine addiction](https://roanoke.com/opinion/commentary/habib-stars-stripes-and-nicotine-addiction/article_26b9a122-2d2f-5d1a-9b23-f0a258e4567c.html), The Roanoke Times, 2019.
