@@ -2,9 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Conference Activity"
+    url: /talks/   
 
   - title: "Popular Works"
-    url: /talks/    
+    url: /popularworks/    
     
   - title: "CV"
     url: /cv/
