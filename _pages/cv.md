@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
@@ -68,13 +69,6 @@ Leadership
 * Aug 2021-June 2022: Community Assistant, Nine East 33rd Student Apartments
 * Jan 2020-Dec 2021: Teaching Assistant, Johns Hopkins University Organic Chemistry Lab
 * June 2018-Aug 2019: Tennis Instructor, North Cross School
-  
-Skills
-======
-* **Clinical**: Patient interviewing, chart review, informed consent, IRB approval
-* **Computer**: MATLAB, Python, Java, SQL, Unix, Microsoft Excel, RedCap, ImageJ, Canva, Pajek, PyMOL
-* **Language**: Conversational French
-* **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
 
 Honors, Awards, and Grants
 ======
@@ -96,15 +90,22 @@ Coursework
 * 2023: Plastic Surgery Spring Elective
 * 2022: Neurosurgery Fall Elective
 
+Skills
+======
+* **Clinical**: Patient interviewing, chart review, informed consent, IRB approval
+* **Computer**: MATLAB, Python, Java, SQL, Unix, Microsoft Excel, RedCap, ImageJ, Canva, Pajek, PyMOL
+* **Language**: Conversational French
+* **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Conference Activity
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
