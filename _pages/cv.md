@@ -99,7 +99,7 @@ Skills
 
 Publications
 ======
-  {% include publications style="ama" link=true %}
+  <ul>{% include publications style="ama" link=true %}<ul>
   
 Conference Activity
 ======
