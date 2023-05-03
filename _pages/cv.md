@@ -99,7 +99,9 @@ Skills
 
 Publications
 ======
-  {% include publications style="vancouver" link=true %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Conference Activity
 ======
