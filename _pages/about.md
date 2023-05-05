@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About Me
 
 I am a medical student at Vanderbilt University School of Medicine. I currently conduct research to inform guidelines for patient-centered surgical consent forms and volunteer as a clinic coordinator at the Shade Tree Free Clinic.
 
