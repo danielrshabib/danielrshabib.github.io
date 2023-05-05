@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-<br>
-
 Education
 ======
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
