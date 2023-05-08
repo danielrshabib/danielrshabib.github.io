@@ -1,5 +1,5 @@
 ---
-title: "Restriction: The COVID-19 Policy Type of Choice for Fragile Middle Eastern States"
+title: "Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states"
 collection: publications
 permalink: /publication/2020-10-15-habib2020restriction
 excerpt: 'This paper begins to examine the different COVID-19 policy responses implemented in Middle Eastern countries.'
