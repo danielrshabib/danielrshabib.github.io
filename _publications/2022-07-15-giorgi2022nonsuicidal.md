@@ -1,12 +1,12 @@
 ---
-title: "Nonsuicidal Self-Injury and Substance Use Disorders: A Shared Language of Addiction"
+title: "Nonsuicidal self-injury and substance use disorders: A shared language of addiction"
 collection: publications
 permalink: /publication/2022-07-15-giorgi2022nonsuicidal
 excerpt: 'This paper explores similar language between people posting on Reddit about nonsuicidal self-injury and substance use disorders, namely recovery and support. We found that while people who self-injure conceptualize their condition as an addiction, they experience different comorbidites than people with substance use disorders.'
 date: 2022-07-15
 venue: 'Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology'
 paperurl: ''
-citation: 'Giorgi S, Himelein-wachowiak M, <b>Habib D</b>, Ungar L, Curtis B. Lived experience matters: Automatic detection of stigma towards people who use substances on social media. In: <i>Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology</i>. Association for Computational Linguistics; 2022:177-183. doi:10.18653/v1/2022.clpsych-1.15'
+citation: 'Giorgi S, Himelein-wachowiak M, <b>Habib D</b>, Ungar L, Curtis B. Nonsuicidal self-injury and substance use disorders: A shared language of addiction. In: <i>Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology</i>. Association for Computational Linguistics; 2022:177-183. doi:10.18653/v1/2022.clpsych-1.15'
 ---
 This paper explores similar language between people posting on Reddit about nonsuicidal self-injury and substance use disorders, namely recovery and support. We found that while people who self-injure conceptualize their condition as an addiction, they experience different comorbidites than people with substance use disorders.
 
