@@ -11,4 +11,4 @@ This presentation highlighted disparities in how Middle Eastern countries with d
 <br><br>
 Recommended citation: **Habib D**, Elmore N, Gulas S, Ruhde N, Mathew D. The balance between health resource-oriented and restrictive COVID-19 policies in the Middle East. Oral presentation at: COVID-19 Public Health and Social Measures Research Outcome Conference; October 5; 2021; Virtual.
 
-![](https://drive.google.com/drive/u/1/folders/1yL8u2kAK1u3mRu-417kbLblTO0HOmK2N)
+![](../images/habib2021balance.png)
