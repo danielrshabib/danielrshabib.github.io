@@ -11,5 +11,4 @@ Although literature exists on the contagion effect of neighborhood blight, this 
 <br><br>
 Recommended citation: Mitsinikos C, **Habib D**. A preliminary network analysis of blighted neighborhoods in Baltimore City. Oral presentation at: XLII International Social Networks Conference; July 14, 2022; Virtual.
 <br><br>
-
 ![](../images/mitsinikos2022preliminary.png) 
