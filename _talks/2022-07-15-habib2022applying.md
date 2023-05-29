@@ -11,4 +11,4 @@ Vaping in high schools has skyrocketed partly due to social factors. Peer influe
 <br><br>
 Recommended citation: **Habib D**, Jha Na, Jha Ni, Curtis B. Applying social network theory to vaping in high school: Implications for school-based prevention programs. Oral presentation at: XLII International Social Networks Conference; July 15, 2022; Virtual.
 <br><br>
-![](../images/habib2022applying.png) 
+![Network Graph With Arrows Between Nodes Representing High School Students and Their Friends Colored in Blue if They Do Not Vape and Red if They Do Vape](../images/habib2022applying.png) 
