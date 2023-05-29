@@ -11,4 +11,4 @@ This presentation showed how both individual coronavirus racial bias and county-
 <br><br>
 Recommended citation: **Habib D**, Curtis B, Giorgi S, Turpin R. Segregation, coronavirus racial bias, and relationships with COVID-19 distress. Round table presentation at: American Public Health Association Annual Meeting; November 7, 2022; Boston, MA, USA.
 <br><br>
-![](../images/habib2023segregation.jpg)
+![African American Woman Wearing a COVID-19 Mask Looking Distressed](../images/habib2023segregation.jpg)
