@@ -1,7 +1,7 @@
 ---	
-title: "[COVID-19 in the Middle East](https://www.policyforum.net/covid-19-in-the-middle-east/)"	
+title: "COVID-19 in the Middle East"	
 collection: popularworks	
-permalink: /popularworks/habib2020covid19
+permalink: https://www.policyforum.net/covid-19-in-the-middle-east/
 date: 2020-08-14
 ---	
 
