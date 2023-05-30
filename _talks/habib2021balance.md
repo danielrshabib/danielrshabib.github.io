@@ -1,7 +1,7 @@
 ---	
 title: "The balance between health resource-oriented and restrictive COVID-19 policies in the Middle East"	
 collection: talks	
-permalink: /talks/2021-10-5-habib2021balance	
+permalink: /talks/habib2021balance	
 date: 2021-10-5
 type: "Oral Presentation"
 venue: 'COVID-19 Public Health and Social Measures Research Outcome Conference'
