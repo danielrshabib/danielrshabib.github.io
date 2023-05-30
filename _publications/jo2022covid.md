@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 vaccine website accessibility dashboard"
 collection: publications
-permalink: /publication/2022-04-12-jo2022covid
+permalink: /publication/jo2022covid
 excerpt: 'This paper is about disparities in health department website accessibility during the COVID-19 pandemic among people with visual disabilites. <br><br> *equally contributing first authors'
 date: 2022-04-12
 venue: 'Disability and Health Journal'
