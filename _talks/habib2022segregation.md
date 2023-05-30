@@ -1,7 +1,7 @@
 ---	
 title: "Segregation, coronavirus racial bias, and relationships with COVID-19 distress"	
 collection: talks	
-permalink: /talks/2022-11-07-habib2022segregation
+permalink: /talks/habib2022segregation
 date: 2022-11-07
 type: "Round Table Presentation"
 venue: 'American Public Health Association Annual Meeting'
