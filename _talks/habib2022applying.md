@@ -1,7 +1,7 @@
 ---	
 title: "Applying social network theory to vaping in high school: Implications for school-based prevention programs"	
 collection: talks	
-permalink: /talks/2022-07-15-habib2022applying	
+permalink: /talks/habib2022applying	
 date: 2022-07-15
 type: "Oral Presentation"
 venue: 'XLII International Social Networks Conference'
