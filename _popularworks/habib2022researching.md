@@ -1,7 +1,7 @@
 ---	
 title: "[Researching the COVID-19 pandemic: New vistas and data limitations](https://blog.brill.com/view/post/guest-post/podcast/researching-the-covid-19-pandemic.xml)"	
 collection: popularworks	
-permalink: /popularworks/2022-05-02-habib2022researching		
+permalink: /popularworks/habib2022researching		
 date: 2022-05-02		
 ---	
 
