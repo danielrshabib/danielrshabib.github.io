@@ -1,7 +1,7 @@
 ---	
 title: "COVID-19 in the Middle East"	
 collection: popularworks	
-permalink: https://www.policyforum.net/covid-19-in-the-middle-east/
+url: https://www.policyforum.net/covid-19-in-the-middle-east/
 date: 2020-08-14
 ---	
 
