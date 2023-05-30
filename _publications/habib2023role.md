@@ -1,7 +1,7 @@
 ---
 title: "Role of the media in promoting the dehumanization of people who use drugs"
 collection: publications
-permalink: /publication/2023-03-30-habib2023role
+permalink: /publication/habib2023role
 excerpt: 'This paper traces the dehumanization of people who use drugs throughout the War on Drugs and its consequences in the present day. We call for humanizing strategies toward treating people with substance use disorders and a shift away from dehumanizing portrayals in the media.'
 date: 2023-03-30
 venue: 'American Journal of Drug and Alcohol Abuse'
