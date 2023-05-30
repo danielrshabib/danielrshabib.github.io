@@ -1,7 +1,7 @@
 ---	
 title: "A preliminary network analysis of blighted neighborhoods in Baltimore City"	
 collection: talks	
-permalink: /talks/2022-07-14-mitsinikos2022preliminary
+permalink: /talks/mitsinikos2022preliminary
 date: 2022-07-14
 type: "Oral Presentation"
 venue: 'XLII International Social Networks Conference'
