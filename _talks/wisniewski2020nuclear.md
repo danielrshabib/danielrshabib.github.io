@@ -1,7 +1,7 @@
 ---	
 title: "Nuclear stiffening along with RhoGEF activity regulate RhoA/MyosinII-dependent contractility and cell migration phenotype in confinement"	
 collection: talks	
-permalink: /talks/2020-10-16-wisniewski2020nuclear	
+permalink: /talks/wisniewski2020nuclear	
 date: 2020-10-16
 type: "Poster"
 venue: 'Biomedical Engineering Society Annual Meeting'
