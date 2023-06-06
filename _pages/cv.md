@@ -14,58 +14,58 @@ redirect_from:
 
 # Clinical Research
 
-* Nov 2022-Present: Research Assistant
+* Nov 2022-Present: **Research Assistant**
   * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
   * Mentor: Alexander Langerman, MD, SM, FACS
-* Jan 2022-July 2022: Research Program Coordinator
+* Jan 2022-July 2022: **Research Program Coordinator**
   * Department of Pediatrics, Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
-* Seo 2020-Dec 2021: Research Assistant
+* Seo 2020-Dec 2021: **Research Assistant**
   * Neuro-Oncology Surgical Outcomes Lab, Johns Hopkins Medicine
   * Mentor: Debraj Mukherjee, MD, MPH
-* Oct 2018-Jan 2020: Research Assistant
+* Oct 2018-Jan 2020: **Research Assistant**
   * Wilmer Eye Institute, Johns Hopkins Medicine
   * Mentor: Bonnielin Swenor, PhD, MPH
 
 # Wet Lab
 
-* Jan 2019-Dec 2021: Cancer Research Assistant
+* Jan 2019-Dec 2021: **Cancer Research Assistant**
   * Institute for NanoBioTechnology, Johns Hopkins University
   * Mentor: Konstantinos Konstantopoulos, PhD
-* June 2020-Aug 2020: Cancer Research Assistant
+* June 2020-Aug 2020: **Cancer Research Assistant**
   * Fralin Biomedical Research Institute, Virginia Tech Carilion
   * Mentor: Samy Lamouille, PhD
 
 # Addiction Research
 
-* Jan 2022-July 2022 & Summer 2021: Postbaccalaureate Fellow and Summer Intern
+* Jan 2022-July 2022 & Summer 2021: **Postbaccalaureate Fellow and Summer Intern**
   * Technology and Translational Research Unit, National Institute on Drug Abuse
   * Mentor: Brenda Curtis, PhD, MsPH
-* June 2020-July 2022: Student Investigator
+* June 2020-July 2022: **Student Investigator**
   * Johns Hopkins University
   * Mentor: Andrew Cherlin, PhD
 
 # COVID-19 Research
 
-* Mar 2021-May 2022: Research Assistant
+* Mar 2021-May 2022: **Research Assistant**
   * Disability Health Research Center, Johns Hopkins University
   * Mentor: Bonnielin Swenor, PhD, MPH
-* June 2020-Jan 2021: Research Assistant
+* June 2020-Jan 2021: **Research Assistant**
   * CoronaNet
   * Mentor: Robert Kubinec, PhD
 
 # Community Service
 
-* Aug 2022-Present: Shade Tree Free Clinic Coordinator, Vanderbilt University School of Medicine
-* Jan 2021-July 2022: Community Health Design & Social Innovation Intern, Johns Hopkins Sibley Memorial Hospital
-* Dec 2019-Feb 2020: Hospice Volunteer, Gilchrist Hospice Center
-* June 2015-Aug 2019: Hospital Volunteer, LewisGale Medical Center
+* Aug 2022-Present: **Shade Tree Free Clinic Coordinator**, Vanderbilt University School of Medicine
+* Jan 2021-July 2022: **Community Health Design & Social Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
+* Dec 2019-Feb 2020: **Hospice Volunteer**, Gilchrist Hospice Center
+* June 2015-Aug 2019: **Hospital Volunteer**, LewisGale Medical Center
 
 # Leadership
 
-* Aug 2021-June 2022: Community Assistant, Nine East 33rd Student Apartments
-* Jan 2020-Dec 2021: Teaching Assistant, Johns Hopkins University Organic Chemistry Lab
-* June 2018-Aug 2019: Tennis Instructor, North Cross School
+* Aug 2021-June 2022: **Community Assistant**, Nine East 33rd Student Apartments
+* Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
+* June 2018-Aug 2019: **Tennis Instructor**, North Cross School
 
 # Honors, Awards, and Grants
 
