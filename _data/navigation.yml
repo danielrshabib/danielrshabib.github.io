@@ -5,6 +5,9 @@ main:
     
   - title: "Conference Activity"
     url: /talks/   
+    
+  - title: "Talk Map"
+    url: /talkmap.html
 
   - title: "Popular Works"
     url: /popularworks/    
