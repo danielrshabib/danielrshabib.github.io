@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 ## Education
 
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
