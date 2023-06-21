@@ -7,20 +7,19 @@ redirect_from:
   - /resume
 ---
 
-# Education
+## Education
 
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
 * Vanderbilt University School of Medicine, M.D., July 2022-May 2026 (expected)
 
 ## Clinical Research
-
 * Nov 2022-Present: **Research Assistant**
   * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
   * Mentor: Alexander Langerman, MD, SM, FACS
 * Jan 2022-July 2022: **Research Program Coordinator**
   * Department of Pediatrics, Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
-* Seo 2020-Dec 2021: **Research Assistant**
+* Sep 2020-Dec 2021: **Research Assistant**
   * Neuro-Oncology Surgical Outcomes Lab, Johns Hopkins Medicine
   * Mentor: Debraj Mukherjee, MD, MPH
 * Oct 2018-Jan 2020: **Research Assistant**
