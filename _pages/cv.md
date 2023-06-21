@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br>
 
-## Education
+# Education
 
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
 * Vanderbilt University School of Medicine, M.D., July 2022-May 2026 (expected)
