@@ -37,7 +37,7 @@
 .page__title {
   margin-top: 1; /* from 0 */
   line-height: 1;
-    margin-bottom: 1; /* new line */
+    padding-bottom: 0.5em; /* new line */
    border-bottom: 1px solid $border-color; /* new line */
 
   & + .page__meta {
