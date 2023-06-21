@@ -14,6 +14,7 @@ redirect_from:
 * Vanderbilt University School of Medicine, M.D., July 2022-May 2026 (expected)
 
 ## Clinical Research
+
 * Nov 2022-Present: **Research Assistant**
   * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
   * Mentor: Alexander Langerman, MD, SM, FACS
@@ -95,13 +96,11 @@ redirect_from:
 * **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
 
 ## Publications
-
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Conference Activity
-
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
