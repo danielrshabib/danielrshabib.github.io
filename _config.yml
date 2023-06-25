@@ -249,7 +249,7 @@ defaults:
   # _popularworks
    - scope:
       path: ""
-      type: publications
+      type: popularworks
     values:
       layout: single
       author_profile: true
