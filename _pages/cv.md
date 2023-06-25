@@ -106,10 +106,9 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Popular Works
-
-* **Habib D**, Elmore N. [Researching the COVID-19 Pandemic: New vistas and data limitations](https://blog.brill.com/view/post/guest-post/podcast/researching-the-covid-19-pandemic.xml). *Middle East Law and Governance Blog*. Published May 2, 2022.
-* **Habib D**. [COVID-19 in the Middle East](https://www.policyforum.net/covid-19-in-the-middle-east/). *Asia & The Pacific Policy Society*. Published August 14, 2020.
-* **Habib D**. [Stars, stripes and nicotine addiction](https://roanoke.com/opinion/commentary/habib-stars-stripes-and-nicotine-addiction/article_26b9a122-2d2f-5d1a-9b23-f0a258e4567c.html). *The Roanoke Times*. Published September 25, 2019.
+<ul>{% for post in site.popularworks reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Undergraduate Journal Articles
 
