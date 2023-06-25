@@ -2,7 +2,7 @@
 title: "Stars, stripes and nicotine addiction"
 collection: popularworks
 permalink: /popularworks/habib2019stars
-excerpt: 'This opinion editorial is about increasing the age to buy nicotine products in Virginia to 21 years old. The article discusses Virginia's history of regulating nicotine use, health consequences of nicotine addiction, and the culture of vape use in high schools.'
+excerpt: "This opinion editorial is about increasing the age to buy nicotine products in Virginia to 21 years old. The article discusses Virginia's history of regulating nicotine use, health consequences of nicotine addiction, and the culture of vape use in high schools."
 date: 2019-09-25
 venue: 'The Roanoke Times'
 paperurl: ''
