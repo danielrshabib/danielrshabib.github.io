@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 in the Middle East"
-collection: publications
+collection: popularworks
 permalink: /popularworks/habib2020covid
 excerpt: "This article is about the prevalent restrictions and suffering of people living in fragile Middle Eastern countries during the COVID-19 pandemic."
 date: 2020-08-14
