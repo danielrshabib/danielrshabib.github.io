@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-          <p><i class="fa fa-book" aria-hidden="true"> <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+          <p><i class="fa fa-book" aria-hidden="true"></i> <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif post.collection == 'popularworks' %}
           <p><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
           <p><strong><i class="far fa-newspaper" aria-hidden="true"></i>  {{ post.venue }}</strong></p>
