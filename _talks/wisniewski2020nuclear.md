@@ -11,4 +11,4 @@ This presentation highlighted signaling pathways that are activated in invasive 
 <br><br>
 Recommended citation: Wisniewski E, Mistriotis P, Bera K, Zhang J, Nikolic M, Tuntithavornwat S, Law R, Zhao R, **Habib D**, Kalab P, Scarcelli G, Konstantopoulos K. Nuclear stiffening along with RhoGEF activity regulate RhoA/MyosinII-dependent contractility and cell migration phenotype in confinement. Poster presented at: Biomedical Engineering Society Annual Meeting; October 16, 2020; Virtual.
 <br><br>
-![Graphic of Breast Cancer Cell with Increased Cytoplasmic Pressure due to Channel Confinement that Leads to Increased MyosinII Activity at the Back of the Cell](../images/wisniewski2020nuclear.png){: style="border: 2% solid rgba(138,137,127, 0.15); border-radius: 5%;"}
+![Graphic of Breast Cancer Cell with Increased Cytoplasmic Pressure due to Channel Confinement that Leads to Increased MyosinII Activity at the Back of the Cell](../images/wisniewski2020nuclear.png){: style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 10%;"}
