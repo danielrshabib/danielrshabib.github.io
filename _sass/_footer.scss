@@ -2,6 +2,19 @@
    FOOTER
    ========================================================================== */
 
+
+.Footer_inner_left{
+width: 49%;
+Float: left;
+display:inline;
+}
+
+.Footer_inner_right{
+width: 49%;
+Float: right;
+display:inline;
+}
+
 .page__footer {
   @include clearfix;
   float: left;
