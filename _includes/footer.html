@@ -2,14 +2,14 @@
 
 <div class="page__footer-copyright">
   <div class="Footer_inner_left">
-    <p>&copy; {{ site.time | date: '%Y' }}{{ site.name | default: site.title }} | Views are my own. | <a href="../terms/">Terms</a></p>
     <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <span id="lastModified"></span></p>
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. | <a href="../terms/">Terms</a>
   </div>
   <div class="Footer_inner_right"><img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;"></div>
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  window.addEventListener("DOMContentLoaded", function() {
     var lastModifiedElement = document.getElementById("lastModified");
     var lastModifiedDate = new Date(document.lastModified);
     var options = { month: "long", day: "numeric", year: "numeric" };
