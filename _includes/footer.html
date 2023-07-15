@@ -1,8 +1,10 @@
 {% include base_path %}
 
 <div class="page__footer-copyright">
-  <div class="Footer_inner_left">&copy; {% raw %}{{ site.time | date: '%Y' }}{% endraw %} {% raw %}{{ site.name | default: site.title }}{% endraw %} | Views are my own. | <a href="../terms/">Terms</a></div>
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong>  <span id="lastModified"></span></p>
+  <div class="Footer_inner_left">
+    <p>&copy; {{ site.time | date: '%Y' }}{{ site.name | default: site.title }} | Views are my own. | <a href="../terms/">Terms</a></p>
+    <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <span id="lastModified"></span></p>
+  </div>
   <div class="Footer_inner_right"><img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;"></div>
 </div>
 
