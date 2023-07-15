@@ -1,4 +1,14 @@
 {% include base_path %}
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} - Views are my own. 
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} - Views are my own.</div>
+<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong>  <span id="lastModified"></span></p>
 <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var lastModifiedElement = document.getElementById("lastModified");
+    var lastModifiedDate = new Date(document.lastModified);
+    var options = { month: "long", day: "numeric", year: "numeric" };
+    lastModifiedElement.textContent = lastModifiedDate.toLocaleDateString("en-US", options);
+  });
+</script>
