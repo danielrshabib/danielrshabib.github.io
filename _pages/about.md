@@ -25,8 +25,8 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column1 {
       flex: 1;
-      padding: 20px;
-      text-align: left;
+      padding: 10px;
+      text-align: center;
     }
 
     .column1 i {
@@ -35,13 +35,19 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column2 {
       flex: 1;
-      padding: 20px;
-      text-align: left;
+      padding: 10px;
+      text-align: center;
     }
 
     .column2 i {
       margin-bottom: 10px;
     }
+    
+    .grad-info p {
+      text-align: left; /* Left-align the paragraph text */
+      margin: 0; /* Remove any default margin to avoid extra spacing */
+    }
+    
 
   </style>
 </head>
@@ -50,18 +56,23 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
   <div class="container">
     <div class="column1">
       <h2>Education</h2>
-      <p class="page__meta"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. in Biophysics and Minor in Bioethics, 2021</i></p>
-      <p class="page__meta"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine, Expected 2026</i></p>
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
+      <div class="grad-info">
+        <b>Johns Hopkins University</b>
+        <p><i>B.A. in Biophysics and Minor in Bioethics, 2021</i></p>
+      </div>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine, Expected 2026</i></p>
     </div>
     <div class="column2">
       <h2>Interests</h2>
-      <ul>
+      <div class="grad-info"><ul style="list-style-type:none;">
         <li>Ethics</li>
         <li>Health Equity</li>
         <li>Social Determinants of Health</li>
         <li>Stigma</li>
         <li>Surgical Outcomes</li>
       </ul>
+      </div>
     </div>
   </div>
 </body>
