@@ -34,11 +34,17 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       margin-bottom: 10px;
     }
 
-    .grad-info {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    .column2 {
+      flex: 1;
+      padding: 20px;
+      text-align: center;
     }
+
+    .column2 i {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
   </style>
 </head>
 
@@ -46,17 +52,8 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
   <div class="container">
     <div class="column1">
       <h2>Education</h2>
-      <i class="fas fa-graduation-cap"></i>
-      <span>
-        <h2>Johns Hopkins University</h2>
-        <p>B.A. in Biophysics and Minor in Bioethics, 2021</p>
-      </span>
-      <i class="fas fa-graduation-cap"></i>
-      <span>
-        <h2>Vanderbilt University School of Medicine</h2>
-        <p>MD, Expected 2026</p>
-      </span>
-      
+      <p class="page__meta"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. in Biophysics and Minor in Bioethics, 2021</i></p>
+      <p class="page__meta"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine, Expected 2026</i></p>
     </div>
     <div class="column2">
       <h2>Interests</h2>
