@@ -25,7 +25,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column1 {
       flex: 1;
-      padding: 10px;
+      padding: 0px;
       text-align: center;
     }
 
@@ -35,7 +35,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column2 {
       flex: 1;
-      padding: 10px;
+      padding: 0px;
       text-align: center;
     }
 
@@ -43,6 +43,11 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       margin-bottom: 10px;
     }
     
+    .grad-info {
+      margin-bottom: 10px; /* Add some spacing between the header and paragraph */
+      color: black; /* Set the text color to black */
+    }
+
     .grad-info p {
       text-align: left; /* Left-align the paragraph text */
       margin: 0; /* Remove any default margin to avoid extra spacing */
@@ -51,7 +56,6 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
   </style>
 </head>
-
 <body>
   <div class="container">
     <div class="column1">
