@@ -26,22 +26,20 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
     .column1 {
       flex: 1;
       padding: 20px;
-      text-align: center;
+      text-align: left;
     }
 
     .column1 i {
-      font-size: 48px;
       margin-bottom: 10px;
     }
 
     .column2 {
       flex: 1;
       padding: 20px;
-      text-align: center;
+      text-align: left;
     }
 
     .column2 i {
-      font-size: 48px;
       margin-bottom: 10px;
     }
 
