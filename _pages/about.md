@@ -76,5 +76,36 @@ During the six months before medical school, I continued working at Johns Hopkin
 
 I aspire to continue leading surgical outcomes research as well as advocating for health equity and patients’ rights.
 
-|-----|-----|
-|![Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day](../images/GilmanFlowers.png)   |   ![Replica Parthenon of Centenial Park in Nashville Tennessee](../images/Parthenon.png)| 
+
+<html>
+<head>
+  <style>
+    /* Apply CSS styles here */
+    .container {
+      display: flex;
+    }
+
+    .column {
+      flex: 1;
+      padding: 10px;
+    }
+
+    .column img {
+      max-width: 100%; /* Ensure images don't exceed their container's width */
+      display: block; /* Remove any extra spacing below the image */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column">
+      <!-- First image -->
+      <img src="../images/GilmanFlowers.png" alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day">
+    </div>
+    <div class="column">
+      <!-- Second image -->
+      <img src="../images/NashvilleSkyline.png" alt="Skyline of Nashville Tennessee">
+    </div>
+  </div>
+</body>
+</html>
