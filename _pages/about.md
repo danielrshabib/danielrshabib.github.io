@@ -24,7 +24,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column1 {
       flex: 1;
-      padding: 10px;
+      padding: 5px;
       text-align: center;
     }
 
@@ -34,7 +34,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column2 {
       flex: 1;
-      padding: 10px;
+      padding: 5px;
       text-align: center;
     }
 
@@ -59,7 +59,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
   <div class="container">
     <div class="column1">
       <h2>Education</h2>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. in Biophysics and Minor in Bioethics, 2021</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. in Biophysics & Minor in Bioethics, 2021</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine, Expected 2026</i></p>
     </div>
     <div class="column2">
@@ -94,6 +94,13 @@ I aspire to continue leading surgical outcomes research as well as advocating fo
       max-width: 100%; /* Ensure images don't exceed their container's width */
       display: block; /* Remove any extra spacing below the image */
     }
+    .caption {
+      text-align: center;
+      font-style: italic;
+      font-size: 12px;
+    }
+
+    
   </style>
 </head>
 <body>
@@ -101,10 +108,12 @@ I aspire to continue leading surgical outcomes research as well as advocating fo
     <div class="column">
       <!-- First image -->
       <img src="../images/GilmanFlowers.png" alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day">
+      <p class="caption">Gilman Hall, Johns Hopkins University</p>
     </div>
     <div class="column">
       <!-- Second image -->
       <img src="../images/NashvilleSkyline.png" alt="Skyline of Nashville Tennessee">
+      <p class="caption">Nashville, TN</p>
     </div>
   </div>
 </body>
