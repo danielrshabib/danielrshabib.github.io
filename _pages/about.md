@@ -13,6 +13,35 @@ I am a medical student at Vanderbilt University School of Medicine. I currently 
 I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and a Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I led an Organic Chemistry Lab section as a teaching assistant and conducted basic science cancer research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I ran my own IRB-approved study called *Peer Influence on Vaping in High Schools* and independently led two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children. 
 
 <html>
+<head>
+  <!-- Add the Font Awesome CSS link below -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <!-- Add any necessary meta tags, CSS, or other dependencies in the head section -->
+  <style>
+    /* Apply CSS styles here */
+    .container {
+      display: flex;
+    }
+
+    .column1 {
+      flex: 1;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .column1 i {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    .grad-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  </style>
+</head>
+
 <body>
   <div class="container">
     <div class="column1">
