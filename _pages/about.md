@@ -111,7 +111,7 @@ I aspire to continue leading surgical outcomes research as well as advocating fo
     .caption {
       text-align: center;
       font-style: italic;
-      font-size: 9px;
+      font-size: 7px;
     }
 
     
