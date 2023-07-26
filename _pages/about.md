@@ -20,28 +20,23 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
     /* Apply CSS styles here */
     .container {
       display: flex;
+      justify-content: center; /* Center the columns horizontally */
     }
 
-    .column1 {
+    .column {
       flex: 1;
       padding: 5px;
-      text-align: center;
+      text-align: left; /* Left-align the content */
     }
 
-    .column1 i {
+    .column h2 {
+      text-align: center; /* Center the headers */
+    }
+
+    .column i {
       margin-bottom: 10px;
     }
 
-    .column2 {
-      flex: 1;
-      padding: 5px;
-      text-align: center;
-    }
-
-    .column2 i {
-      margin-bottom: 10px;
-    }
-    
     .grad-info {
       margin-bottom: 10px; /* Add some spacing between the header and paragraph */
       color: black; /* Set the text color to black */
@@ -51,8 +46,6 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       text-align: left; /* Left-align the paragraph text */
       margin: 0; /* Remove any default margin to avoid extra spacing */
     }
-    
-
   </style>
 </head>
 <body>
@@ -64,7 +57,13 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
     </div>
     <div class="column2">
       <h2>Interests</h2>
-      <p>Ethics<br>Health Equity<br>Social Determinants of Health<br>Stigma<br>Surgical Outcomes</p>
+      <ul>
+        <li>Ethics</li>
+        <li>Health Equity</li>
+        <li>Social Determinants of Health</li>
+        <li>Stigma</li>
+        <li>Surgical Outcomes</li>
+      </ul>
     </div>
   </div>
 </body>
