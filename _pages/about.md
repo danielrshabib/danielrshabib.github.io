@@ -23,17 +23,23 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       justify-content: center; /* Center the columns horizontally */
     }
 
-    .column {
+    .column1 {
       flex: 1;
-      padding: 5px;
+      padding: 5px 5px 5px 0; /* Right padding: 5px, Left padding: 0 */
       text-align: left; /* Left-align the content */
     }
 
-    .column h2 {
-      text-align: center; /* Center the headers */
+    .column1 i {
+      margin-bottom: 10px;
     }
 
-    .column i {
+    .column2 {
+      flex: 1;
+      padding: 5px 0 5px 5px; /* Right padding: 0, Left padding: 5px */
+      text-align: left; /* Left-align the content */
+    }
+
+    .column2 i {
       margin-bottom: 10px;
     }
 
@@ -52,8 +58,8 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
   <div class="container">
     <div class="column1">
       <h2>Education</h2>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. in Biophysics & Minor in Bioethics, 2021</i></p>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine, Expected 2026</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. Biophysics, Bioethics Minor - 2021</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine - Expected 2026</i></p>
     </div>
     <div class="column2">
       <h2>Interests</h2>
