@@ -7,7 +7,7 @@ date: 2023-07-16
 venue: 'Proceedings of the Eighteenth International AAAI Conference on Web and Social Media'
 clink: 'https://doi.org/10.48550/arXiv.2302.02064'
 purl: '/files/giorgi2024lived.pdf'
-citation: 'Giorgi S, Bellew D, <b>Habib DRS</b>, Sedoc J, Smitterberg C, Devoto A, Himelein-Wachowiak MK, Curtis B. Lived experience matters: Automatic detection of stigma towards people who use substances on social media. In: </i>Proceedings of the Eighteenth International AAAI Conference on Web and Social Media</i>. Association for the Advancement of Artificial Intelligence. Preprint posted online July 16, 2023. doi:10.48550/arXiv.2302.02064'
+citation: 'Giorgi S, Bellew D, <b>Habib DRS</b>, Sedoc J, Smitterberg C, Devoto A, Himelein-Wachowiak MK, Curtis B. Lived experience matters: Automatic detection of stigma towards people who use substances on social media. In: <i>Proceedings of the Eighteenth International AAAI Conference on Web and Social Media</i>. Association for the Advancement of Artificial Intelligence. Preprint posted online July 16, 2023. doi:10.48550/arXiv.2302.02064'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/giorgi2024lived.pdf)
 
