@@ -1,7 +1,7 @@
 ---
 title: "Lived experience matters: Automatic detection of stigma toward people who use substances on social media"
 collection: publications
-permalink: /publication/giorgi2024lived
+permalink: /publications/giorgi2024lived
 excerpt: 'This paper examines stigma toward people who use substances (PWUS). The introduction highlights the prevalence of substance use disorders (SUDs), barriers to treatment-seeking, and the limited attention to stigma toward PWUS compared to other forms of hate speech. We recruited Amazon Mechanical Turk (MTurk) workers to label a dataset of about 5,000 public Reddit posts for stigma, and we automatically detected stigmatizing content to investigate the relationship between personal experience and stigma perception. This crowd-sourced annotation task shows that annotators who use substances or know someone in SUD treatment are more likely to identify stigmatizing content. Integrating person-level demographics with comment-level language in a supervised machine learning framework called Jury Learning achieves a classification accuracy of 0.69, a 17% improvement over using language alone. We release our stigma-annotated dataset, demonstrate the influence of lived experience on identifying stigmatizing content, discover linguistic markers of stigma based on perspectives of individuals with substance use experience, and highlight the importance of understanding the social context of machine learning tasks.'
 date: 2023-07-16
 venue: 'Proceedings of the Eighteenth International AAAI Conference on Web and Social Media'
