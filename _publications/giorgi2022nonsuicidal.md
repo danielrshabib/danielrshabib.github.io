@@ -1,7 +1,7 @@
 ---
 title: "Nonsuicidal self-injury and substance use disorders: A shared language of addiction"
 collection: publications
-permalink: /publication/giorgi2022nonsuicidal
+permalink: /publications/giorgi2022nonsuicidal
 excerpt: 'This paper explores similar language between people posting on Reddit about nonsuicidal self-injury and substance use disorders, namely recovery and support. We found that while people who self-injure conceptualize their condition as an addiction, they experience different comorbidites than people with substance use disorders.'
 date: 2022-07-15
 venue: 'Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology'
