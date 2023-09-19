@@ -18,5 +18,10 @@ var addressPoints = [
     "Boston, MA, USA | Combined Otolaryngology Spring Meetings | 2023 | How often is cancer present in oral cavity re-resections after initial positive margins?",
     42.3554334,
     -71.060511
+  ],
+  [
+    "Nashville, TN, USA | American Academy of Otolaryngology-Head and Neck Surgery Foundation Annual Meeting | 2023 | Flap to floor: Free flap comparative outcomes outside the ICU",
+    36.174465,
+    -86.767960
   ]
 ];
