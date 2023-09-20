@@ -7,7 +7,7 @@ date: 2023-06-22
 venue: 'The Milbank Quarterly'
 clink: 'https://doi.org/10.1111/1468-0009.12661'
 purl: '/files/habib2023primary.pdf'
-citation: '<b>Habib DRS</b>*, Klein LM*, Perrin EM, Perrin AJ, Johnson SB. The role of primary care in advancing civic engagement and health equity: A conceptual framework. <i>Milbank Q</i>. 2023;1-37. doi:10.1111/1468-0009.12661'
+citation: '<b>Habib DRS</b>*, Klein LM*, Perrin EM, Perrin AJ, Johnson SB. The role of primary care in advancing civic engagement and health equity: A conceptual framework. <i>Milbank Q</i>. 2023;101(3):731-767. doi:10.1111/1468-0009.12661'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2023primary.pdf)
 
