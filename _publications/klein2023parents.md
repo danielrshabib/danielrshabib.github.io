@@ -7,7 +7,7 @@ date: 2023-09-27
 venue: 'American Journal of Health Promotion'
 clink: 'https://doi.org/10.1177/08901171231204480'
 purl: '/files/klein2023parents.pdf'
-citation: 'Klein LM, <b>Habib DRS</b>, Edwards LV, Hager ER, Berry AA, Connor KA, Calderon G, Liu Y, Johnson SB. Parents’ trust in COVID-19 messengers and implications for vaccination. Am J Health Promot. 2023. doi:10.1177/08901171231204480'
+citation: 'Klein LM, <b>Habib DRS</b>, Edwards LV, Hager ER, Berry AA, Connor KA, Calderon G, Liu Y, Johnson SB. Parents’ trust in COVID-19 messengers and implications for vaccination. <i>Am J Health Promot</i>. 2023. doi:10.1177/08901171231204480'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/klein2023parents.pdf)
 
