@@ -7,7 +7,7 @@ date: 2023-11-23
 venue: 'Frontiers in Public Health'
 clink: 'https://doi.org/10.3389/fpubh.2023.1275975'
 purl: '/files/giorgi2023linguistic.pdf'
-citation: 'Giorgi S, </b>Habib DRS<b>, Bellew D, Sherman G, Curtis B. A linguistic analysis of dehumanization toward substance use across three decades of news articles. </i>Front Public Health<i>. 2023;11:1275975. doi:10.3389/fpubh.2023.1275975'
+citation: 'Giorgi S, <b>Habib DRS</b>, Bellew D, Sherman G, Curtis B. A linguistic analysis of dehumanization toward substance use across three decades of news articles. <i>Front Public Health</i>. 2023;11:1275975. doi:10.3389/fpubh.2023.1275975'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/giorgi2023linguistic.pdf)
 
