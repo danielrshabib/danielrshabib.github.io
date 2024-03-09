@@ -15,9 +15,12 @@ redirect_from:
 
 ## Clinical Research
 
+* April 2023-Present: **Trial Coordinator and Research Assistant**
+  * Section of Surgical Sciences, Vanderbilt University Medical Center
+  * Mentor: Aimal Khan, MD
 * Nov 2022-Present: **Research Assistant**
   * Surgical Analytics Lab & Surgical Ethics Program, Vanderbilt University Medical Center
-  * Mentor: Alexander Langerman, MD, SM, FACS
+  * Mentor: Alexander Langerman, MD, SM
 * Jan 2022-July 2022: **Research Program Coordinator**
   * Department of Pediatrics, Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
@@ -57,7 +60,9 @@ redirect_from:
 
 ## Community Service
 
-* Aug 2022-Present: **Shade Tree Free Clinic Coordinator**, Vanderbilt University School of Medicine
+* Jan 2024-Present: **Student Mentor**, Future is NOW (Non-violent Options Win) Nashville – Future Healers Network
+* Jan 2024-Present: **Health Educator**, Social Mission Committee
+* Aug 2022-Present: **Shade Tree Free Clinic Coordinator and Student Clinician**, Vanderbilt University School of Medicine
 * Jan 2021-July 2022: **Community Health Design & Social Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
 * Dec 2019-Feb 2020: **Hospice Volunteer**, Gilchrist Hospice Center
 * June 2015-Aug 2019: **Hospital Volunteer**, LewisGale Medical Center
