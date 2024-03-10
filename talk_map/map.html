@@ -18,11 +18,18 @@
     <body>
 
     	<div id="map"></div>
-    	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
+    	<span> </span>
     	<script type="text/javascript">
-    		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    		var maxScreenDimension = window.innerHeight > window.innerWidth ? window.innerHeight : window.innerWidth;
+            var tileSize = 256;
+            var maxTiles = Math.floor(maxScreenDimension / tileSize);
+            minZoom = Math.ceil(Math.log(maxTiles) / Math.log(2));
+            minZoom = minZoom < 2 ? 2 : minZoom;
+            
+            var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
-              attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+                minZoom: minZoom,
+              attribution: 'Tiles &copy; Esri'
                     }),
     			latlng = L.latLng(30, 10);
     		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
@@ -30,6 +37,18 @@
     			showCoverageOnHover: false,
     			maxClusterRadius: 80
     			});
+
+            
+            L.control.scale().addTo(map);
+            
+            var southWest = L.latLng(-89.98155760646617, -180),
+            northEast = L.latLng(89.99346179538875, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            map.setMaxBounds(bounds);
+            map.on('drag', function() {
+                map.panInsideBounds(bounds, { animate: false });
+            });
     		for (var i = 0; i < addressPoints.length; i++) {
     			var a = addressPoints[i];
     			var title = a[0];
