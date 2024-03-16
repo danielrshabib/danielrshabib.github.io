@@ -25,7 +25,7 @@ var addressPoints = [
     -71.060511
   ],
   [
-    "Baltimore, MD, USA | American Society of Colon & Rectal Surgeons Annual Scientific Meeting | 2024 | NCCN guideline adherence in rectal cancer and outcomes in low-volume vs. high-volume centers",
+    "Baltimore, MD, USA | American Society of Colon and Rectal Surgeons Annual Scientific Meeting | 2024 | NCCN guideline adherence in rectal cancer and outcomes in low-volume vs. high-volume centers",
     39.2908816,
     -76.610759
   ],
