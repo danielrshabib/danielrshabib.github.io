@@ -72,10 +72,10 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
     <div class="column2">
       <h2>Interests</h2>
       <ul>
-        <li>Ethics</li>
+        <li>Biomedical Ethics</li>
+        <li>Head and Neck Cancer</li>
         <li>Health Equity</li>
-        <li>Social Determinants of Health</li>
-        <li>Stigma</li>
+        <li>Medical Technology</li>
         <li>Surgical Outcomes</li>
       </ul>
     </div>
