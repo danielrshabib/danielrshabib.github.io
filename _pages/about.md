@@ -86,7 +86,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 ![Vanderbilt University School of Medicine Class of 2026 photo in white coats](../images/VUSMClassPhoto.png)
 
 <br>
-During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19-related information, children’s early determinants of illness, and primary care being central to improving both health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I researched stigmatizing online substance use discussions using natural language processing (NLP) and machine learning. 
+During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19-related information, children’s early determinants of illness, and primary care being central to improving both health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
 
 Throughout my medical journey, I aspire to continue becoming a better person through each of my patients as well as spearheading surgical outcomes research, medical technology innovation, and advocacy for equitable healthcare and patients’ rights.
 
