@@ -11,5 +11,4 @@ citation: 'Stevens MN, Prasad K, Sharma RK, Gallant J-N, <b>Habib DRS</b>, Lange
 ---
 [Download PDF here](http://danielrshabib.github.io/files/stevens2024comparative.pdf)
 
-
 This study looked at patients who underwent microvascular free flap (FF) reconstruction for head and neck surgery and compared outcomes before and after a change in protocol from immediate postoperative monitoring in the ICU versus the general ward. We found that shifting care to the general ward decreased ICU length of stay significantly without increasing complications or compromising FF success rates. While there was a rise in rapid response team calls post-protocol, the overall findings suggest that managing these patients on the general ward is safe and could help conserve ICU resources.
