@@ -6,7 +6,7 @@ excerpt: 'Despite the increasing use of immunotherapy in treating various cancer
 date: 2024-05-27
 venue: 'Journal of Surgical Oncology'
 clink: 'https://doi.org/10.1002/jso.27694'
-purl: '/files/shou2024impact'
+purl: '/files/shou2024impact.pdf'
 citation: 'Shou M*, <b>Habib DRS</b>*, Idrees K, Hawkins A, Ford M, Lee H, Khan B, Khan A. Impact of neoadjuvant immunotherapy on postoperative complications after surgery for rectal cancer. <i>J Surg Onc</i>. doi:10.1002/jso.27694'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/shou2024impact.pdf)
