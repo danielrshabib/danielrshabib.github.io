@@ -11,6 +11,7 @@
   </div>
 </div>
 
+<!-- Google Translate Element -->
 <div id="google_translate_element" style="display: none;"></div>
 
 <!-- Google Translate Script -->
@@ -20,6 +21,7 @@
     new google.translate.TranslateElement({
       pageLanguage: 'en',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      gaTrack: true,
       autoDisplay: false
     }, 'google_translate_element');
   }
@@ -29,19 +31,15 @@
     if (dropdown) {
       dropdown.style.display = 'block';
       dropdown.focus();
+      dropdown.dispatchEvent(new MouseEvent('mousedown', {bubbles: true, cancelable: true, view: window}));
     } else {
-      console.log('Dropdown not found');
+      console.error('Translation dropdown not found');
     }
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    const translateButton = document.getElementById('translateButton');
-    if (translateButton) {
-      translateButton.addEventListener('click', function() {
-        triggerTranslate();
-      });
-    } else {
-      console.log('Translate button not found');
-    }
+    document.getElementById('translateButton').addEventListener('click', function() {
+      triggerTranslate();
+    });
   });
 </script>
