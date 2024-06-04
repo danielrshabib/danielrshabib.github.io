@@ -1,3 +1,7 @@
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
 .Footer_inner_left {
   width: 49%;
   float: left;
@@ -25,9 +29,9 @@
   margin-top: 2.25em;
   color: $border-color; /* changed from mix(#fff, $gray, 25%); */
   -webkit-animation: intro 0.3s both;
-  animation: intro 0.3s both;
+          animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
+          animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $border-color;
 
@@ -108,7 +112,7 @@
   font: inherit;
   cursor: pointer;
   padding: 0;
-  margin-left: 5px; /* Adjust the spacing as needed */
+  margin-left: 4px; /* Adjust the spacing as needed */
   text-decoration: underline;
 }
 
