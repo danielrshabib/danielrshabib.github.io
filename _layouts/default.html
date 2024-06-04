@@ -15,6 +15,28 @@
 
     <!-- Google Translate Script -->
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+    <div id="google_translate_element" style="display: none;"></div>
+
+    <!-- Custom JavaScript -->
     <script type="text/javascript">
       function setInitialLanguage() {
         const userLang = navigator.language || navigator.userLanguage;
@@ -53,26 +75,5 @@
         });
       });
     </script>
-</head>
-
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-    <div id="google_translate_element" style="display: none;"></div>
-
 </body>
 </html>
