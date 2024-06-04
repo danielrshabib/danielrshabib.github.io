@@ -17,8 +17,7 @@
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </head>
 
-
-  <body>
+<body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -38,38 +37,23 @@
 
     <!-- Custom JavaScript -->
     <script type="text/javascript">
-      function setInitialLanguage() {
-        const userLang = navigator.language || navigator.userLanguage;
-        const langCode = userLang.split('-')[0];
-        if (langCode !== 'en') {
-          const googleFrame = document.createElement('iframe');
-          googleFrame.id = 'google_translate_element';
-          googleFrame.style.display = 'none';
-          document.body.appendChild(googleFrame);
-          googleFrame.contentWindow.document.open();
-          googleFrame.contentWindow.document.write('<html><head>' +
-            '<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"><\/script>' +
-            '</head><body></body></html>');
-          googleFrame.contentWindow.document.close();
-        }
-      }
-
       function googleTranslateElementInit() {
         new google.translate.TranslateElement({
           pageLanguage: 'en',
           layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-          gaTrack: true,
           autoDisplay: false
         }, 'google_translate_element');
       }
 
       function triggerTranslate() {
-        const dropdown = document.getElementsByClassName('goog-te-combo')[0];
-        dropdown.dispatchEvent(new Event('mousedown'));
+        const dropdown = document.querySelector('.goog-te-combo');
+        if (dropdown) {
+          dropdown.style.display = 'block';
+          dropdown.focus();
+        }
       }
 
       document.addEventListener('DOMContentLoaded', function() {
-        setInitialLanguage();
         document.getElementById('translateButton').addEventListener('click', function() {
           triggerTranslate();
         });
