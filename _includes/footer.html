@@ -29,6 +29,7 @@
   function triggerTranslate() {
     const dropdown = document.querySelector('.goog-te-combo');
     if (dropdown) {
+      console.log('Dropdown found', dropdown);  // Debugging line
       dropdown.style.display = 'block';
       dropdown.focus();
       dropdown.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true, view: window }));
