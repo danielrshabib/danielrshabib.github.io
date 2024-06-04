@@ -1,16 +1,13 @@
 {% include base_path %}
 
-<footer>
-  {% include footer/custom.html %}
-
-  <div class="page__footer-copyright">
-    <div class="Footer_inner_left">
-      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. |
-      <!-- Translate Button -->
-      <button id="translateButton" class="footer-translate-button">Translate</button>
-    </div>
-    <div class="Footer_inner_right">
-      <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
-    </div>
+<div class="page__footer-copyright">
+  <div class="Footer_inner_left">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. |
+    <!-- Translate Button -->
+    <button id="translateButton" class="footer-translate-button">Translate</button>
   </div>
-</footer>
+  <div class="Footer_inner_right">
+    <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
+  </div>
+</div>
+
