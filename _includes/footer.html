@@ -10,37 +10,3 @@
     <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
   </div>
 </div>
-
-<!-- Google Translate Element -->
-<div id="google_translate_element" style="display: none;"></div>
-
-<!-- Google Translate Script -->
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-      gaTrack: true,
-      autoDisplay: false
-    }, 'google_translate_element');
-  }
-
-  function triggerTranslate() {
-    const dropdown = document.querySelector('.goog-te-combo');
-    if (dropdown) {
-      console.log('Dropdown found', dropdown);  // Debugging line
-      dropdown.style.display = 'block';
-      dropdown.focus();
-      dropdown.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true, view: window }));
-    } else {
-      console.error('Translation dropdown not found');
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('translateButton').addEventListener('click', function() {
-      triggerTranslate();
-    });
-  });
-</script>
