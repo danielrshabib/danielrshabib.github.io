@@ -9,22 +9,11 @@
   </div>
 </div>
 
-<button class="footer-translate-button" onclick="toggleTranslate()">Translate</button>
-
 <div id="google_translate_element"></div>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-
-function toggleTranslate() {
-  var elem = document.getElementById('google_translate_element');
-  if (elem.style.display === 'block') {
-    elem.style.display = 'none';
-  } else {
-    elem.style.display = 'block';
-  }
 }
 </script>
 
