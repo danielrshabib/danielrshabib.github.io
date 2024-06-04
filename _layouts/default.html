@@ -44,27 +44,8 @@ layout: compress
       document.addEventListener('DOMContentLoaded', function() {
         setInitialLanguage();
 
-        const translations = {
-          'en': 'Translate',
-          'es': 'Traducir',
-          'fr': 'Traduire',
-          'de': 'Übersetzen',
-          'it': 'Tradurre',
-          'pt': 'Traduzir',
-          'zh': '翻译',
-          'ja': '翻訳',
-          'ko': '번역',
-          'ar': 'ترجمة'
-        };
-        const translateButton = document.getElementById('translateButton');
-        const userLang = navigator.language || navigator.userLanguage;
-        const langCode = userLang.split('-')[0];
-        translateButton.textContent = translations[langCode] || translations['en'];
-
-        translateButton.addEventListener('click', function() {
-          document.getElementById('google_translate_element').style.display = 'block';
-          googleTranslateElementInit();
-        });
+        document.getElementById('google_translate_element').style.display = 'block';
+        googleTranslateElementInit();
       });
     </script>
   </head>
@@ -80,6 +61,7 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
+        <button id="translateButton" style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; margin-left: 10px;">Translate</button>
       </footer>
     </div>
 
