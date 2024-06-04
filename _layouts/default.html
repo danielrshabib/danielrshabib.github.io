@@ -62,24 +62,18 @@ layout: compress
     </script>
 </head>
 
+<body>
 
-  <body>
+{% include browser-upgrade.html %}
+{% include masthead.html %}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+{{ content }}
 
-    {{ content }}
+{% include footer.html %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+{% include scripts.html %}
 
-    {% include scripts.html %}
-
-    <div id="google_translate_element" style="display: none;"></div>
+<div id="google_translate_element" style="display: none;"></div>
 
 </body>
 </html>
