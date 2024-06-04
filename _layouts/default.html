@@ -33,10 +33,6 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- Translate Button -->
-    <button id="translateButton" style="position: fixed; top: 10px; right: 10px; z-index: 1000;">Translate</button>
-    <div id="google_translate_element" style="display: none;"></div>
-
     {{ content }}
 
     <div class="page__footer">
@@ -48,34 +44,33 @@ layout: compress
 
     {% include scripts.html %}
 
+    <div id="google_translate_element" style="display: none;"></div>
     <script type="text/javascript">
-      // Language translations for the "Translate" button
-      const translations = {
-        'en': 'Translate',
-        'es': 'Traducir',
-        'fr': 'Traduire',
-        'de': 'Übersetzen',
-        'it': 'Tradurre',
-        'pt': 'Traduzir',
-        'zh': '翻译',
-        'ja': '翻訳',
-        'ko': '번역',
-        // Add more translations as needed
-      };
+      document.addEventListener('DOMContentLoaded', function() {
+        // Get the user's browser language
+        const userLang = navigator.language || navigator.userLanguage;
 
-      // Get the user's browser language
-      const userLang = navigator.language || navigator.userLanguage;
+        // Translate the "Translate" button text based on the user's language
+        const translateButton = document.getElementById('translateButton');
+        const translations = {
+          'en': 'Translate',
+          'es': 'Traducir',
+          'fr': 'Traduire',
+          'de': 'Übersetzen',
+          'it': 'Tradurre',
+          'pt': 'Traduzir',
+          'zh': '翻译',
+          'ja': '翻訳',
+          'ko': '번역',
+          'ar': 'ترجمة'
+        };
+        const langCode = userLang.split('-')[0]; // Get the language code (e.g., 'en' from 'en-US')
+        translateButton.textContent = translations[langCode] || translations['en'];
 
-      // Set the button text based on the user's language
-      const translateButton = document.getElementById('translateButton');
-      const langCode = userLang.split('-')[0]; // Get the language code (e.g., 'en' from 'en-US')
-
-      // Check if the language code is in the translations object, else default to English
-      translateButton.textContent = translations[langCode] || translations['en'];
-
-      translateButton.addEventListener('click', function() {
-        document.getElementById('google_translate_element').style.display = 'block';
-        googleTranslateElementInit();
+        translateButton.addEventListener('click', function() {
+          document.getElementById('google_translate_element').style.display = 'block';
+          googleTranslateElementInit();
+        });
       });
     </script>
 
