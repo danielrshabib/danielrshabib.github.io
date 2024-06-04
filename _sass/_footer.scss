@@ -119,3 +119,25 @@
 .footer-translate-button:hover {
   text-decoration: none;
 }
+
+/* Google Translate Element Styles */
+#google_translate_element {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
+  #google_translate_element .goog-te-gadget-simple {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  #google_translate_element .goog-te-gadget-simple span,
+  #google_translate_element .goog-te-gadget-simple .goog-te-menu-value span {
+    font-size: 14px;
+  }
+}
