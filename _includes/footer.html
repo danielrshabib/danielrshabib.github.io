@@ -1,5 +1,20 @@
 {% include base_path %}
 
+<!-- Footer HTML -->
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+            includedLanguages: 'en,es,fr,de,it,pt,zh,ja,ko,ar', // Languages to include
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        }, 'google_translate_element');
+    }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <div class="page__footer-copyright">
   <div class="Footer_inner_left">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. |
@@ -8,13 +23,3 @@
     <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
   </div>
 </div>
-
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
