@@ -29,9 +29,9 @@
   margin-top: 2.25em;
   color: $border-color; /* changed from mix(#fff, $gray, 25%); */
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $border-color;
 
@@ -112,8 +112,9 @@
   font: inherit;
   cursor: pointer;
   padding: 0;
-  margin-left: 4px; /* Adjust the spacing as needed */
+  margin-top: 10px; /* Move the button lower */
   text-decoration: underline;
+  display: block; /* Ensure it takes up the full width */
 }
 
 .footer-translate-button:hover {
@@ -125,6 +126,9 @@
   display: flex;
   justify-content: center;
   padding: 10px 0;
+  margin-top: 10px; /* Add margin to separate from the button */
+  max-width: 100%; /* Ensure it doesn't exceed screen width */
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
 }
 
 /* Media query for mobile devices */
