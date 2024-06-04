@@ -50,13 +50,20 @@
         if (dropdown) {
           dropdown.style.display = 'block';
           dropdown.focus();
+        } else {
+          console.log('Dropdown not found');
         }
       }
 
       document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('translateButton').addEventListener('click', function() {
-          triggerTranslate();
-        });
+        const translateButton = document.getElementById('translateButton');
+        if (translateButton) {
+          translateButton.addEventListener('click', function() {
+            triggerTranslate();
+          });
+        } else {
+          console.log('Translate button not found');
+        }
       });
     </script>
 </body>
