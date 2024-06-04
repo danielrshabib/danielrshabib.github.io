@@ -31,7 +31,7 @@
     if (dropdown) {
       dropdown.style.display = 'block';
       dropdown.focus();
-      dropdown.dispatchEvent(new MouseEvent('mousedown', {bubbles: true, cancelable: true, view: window}));
+      dropdown.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true, view: window }));
     } else {
       console.error('Translation dropdown not found');
     }
