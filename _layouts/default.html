@@ -43,9 +43,6 @@ layout: compress
 
       document.addEventListener('DOMContentLoaded', function() {
         setInitialLanguage();
-
-        document.getElementById('google_translate_element').style.display = 'block';
-        googleTranslateElementInit();
       });
     </script>
   </head>
@@ -61,7 +58,6 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
-        <button id="translateButton" style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; margin-left: 10px;">Translate</button>
       </footer>
     </div>
 
