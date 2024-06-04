@@ -2,18 +2,29 @@
 
 <div class="page__footer-copyright">
   <div class="Footer_inner_left">
-    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. 
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Views are my own. |
   </div>
   <div class="Footer_inner_right">
     <img src="/images/website_logo_no_bg.png" alt="Initials DH within Caduceus" style="float:right;width:32px;height:32px;">
   </div>
 </div>
 
+<button class="footer-translate-button" onclick="toggleTranslate()">Translate</button>
+
 <div id="google_translate_element"></div>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+
+function toggleTranslate() {
+  var elem = document.getElementById('google_translate_element');
+  if (elem.style.display === 'block') {
+    elem.style.display = 'none';
+  } else {
+    elem.style.display = 'block';
+  }
 }
 </script>
 
