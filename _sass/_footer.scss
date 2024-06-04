@@ -2,17 +2,16 @@
    FOOTER
    ========================================================================== */
 
-
-.Footer_inner_left{
-width: 49%;
-Float: left;
-display:inline;
+.Footer_inner_left {
+  width: 49%;
+  float: left;
+  display: inline;
 }
 
-.Footer_inner_right{
-width: 49%;
-Float: right;
-display:inline;
+.Footer_inner_right {
+  width: 49%;
+  float: right;
+  display: inline;
 }
 
 .page__footer {
@@ -103,4 +102,20 @@ display:inline;
       white-space: nowrap;
     }
   }
+}
+
+/* Footer Translate Button */
+.footer-translate-button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 10px; /* Adjust the spacing as needed */
+  text-decoration: underline;
+}
+
+.footer-translate-button:hover {
+  text-decoration: none;
 }
