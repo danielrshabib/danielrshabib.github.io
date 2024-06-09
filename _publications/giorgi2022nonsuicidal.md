@@ -7,7 +7,7 @@ date: 2022-07-15
 venue: 'Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology'
 clink: 'https://doi.org/10.18653/v1/2022.clpsych-1.15'
 purl: '/files/giorgi2022nonsuicidal.pdf'
-citation: 'Giorgi S, Himelein-Wachowiak MK, <b>Habib D</b>, Ungar L, Curtis B. Nonsuicidal self-injury and substance use disorders: A shared language of addiction. In: <i>Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology</i>. Association for Computational Linguistics; 2022:177-183. doi:10.18653/v1/2022.clpsych-1.15'
+citation: 'Giorgi S, Himelein-Wachowiak MK, <b>Habib D</b>, Ungar L, Curtis B. Nonsuicidal self-injury and substance use disorders: A shared language of addiction. <i>Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology</i>. 2022:177-183. doi:10.18653/v1/2022.clpsych-1.15'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/giorgi2022nonsuicidal.pdf)
 
