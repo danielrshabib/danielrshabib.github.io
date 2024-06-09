@@ -3,11 +3,11 @@ title: "Lived experience matters: Automatic detection of stigma on social media 
 collection: publications
 permalink: /publications/giorgi2024lived
 excerpt: 'This paper examines stigma toward people who use substances (PWUS). The introduction highlights the prevalence of substance use disorders (SUDs), barriers to treatment-seeking, and the limited attention to stigma toward PWUS compared to other forms of hate speech. We recruited Amazon Mechanical Turk (MTurk) workers to label a dataset of about 5,000 public Reddit posts for stigma, and we automatically detected stigmatizing content to investigate the relationship between personal experience and stigma perception. This crowd-sourced annotation task shows that annotators who use substances or know someone in SUD treatment are more likely to identify stigmatizing content. Integrating person-level demographics with comment-level language in a supervised machine learning framework called Jury Learning achieves a classification accuracy of 0.69, a 17% improvement over using language alone. We release our stigma-annotated dataset, demonstrate the influence of lived experience on identifying stigmatizing content, discover linguistic markers of stigma based on perspectives of individuals with substance use experience, and highlight the importance of understanding the social context of machine learning tasks.'
-date: 2023-07-16
+date: 2024-05-28
 venue: 'Proceedings of the Eighteenth International AAAI Conference on Web and Social Media'
-clink: 'https://doi.org/10.48550/arXiv.2302.02064'
+clink: 'https://doi.org/10.1609/icwsm.v18i1.31328'
 purl: '/files/giorgi2024lived.pdf'
-citation: 'Giorgi S, Bellew D, <b>Habib DRS</b>, Sedoc J, Smitterberg C, Devoto A, Himelein-Wachowiak MK, Curtis B. Lived experience matters: Automatic detection of stigma on social media toward people who use substances. In: <i>Proceedings of the Eighteenth International AAAI Conference on Web and Social Media</i>. Association for the Advancement of Artificial Intelligence. Preprint posted online July 16, 2023. doi:10.48550/arXiv.2302.02064'
+citation: 'Giorgi S, Bellew D, <b>Habib DRS</b>, Sedoc J, Smitterberg C, Devoto A, Himelein-Wachowiak MK, Curtis B. Lived experience matters: Automatic detection of stigma on social media toward people who use substances. <i>Proceedings of the International AAAI Conference on Web and Social Media</i>. 2024;18(1):474-487. doi:10.1609/icwsm.v18i1.31328'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/giorgi2024lived.pdf)
 
