@@ -1,7 +1,7 @@
 ---	
 title: "NCCN guideline adherence in rectal cancer and outcomes in low-volume vs. high-volume centers"	
 collection: talks	
-permalink: /talks/Shroder2024mood
+permalink: /talks/shroder2024mood
 date: 2024-06-02
 type: "Poster"
 venue: 'American Society of Colon and Rectal Surgeons Annual Scientific Meeting'
