@@ -125,6 +125,8 @@
   display: flex;
   justify-content: center;
   padding: 10px 0;
+  margin-top: 10px; /* Add margin-top to create space */
+  clear: both; /* Ensure it clears previous floats */
 }
 
 /* Media query for mobile devices */
