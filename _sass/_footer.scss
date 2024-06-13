@@ -1,43 +1,3 @@
-/* Footer Translate Button */
-.footer-translate-button {
-  background: none;
-  border: none;
-  color: inherit;
-  font: inherit;
-  cursor: pointer;
-  padding: 0;
-  margin-top: 10px; /* Adjust the top margin to create space */
-  text-decoration: underline;
-}
-
-.footer-translate-button:hover {
-  text-decoration: none;
-}
-
-/* Google Translate Element Styles */
-#google_translate_element {
-  display: flex;
-  justify-content: center;
-  padding: 10px 0;
-  margin-bottom: 10px; /* Add margin-bottom to create space */
-  clear: both; /* Ensure it clears previous floats */
-}
-
-/* Media query for mobile devices */
-@media (max-width: 600px) {
-  #google_translate_element .goog-te-gadget-simple {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-  }
-
-  #google_translate_element .goog-te-gadget-simple span,
-  #google_translate_element .goog-te-gadget-simple .goog-te-menu-value span {
-    font-size: 14px;
-  }
-}
-
 /* ==========================================================================
    FOOTER
    ========================================================================== */
@@ -129,5 +89,45 @@
     a {
       white-space: nowrap;
     }
+  }
+}
+
+/* Footer Translate Button */
+.footer-translate-button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  margin-top: 10px; /* Adjust the top margin to create space */
+  text-decoration: underline;
+}
+
+.footer-translate-button:hover {
+  text-decoration: none;
+}
+
+/* Google Translate Element Styles */
+#google_translate_element {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  margin-bottom: 10px; /* Add margin-bottom to create space */
+  clear: both; /* Ensure it clears previous floats */
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
+  #google_translate_element .goog-te-gadget-simple {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  #google_translate_element .goog-te-gadget-simple span,
+  #google_translate_element .goog-te-gadget-simple .goog-te-menu-value span {
+    font-size: 14px;
   }
 }
