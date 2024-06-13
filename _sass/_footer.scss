@@ -2,6 +2,18 @@
    FOOTER
    ========================================================================== */
 
+.Footer_inner_left {
+  width: 49%;
+  float: left;
+  display: inline;
+}
+
+.Footer_inner_right {
+  width: 49%;
+  float: right;
+  display: inline;
+}
+
 .page__footer {
   @include clearfix;
   float: left;
@@ -15,13 +27,13 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 2.25em;
-  color: $border-color; /* Ensure you have defined $border-color */
+  color: $border-color; /* changed from mix(#fff, $gray, 25%); */
   -webkit-animation: intro 0.3s both;
-  animation: intro 0.3s both;
+          animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
-  background-color: $lighter-gray; /* Ensure you have defined $lighter-gray */
-  border-top: 1px solid $border-color; /* Ensure you have defined $border-color */
+          animation-delay: 0.45s;
+  background-color: $lighter-gray;
+  border-top: 1px solid $border-color;
 
   footer {
     @include clearfix;
@@ -32,7 +44,7 @@
     padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
-      max-width: $x-large; /* Ensure you have defined $x-large breakpoint */
+      max-width: $x-large;
     }
   }
 
@@ -49,14 +61,14 @@
   .fab,
   .far,
   .fal {
-    color: $border-color; /* Ensure you have defined $border-color */
+    color: $border-color; /* changed from mix(#fff, $gray, 25%); */;
   }
 }
 
 .page__footer-copyright {
-  font-family: $global-font-family; /* Ensure you have defined $global-font-family */
-  font-size: $type-size-7; /* Ensure you have defined $type-size-7 */
-  color: $border-color; /* Ensure you have defined $border-color */
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+  /* add color: $border-color; to make blue */
 }
 
 .page__footer-follow {
@@ -70,8 +82,8 @@
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: $sans-serif-narrow; /* Ensure you have defined $sans-serif-narrow */
-    font-size: $type-size-6; /* Ensure you have defined $type-size-6 */
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
     text-transform: uppercase;
   }
 
@@ -100,7 +112,7 @@
   font: inherit;
   cursor: pointer;
   padding: 0;
-  margin-top: 10px; /* Adjust the top margin to create space */
+  margin-left: 4px; /* Adjust the spacing as needed */
   text-decoration: underline;
 }
 
@@ -113,7 +125,7 @@
   display: flex;
   justify-content: center;
   padding: 10px 0;
-  margin-bottom: 10px; /* Add margin-bottom to create space */
+  margin-top: 10px; /* Add margin-top to create space */
   clear: both; /* Ensure it clears previous floats */
 }
 
