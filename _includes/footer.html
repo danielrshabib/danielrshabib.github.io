@@ -11,50 +11,9 @@
   </div>
 </div>
 
-<div class="page__footer-translate">
-  <div id="google_translate_element"></div>
-</div>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-var pageLanguage = 'en'; // Default to English
-
-if (navigator.geolocation) {
-  navigator.geolocation.getCurrentPosition(function(position) {
-    $.getJSON('https://nominatim.openstreetmap.org/reverse', {
-      lat: position.coords.latitude,
-      lon: position.coords.longitude,
-      format: 'json'
-    }, function(result) {
-      var countryCode = result.address.country_code.toUpperCase();
-      var languageMap = {
-        "ES": "es", "MX": "es", "AR": "es", "CO": "es", "PE": "es", "VE": "es", "CL": "es", "EC": "es", "GT": "es", "CU": "es", "BO": "es", "DO": "es", "HN": "es", "PY": "es", "SV": "es", "NI": "es", "CR": "es", "UY": "es", "PA": "es", "GQ": "es", // Spanish
-        "FR": "fr", "CA": "fr", "BE": "fr", "CH": "fr", "MC": "fr", "CM": "fr", "CI": "fr", "SN": "fr", "ML": "fr", "BF": "fr", "NE": "fr", "TG": "fr", "BI": "fr", "BJ": "fr", "GA": "fr", "GN": "fr", "CD": "fr", "CF": "fr", "TD": "fr", "KM": "fr", // French
-        "DE": "de", "AT": "de", "LI": "de", "LU": "de", // German
-        "PT": "pt", "BR": "pt", "MZ": "pt", "AO": "pt", // Portuguese
-        "CN": "zh-CN", "TW": "zh-TW", "SG": "zh-CN", // Chinese
-        "JP": "ja", // Japanese
-        "KR": "ko", // Korean
-        "SA": "ar", "AE": "ar", "EG": "ar", "IQ": "ar", "JO": "ar", "KW": "ar", "LB": "ar", "LY": "ar", "MA": "ar", "OM": "ar", "QA": "ar", "SY": "ar", "TN": "ar", "YE": "ar", "BH": "ar", "DZ": "ar", "SO": "ar", "MR": "ar", "KM": "ar", "DJ": "ar", "PS": "ar", // Arabic
-        "GR": "el", "CY": "el", // Greek
-        "RU": "ru", "BY": "ru", "KZ": "ru", "KG": "ru", "MD": "ru", "UA": "ru", // Russian
-        "IN": "hi", "FJ": "hi" // Hindi
-      };
-
-      pageLanguage = languageMap[countryCode] || 'en'; // Default to English if country code is not mapped
-
-      // Initialize Google Translate element after determining the language
-      googleTranslateElementInit();
-    });
-  });
-}
-
+<script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: pageLanguage, 
-    includedLanguages: 'en,es,fr,de,pt,zh,ja,ko,ar,el,ru,hi', 
-    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-  }, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: navigator.language, includedLanguages: 'en,es,fr,de,pt,zh,ja,ko,ar,el,ru,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
 
