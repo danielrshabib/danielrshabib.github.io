@@ -15,13 +15,46 @@
   <div id="google_translate_element"></div>
 </div>
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+if (navigator.geolocation) {
+  navigator.geolocation.getCurrentPosition(function(position) {
+    $.getJSON('http://ws.geonames.org/countryCode', {
+      lat: position.coords.latitude,
+      lng: position.coords.longitude,
+      type: 'JSON'
+    }, function(result) {
+      var countryCode = result.countryCode;
+      var languageMap = {
+        "US": "en", "GB": "en", "AU": "en", "CA": "en", "IN": "en", "IE": "en", "NZ": "en", "ZA": "en", // English
+        "ES": "es", "MX": "es", "AR": "es", "CO": "es", "PE": "es", "VE": "es", "CL": "es", "EC": "es", "GT": "es", "CU": "es", "BO": "es", "DO": "es", "HN": "es", "PY": "es", "SV": "es", "NI": "es", "CR": "es", "UY": "es", "PA": "es", "GQ": "es", // Spanish
+        "FR": "fr", "CA": "fr", "BE": "fr", "CH": "fr", "LU": "fr", "MC": "fr", "CM": "fr", "CI": "fr", "SN": "fr", "ML": "fr", "BF": "fr", "NE": "fr", "TG": "fr", "BI": "fr", "BJ": "fr", "GA": "fr", "GN": "fr", "CD": "fr", "CF": "fr", "TD": "fr", "KM": "fr", // French
+        "DE": "de", "AT": "de", "CH": "de", "LI": "de", "LU": "de", "BE": "de", // German
+        "PT": "pt", "BR": "pt", "MZ": "pt", "AO": "pt", "GW": "pt", "ST": "pt", "CV": "pt", // Portuguese
+        "CN": "zh-CN", "TW": "zh-TW", "SG": "zh-CN", "MY": "zh-CN", // Chinese
+        "JP": "ja", // Japanese
+        "KR": "ko", "KP": "ko", // Korean
+        "SA": "ar", "AE": "ar", "EG": "ar", "IQ": "ar", "JO": "ar", "KW": "ar", "LB": "ar", "LY": "ar", "MA": "ar", "OM": "ar", "QA": "ar", "SY": "ar", "TN": "ar", "YE": "ar", "BH": "ar", "DZ": "ar", "SO": "ar", "MR": "ar", "KM": "ar", "DJ": "ar", "PS": "ar", // Arabic
+        "GR": "el", "CY": "el", // Greek
+        "RU": "ru", "BY": "ru", "KZ": "ru", "KG": "ru", "MD": "ru", "UA": "ru", // Russian
+        "IN": "hi", "FJ": "hi", // Hindi
+        // Add other country codes and their respective languages as needed
+      };
 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: navigator.language, includedLanguages: 'en,es,fr,de,pt,zh,ja,ko,ar,el,ru,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      var pageLanguage = languageMap[countryCode] || 'en'; // Default to English if country code is not mapped
+
+      googleTranslateElementInit(pageLanguage);
+    });
+  });
+}
+
+function googleTranslateElementInit(pageLanguage) {
+  new google.translate.TranslateElement({
+    pageLanguage: pageLanguage, 
+    includedLanguages: 'en,es,fr,de,pt,zh,ja,ko,ar,el,ru,hi', 
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
 }
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-
