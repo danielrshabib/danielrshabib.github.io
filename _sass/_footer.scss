@@ -109,22 +109,25 @@
 
   .translate-icons {
     font-size: 18px;
+    display: flex;
+    align-items: center; /* Center icon vertically */
   }
 
   #google_translate_element {
     display: flex;
     align-items: center;
-    padding: 10px 0;
+    padding: 15px 20px; /* Adjust padding to increase button size */
     margin-top: 15px; /* Adjust margin-top as needed */
     clear: both;
+    cursor: pointer; /* Ensure cursor is pointer */
   }
 
   .translate-icons:first-child {
-    margin-right: 15px; /* Space between left icon and translate button */
+    margin-right: 10px; /* Space between left icon and translate button */
   }
 
   .translate-icons:last-child {
-    margin-left: 15px; /* Space between translate button and right icon */
+    margin-left: 10px; /* Space between translate button and right icon */
   }
 }
 
