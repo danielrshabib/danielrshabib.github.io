@@ -29,9 +29,9 @@
   margin-top: 2.25em;
   color: $border-color; /* changed from mix(#fff, $gray, 25%); */
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $border-color;
 
@@ -111,17 +111,26 @@
   align-items: center;
 
   .translate-icons {
-    margin: 0 10px; /* Adjust spacing as needed */
-    font-size: 14px; /* Adjust size as needed */
+    font-size: 14px;
+  }
+
+  #google_translate_element {
+    display: flex;
+    align-items: center; /* Center elements vertically */
+    padding: 10px 0;
+    margin-top: 10px; /* Add margin-top to create space */
+    clear: both; /* Ensure it clears previous floats */
+  }
+
+  .translate-icons:first-child {
+    margin-right: 10px; /* Space between left icon and translate button */
+  }
+
+  .translate-icons:last-child {
+    margin-left: 10px; /* Space between translate button and right icon */
   }
 }
 
-/* Google Translate Element Styles */
-#google_translate_element {
-  padding: 10px 0;
-  margin-top: 10px; /* Add margin-top to create space */
-  clear: both; /* Ensure it clears previous floats */
-}
 /* Media query for mobile devices */
 @media (max-width: 600px) {
   #google_translate_element .goog-te-gadget-simple {
