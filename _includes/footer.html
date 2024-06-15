@@ -13,7 +13,7 @@
     <div class="translate-icons" id="translate-language">
       <i class="fa-solid fa-language"></i> <!-- Font Awesome language icon -->
     </div>
-    <div id="google_translate_element"></div>
+    <div id="google_translate_element" style="display: none;"></div> <!-- Hide initially -->
     <div class="translate-icons">
       <i class="fa-solid fa-globe"></i> <!-- Font Awesome globe icon -->
     </div>
@@ -27,9 +27,16 @@ function googleTranslateElementInit() {
 
 document.addEventListener('DOMContentLoaded', function() {
   const languageIcon = document.getElementById('translate-language');
+  const translateElement = document.getElementById('google_translate_element');
+
   languageIcon.addEventListener('click', function() {
-    // Trigger translation element initialization
-    googleTranslateElementInit();
+    // Toggle visibility of the Google Translate element
+    if (translateElement.style.display === 'none') {
+      translateElement.style.display = 'block';
+      googleTranslateElementInit(); // Initialize Google Translate
+    } else {
+      translateElement.style.display = 'none';
+    }
   });
 });
 </script>
