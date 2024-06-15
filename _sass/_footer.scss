@@ -129,6 +129,14 @@
   clear: both; /* Ensure it clears previous floats */
 }
 
+/* Font Awesome Icons */
+.translate-icons {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 5px; /* Adjust spacing as needed */
+  font-size: 10px; /* Adjust size as needed */
+}
+
 /* Media query for mobile devices */
 @media (max-width: 600px) {
   #google_translate_element .goog-te-gadget-simple {
