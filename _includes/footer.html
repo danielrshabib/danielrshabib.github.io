@@ -10,35 +10,12 @@
     </div>
   </div>
   <div class="page__footer-translate">
-    <div class="translate-icons" id="translate-language">
-      <i class="fa-solid fa-language"></i> <!-- Font Awesome language icon -->
-    </div>
-    <div id="google_translate_element" style="display: none;"></div> <!-- Hide initially -->
-    <div class="translate-icons">
-      <i class="fa-solid fa-globe"></i> <!-- Font Awesome globe icon -->
-    </div>
+    <div id="google_translate_element"></div>
   </div>
 </div>
-
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: navigator.language, includedLanguages: 'en,es,fr,de,pt,zh,ja,ko,ar,el,ru,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
-
-document.addEventListener('DOMContentLoaded', function() {
-  const languageIcon = document.getElementById('translate-language');
-  const translateElement = document.getElementById('google_translate_element');
-
-  languageIcon.addEventListener('click', function() {
-    // Toggle visibility of the Google Translate element
-    if (translateElement.style.display === 'none') {
-      translateElement.style.display = 'block';
-      googleTranslateElementInit(); // Initialize Google Translate
-    } else {
-      translateElement.style.display = 'none';
-    }
-  });
-});
 </script>
-
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
