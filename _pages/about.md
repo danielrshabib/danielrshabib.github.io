@@ -14,7 +14,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 <html>
 <head>
   <!-- Add the Font Awesome CSS link below -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   <!-- Add any necessary meta tags, CSS, or other dependencies in the head section -->
   <style>
     /* Apply CSS styles here */
