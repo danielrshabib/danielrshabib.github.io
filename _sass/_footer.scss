@@ -104,37 +104,23 @@
   }
 }
 
-/* Footer Translate Button */
-.footer-translate-button {
-  background: none;
-  border: none;
-  color: inherit;
-  font: inherit;
-  cursor: pointer;
-  padding: 0;
-  margin-left: 4px; /* Adjust the spacing as needed */
-  text-decoration: underline;
-}
+/* Footer Translate Button and Icons */
+.page__footer-translate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-.footer-translate-button:hover {
-  text-decoration: none;
+  .translate-icons {
+    margin: 0 10px; /* Adjust spacing as needed */
+    font-size: 14px; /* Adjust size as needed */
+  }
 }
 
 /* Google Translate Element Styles */
 #google_translate_element {
-  display: flex;
-  justify-content: center;
   padding: 10px 0;
   margin-top: 10px; /* Add margin-top to create space */
   clear: both; /* Ensure it clears previous floats */
-}
-
-/* Font Awesome Icons */
-.translate-icons {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0 5px; /* Adjust spacing as needed */
-  font-size: 10px; /* Adjust size as needed */
 }
 
 /* Media query for mobile devices */
