@@ -21,16 +21,13 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  position: relative; /* Adjusted positioning */
   /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
-  height: auto;
+  bottom: 0;
   /* sticky footer fix end */
   margin-top: 2.25em;
   color: $border-color; /* changed from mix(#fff, $gray, 25%); */
-  -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
-  -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $border-color;
@@ -68,7 +65,6 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  /* add color: $border-color; to make blue */
 }
 
 .page__footer-follow {
@@ -109,6 +105,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-top: 20px; /* Adjust top padding as needed */
 
   .translate-icons {
     font-size: 18px;
@@ -116,10 +113,10 @@
 
   #google_translate_element {
     display: flex;
-    align-items: center; /* Center elements vertically */
+    align-items: center;
     padding: 10px 0;
-    margin-top: 40px; /* Add margin-top to create space */
-    clear: both; /* Ensure it clears previous floats */
+    margin-top: 20px; /* Adjust margin-top as needed */
+    clear: both;
   }
 
   .translate-icons:first-child {
