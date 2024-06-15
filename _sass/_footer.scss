@@ -118,16 +118,16 @@
     display: flex;
     align-items: center; /* Center elements vertically */
     padding: 10px 0;
-    margin-top: 20px; /* Add margin-top to create space */
+    margin-top: 40px; /* Add margin-top to create space */
     clear: both; /* Ensure it clears previous floats */
   }
 
   .translate-icons:first-child {
-    margin-right: 15px; /* Space between left icon and translate button */
+    margin-right: 25px; /* Space between left icon and translate button */
   }
 
   .translate-icons:last-child {
-    margin-left: 15px; /* Space between translate button and right icon */
+    margin-left: 25px; /* Space between translate button and right icon */
   }
 }
 
