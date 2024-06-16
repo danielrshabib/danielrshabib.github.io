@@ -124,12 +124,17 @@
 </div>
 
 
+<!-- Include jQuery library -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Custom jQuery script -->
 <script type="text/javascript">
   $(document).ready(function() {
-    $('a.mail').on('click', function() {
+    // jQuery script to replace spamblock with actual domain on click
+    $('a.mail').on('hover', function() {
       var href = $(this).attr('href');
       $(this).attr('href', href.replace('spamblock.', ''));
     });
   });
 </script>
+
