@@ -37,15 +37,6 @@
         {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
       </a>
     </li>
-  <script type="text/javascript">
-    // JavaScript to obfuscate the email address
-    document.addEventListener('DOMContentLoaded', function() {
-      var user = 'danielrshabib';
-      var domain = 'gmail.com';
-      var link = document.getElementById('email-link');
-      link.setAttribute('href', 'mailto:' + user + '@' + domain);
-    });
-  </script>
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -136,17 +127,12 @@
 
 
 
-<script>
-  // Function to decode and display the email address
-  function displayProtectedEmail() {
-    var user = 'danielrshabib';
-    var domain = 'gmail.com';
-    var email = user + '@' + domain;
-    var link = document.getElementById('protectedEmail');
-    link.href = 'mailto:' + email;
-    link.innerHTML = email;
-  }
-
-  // Call the function to display the email
-  displayProtectedEmail();
-</script>
+  <script type="text/javascript">
+    // JavaScript to obfuscate the email address
+    document.addEventListener('DOMContentLoaded', function() {
+      var user = 'danielrshabib';
+      var domain = 'gmail.com';
+      var link = document.getElementById('email-link');
+      link.setAttribute('href', 'mailto:' + user + '@' + domain);
+    });
+  </script>
