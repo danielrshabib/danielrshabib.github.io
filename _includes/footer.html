@@ -1,5 +1,8 @@
 {% include base_path %}
 
+<!-- Include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <div class="page__footer-content">
   <div class="page__footer-copyright">
     <div class="Footer_inner_left">
@@ -11,7 +14,9 @@
   </div>
   <div class="page__footer-translate" style="display: flex; justify-content: center; align-items: center; position: relative;">
     <div id="google_translate_element" style="opacity: 0;"></div>
-    <button style="z-index: 1;"><i class="fa-solid fa-language"></i> Translate/Traducir/Traduir</button>
+    <button id="translateButton" style="z-index: 1;">
+      <i class="fa-solid fa-language"></i> Translate/Traducir/Traduir
+    </button>
   </div>
 </div>
 
@@ -23,6 +28,11 @@
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE
     }, 'google_translate_element');
   }
+
+  document.getElementById('translateButton').addEventListener('click', function() {
+    googleTranslateElementInit();
+    document.getElementById('google_translate_element').style.opacity = 1;
+  });
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
