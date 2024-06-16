@@ -107,27 +107,43 @@
   align-items: center;
   padding-top: 15px; /* Adjust top padding as needed */
 
-  .translate-icons {
-    font-size: 18px;
+  .translate-container {
     display: flex;
-    align-items: center; /* Center icon vertically */
+    align-items: center; /* Center items vertically */
+  }
+
+  .translate-button {
+    padding: 6px 12px; /* Adjust padding as needed */
+    background-color: #00637C; /* Example background color */
+    color: #fff; /* Example text color */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth transition for background color change */
+    display: flex;
+    align-items: center; /* Center button content vertically */
+    margin-right: 10px; /* Space between button and icons */
+  }
+
+  .translate-button:hover {
+    background-color: #005166; /* Darker shade of the original color */
+  }
+
+  .translate-button i {
+    color: white; /* Set Font Awesome icon color */
+    margin-right: 5px; /* Adjust icon spacing */
   }
 
   #google_translate_element {
-    display: flex;
-    align-items: center;
-    padding: 15px 20px; /* Adjust padding to increase button size */
-    margin-top: 15px; /* Adjust margin-top as needed */
-    clear: both;
-    cursor: pointer; /* Ensure cursor is pointer */
-  }
-
-  .translate-icons:first-child {
-    margin-right: 10px; /* Space between left icon and translate button */
-  }
-
-  .translate-icons:last-child {
-    margin-left: 10px; /* Space between translate button and right icon */
+    position: absolute;
+    top: calc(100% + 10px); /* Position below the button with additional spacing */
+    left: 0;
+    width: 100%; /* Fill the entire button */
+    z-index: 1; /* Ensure widget is above other content */
+    opacity: 0; /* Make it invisible initially */
+    transition: opacity 0.3s ease; /* Smooth transition for opacity change */
+    background-color: #fff; /* Example background color */
+    border: 1px solid #ccc; /* Example border */
+    padding: 10px; /* Example padding */
   }
 }
 
