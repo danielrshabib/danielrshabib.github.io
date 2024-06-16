@@ -31,9 +31,12 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
+      
+      <li>
+        <a href="javascript:void(0);" id="protectedEmail"></a>
+        <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+      </li>
+      
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -121,3 +124,20 @@
     </ul>
   </div>
 </div>
+
+
+
+<script>
+  // Function to decode and display the email address
+  function displayProtectedEmail() {
+    var user = 'danielrshabib';
+    var domain = 'gmail.com';
+    var email = user + '@' + domain;
+    var link = document.getElementById('protectedEmail');
+    link.href = 'mailto:' + email;
+    link.innerHTML = email;
+  }
+
+  // Call the function to display the email
+  displayProtectedEmail();
+</script>
