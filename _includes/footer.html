@@ -5,36 +5,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
-
     .page__footer-translate {
       display: flex;
       justify-content: center;
       align-items: center;
       position: relative;
-      /* Additional styles as needed */
     }
 
     .translate-container {
       position: relative;
       display: inline-block;
-      padding-right: 20px; /* Adjust padding-right as needed */
+      margin-top: 30px; /* Adjust top margin as needed */
     }
 
     .translate-button {
-      padding: 4.5px 16px; /* Adjust padding as needed */
-      background-color: $border-color; /* Example background color */
+      padding: 8px 16px; /* Adjust padding as needed */
+      background-color: #00637C; /* Example background color */
       color: #fff; /* Example text color */
       border: none;
       cursor: pointer;
+      transition: background-color 0.3s; /* Smooth transition for background color change */
+    }
+
+    .translate-button:hover {
+      background-color: #005166; /* Darker shade of the original color */
     }
 
     #google_translate_element {
       position: absolute;
-      top: 0;
+      top: 110%; /* Position below the button */
       left: 0;
-      width: calc(100%); /* Adjust width to account for padding-right */
-      height: 100%; /* Make it fill the container */
-      opacity: 0;
+      width: 100%; /* Fill the entire button */
+      z-index: 1; /* Ensure widget is above other content */
+      opacity: 0; /* Make it invisible initially */
+      transition: opacity 0.3s ease; /* Smooth transition for opacity change */
     }
   </style>
 </head>
@@ -50,8 +54,8 @@
     </div>
     <div class="page__footer-translate">
       <div class="translate-container">
-        <button class="translate-button">
-          <i class="fas fa-language"></i> Traducir/Traduire
+        <button class="translate-button" onclick="toggleTranslate()">
+          <i class="fas fa-language"></i> Translate/Traducir/Traduire
         </button>
         <div id="google_translate_element"></div>
       </div>
@@ -69,5 +73,12 @@
     }
   </script>
   <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  <script type="text/javascript">
+    function toggleTranslate() {
+      var translateElement = document.getElementById('google_translate_element');
+      translateElement.style.opacity = (translateElement.style.opacity === '1') ? '0' : '1';
+    }
+  </script>
 </body>
 </html>
