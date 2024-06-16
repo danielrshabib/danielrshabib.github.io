@@ -31,12 +31,10 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-    <li>
-      <a href="#" id="email-link">
-        <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
-        {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
-      </a>
-    </li>
+
+
+        <li><a class="mail" href="mailto:danielrshabib@badmail.gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -127,12 +125,14 @@
 
 
 
-  <script type="text/javascript">
-    // JavaScript to obfuscate the email address
-    document.addEventListener('DOMContentLoaded', function() {
-      var user = 'danielrshabib';
-      var domain = 'gmail.com';
-      var link = document.getElementById('email-link');
-      link.setAttribute('href', 'mailto:' + user + '@' + domain);
+<!-- jQuery library (CDN link) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Your custom jQuery code -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('a.mail').on('click', function() {
+      var href = $(this).attr('href');
+      $(this).attr('href', href.replace('badmail.', ''));
     });
-  </script>
+  });
+</script>
