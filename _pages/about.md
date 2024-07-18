@@ -73,7 +73,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       <h2>Interests</h2>
       <ul>
         <li>Biomedical Ethics</li>
-        <li>Colorectal Cancer</li>
+        <li>Head and Neck Cancer</li>
         <li>Health Equity</li>
         <li>Medical Technology</li>
         <li>Surgical Outcomes</li>
