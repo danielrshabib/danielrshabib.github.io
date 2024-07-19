@@ -43,7 +43,7 @@ redirect_from:
 ## Addiction Research
 
 * Jan 2022-July 2022 & Summer 2021: **Postbaccalaureate Fellow and Summer Intern**
-  * Technology and Translational Research Unit, National Institute on Drug Abuse
+  * [Technology and Translational Research Unit](https://bcurtislab.com/team/), National Institute on Drug Abuse
   * Mentor: Brenda Curtis, PhD, MsPH
 * June 2020-July 2022: **Student Investigator**
   * Johns Hopkins University
