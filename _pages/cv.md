@@ -15,7 +15,7 @@ redirect_from:
 
 ## Clinical Research
 
-* April 2023-Present: **Clinical Trial Coordinator and Student Researcher**
+* April 2023-Present: **Clinical Trial Coordinator and [Student Researcher](https://www.vumc.org/vcrg/person/daniel-habib)**
   * Section of Surgical Sciences, Vanderbilt University Medical Center
   * Mentor: Aimal Khan, MD
 * Nov 2022-Present: **Student Researcher**
