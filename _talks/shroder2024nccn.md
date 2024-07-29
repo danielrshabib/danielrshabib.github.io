@@ -12,6 +12,6 @@ This poster investigated if adherence to National Comprehensive Cancer Network (
 Recommended citation: Shroder M, Bai K, **Habib DRS**, Ye F, Hawkins A, Khan A. NCCN guideline adherence in rectal cancer and outcomes in low-volume vs. high-volume centers. Oral presentation at: American Society of Colon & Rectal Surgeons Annual Scientific Meeting. June 2, 2024; Baltimore, MD, USA. 
 <br><br>
 <div style="text-align:center">
-    <img src="../images/shroder2024nccn.png" alt="Graph of Kaplan-Meier curve with y-axis survival probability, x-axis months, lower red line denoting no NCCN adherence, and upper teal line denoting NCCN adherence" style="height:auto; max-height:300px; min-height:100px;">
+    <img src="../images/shroder2024nccn.png" alt="Graph of Kaplan-Meier curve with y-axis survival probability, x-axis months, lower red line denoting no NCCN adherence, and upper teal line denoting NCCN adherence" style="height:auto; max-height:500px; min-height:100px;">
 </div>
 
