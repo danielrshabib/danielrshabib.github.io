@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "CV"
 output:
   html_document:
