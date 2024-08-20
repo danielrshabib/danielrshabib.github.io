@@ -7,7 +7,7 @@ date: 2024-04-26
 venue: 'Otolaryngology-Head and Neck Surgery'
 clink: 'https://doi.org/10.1002/ohn.780'
 purl: '/files/stevens2024comparative.pdf'
-citation: 'Stevens MN, Prasad K, Sharma RK, Gallant J-N, <b>Habib DRS</b>, Langerman A, Mannion K, Rosenthal E, Topf MC, Rohde SL. Comparative outcomes for microvascular free flap monitoring outside the intensive care unit. <i>Otolaryngol Head Neck Surg</i>. doi:10.1002/ohn.780'
+citation: 'Stevens MN, Prasad K, Sharma RK, Gallant J-N, <b>Habib DRS</b>, Langerman A, Mannion K, Rosenthal E, Topf MC, Rohde SL. Comparative outcomes for microvascular free flap monitoring outside the intensive care unit. <i>Otolaryngol Head Neck Surg</i>. 2024;171(2):381-386. doi:10.1002/ohn.780'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/stevens2024comparative.pdf)
 
