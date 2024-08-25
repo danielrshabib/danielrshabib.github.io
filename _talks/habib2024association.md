@@ -3,7 +3,7 @@ title: "Association of neoadjuvant immunotherapy with postoperative major morbid
 collection: talks	
 permalink: /talks/habib2024association
 date: 2024-10-19
-type: "Poster
+type: "Poster"
 venue: 'Surgical Outcomes Club Annual Scientific Session'
 location: "San Francisco, CA, USA"
 ---	
