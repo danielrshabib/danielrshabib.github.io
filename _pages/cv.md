@@ -87,6 +87,9 @@ redirect_from:
 
 ## Honors, Awards, and Grants
 
+* 2024: Medical Student Research Initiation Grant ($4,000), American Society of Colon and Rectal Surgeons
+* 2024: Honorable Mention, Vanderbilt University Medical Center 42nd Annual Research Forum
+* 2024: National Institute on Drug Abuse Featured Paper of the Month ([April](https://irp.nida.nih.gov/featured-paper-apil-2024/)) 
 * 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
 * 2022: PanHellenic Scholarship Foundation Award ($2,500)
 * 2022: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
