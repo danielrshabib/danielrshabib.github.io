@@ -11,5 +11,5 @@ This study examines the impact of neoadjuvant immunotherapy on postoperative com
 <br><br>
 Recommended citation: Shou M, **Habib DRS**, Idrees K, Khan A. Impact of neoadjuvant immunotherapy on postoperative complications after oncologic surgery. Oral presentation at: Society of Asian Academic Surgeons Annual Meeting; September 6, 2024; New Orleans, LA, USA.
 <br><br>
-
+![Flowchart of inclusion criteria for cancer surgery patients by neoadjuvant immunotherapy](../images/shou2024impact.png)
 
