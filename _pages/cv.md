@@ -19,20 +19,23 @@ redirect_from:
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
 * Vanderbilt University School of Medicine, M.D., July 2022-May 2026 (expected)
 
-## Clinical
+## Medical Technology
 
-* Sep 2024-Present: Student Researcher
+* Sep 2024-Present: **Student Researcher**
   * Informatics Innovation, Vanderbilt University Medical Center
   * Mentor: Daniel Fabbri, PhD
+* April 2023-Aug 2023: **Clinical Trial Coordinator**
+  * GI Windows Surgical
+  * Mentor: Aimal Khan, MD
+ 
+## Clinical Research
+
 * April 2023-Present: **[Student Researcher](https://www.vumc.org/vcrg/person/daniel-habib)**
   * Section of Surgical Sciences, Vanderbilt University Medical Center
   * Mentor: Aimal Khan, MD
 * Nov 2022-Present: **Student Researcher**
   * Surgical Analytics Lab and Surgical Ethics Program, Vanderbilt University Medical Center
   * Mentor: Alexander Langerman, MD, SM
-* April 2023-Aug 2023: **Clinical Trial Coordinator**
-  * GI Windows Surgical
-  * Mentor: Aimal Khan, MD
 * Jan 2022-July 2022: **Research Program Coordinator**
   * Department of Pediatrics, Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
