@@ -144,11 +144,10 @@ redirect_from:
 * **Habib D**. Computational analysis on the relationship between state political party dominance and lack of health insurance. *Hopkins Undergraduate Research Journal*. 2020:44-46.
 * **Habib D**. An act divided: America’s uninsured. *The Cornell Healthcare Review*. 2019:23-24.
 
-## Undergraduate Presentations
+## Institutional Presentations
 
 * **Habib D**. Exposure to people who use drugs influences perceptions about drug-related stigma. [Poster](https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing) presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.
 * **Habib D**. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.
 * **Habib D**. Mining digital media to understand the individual and societal impact of substance use disorders. [Poster](https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual. 
-* **Habib D**, Elmore N, Gulas S, Ruhde N, Mathew D. The ethics of restrictions in the Middle East’s COVID-19 response. [Oral presentation](https://docs.google.com/presentation/d/1tajQeypkSGQXsfe9CUHwRLTnbM5ct362O-DGL9FUGz0/edit?usp=sharing) at: 39th Annual Mid-Atlantic Undergraduate Social Research Conference; April 22, 2021; Virtual.
 * **Habib D**. Applying a deterministic anonymous incentive method to study high school vaping. [Oral presentation](https://symposium.foragerone.com/dreams-fall-2021/presentations/33862) at: Johns Hopkins University Day of Undergraduate Research in Engineering, Arts, Medicine, and the Sciences; October 18, 2021; Virtual.
 * **Habib D**. Vape use in high school social networks. [Oral presentation](https://docs.google.com/presentation/d/1EjeqKLmYhNKYt0_Q7bcUhV57z489aUBL/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) at: Johns Hopkins University Undergraduate Research Symposium; October 27, 2020; Virtual.
