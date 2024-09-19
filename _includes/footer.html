@@ -10,14 +10,38 @@
     </div>
   </div>
   <div class="page__footer-translate">
-    <div id="google_translate_element"></div>
+    <div id="google_translate_element">
+      <span id="language_prompt">Translate</span>
+    </div>
   </div>
 </div>
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: navigator.language, includedLanguages: 'en,es,fr,de,pt,zh-CN,ja,ko,ar,el,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: navigator.language, includedLanguages: 'en,es,fr,de,pt,zh-CN,ja,ko,ar,hi', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
+
+function setPromptText() {
+  const userLang = navigator.language || navigator.userLanguage;
+  const promptText = {
+    'en': 'Translate',
+    'es': 'Traducir',
+    'fr': 'Traduire',
+    'de': 'Übersetzen',
+    'pt': 'Traduzir',
+    'zh-CN': '翻译',
+    'ja': '翻訳',
+    'ko': '번역',
+    'ar': 'ترجمة',
+    'hi': 'अनुवाद'
+  };
+  const prompt = promptText[userLang.split('-')[0]] || promptText['en'];
+  document.getElementById('language_prompt').innerText = prompt;
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+  setPromptText();
+});
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
