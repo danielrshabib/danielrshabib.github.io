@@ -7,7 +7,7 @@ date: 2024-09-29
 venue: 'Annals of Surgical Oncology'
 clink: 'https://doi.org/10.1245/s10434-024-16284-8'
 purl: '/files/habib2024association.pdf'
-citation: '<b>Habib DRS</b>*, Shou M*, Phillips RH, Pickens A, Hawkins A, Idrees K, Khan A. Association of neoadjuvant immunotherapy with postoperative major morbidity after oncologic surgery. <i> Ann Surg Onc</i>. 2024. doi:10.1245/s10434-024-16284-8'
+citation: '<b>Habib DRS</b>*, Shou M*, Phillips RH, Pickens A, Hawkins A, Idrees K, Khan A. Association of neoadjuvant immunotherapy with postoperative major morbidity after oncologic surgery. <i> Ann Surg Onc</i>. 2024;31(13):8508-8513. doi:10.1245/s10434-024-16284-8'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2024association.pdf)
 
