@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/39c433b0-4dd4-437f-8a30-031fd715d8ed)---
 layout: archive
 title: "CV"
 output:
@@ -21,12 +21,13 @@ redirect_from:
 
 ## Medical Technology
 
+* Oct 2024-Present: **Consultant**
+  * Merge Medical Device Studio
 * Sep 2024-Present: **Student Researcher**
   * Informatics Innovation, Vanderbilt University Medical Center
   * Mentor: Daniel Fabbri, PhD
 * April 2023-Aug 2023: **Clinical Trial Coordinator**
   * GI Windows Surgical
-  * Mentor: Aimal Khan, MD
  
 ## Clinical Research
 
@@ -101,14 +102,18 @@ redirect_from:
 * 2024: National Institute on Drug Abuse Featured Paper of the Month ([April](https://irp.nida.nih.gov/featured-paper-apil-2024/)) 
 * 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
 * 2022: PanHellenic Scholarship Foundation Award ($2,500)
-* 2022: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
-* 2021: Omicron Delta Kappa Honor Society, Beta Circle
 * 2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
 * 2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
 * 2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
 * 2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
 * 2019: Johns Hopkins University Creative Writing Contest Winner
 * 2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
+
+## Professional and Honor Associations
+
+* 2024–: American College of Surgeons
+* 2022–: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
+* 2021–: Omicron Delta Kappa Honor Society, Beta Circle
 
 ## Elective Coursework
 
@@ -120,7 +125,7 @@ redirect_from:
 ## Skills
 
 * **Clinical**: Patient interviewing, chart review, informed consent, IRB approval
-* **Computer**: MATLAB, Python, Java, SQL, Unix, Microsoft Excel, RedCap, ImageJ, Canva, Pajek, PyMOL
+* **Computer**: R, Python, MATLAB, Microsoft Excel, SQL, Unix, REDCap, Java, Canva, ImageJ, Pajek, PyMOL
 * **Language**: Conversational French
 * **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
 
