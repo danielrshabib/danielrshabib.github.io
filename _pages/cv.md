@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/39c433b0-4dd4-437f-8a30-031fd715d8ed)---
 layout: archive
 title: "CV"
 output:
@@ -8,7 +7,6 @@ output:
     toc_depth: 2
 permalink: /cv/
 author_profile: true
-toc: true
 redirect_from:
   - /resume
 ---
