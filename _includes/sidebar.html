@@ -37,7 +37,7 @@
   document.addEventListener("DOMContentLoaded", function() {
     var lastModifiedElement = document.getElementById("lastModified");
     var lastModifiedDate = new Date(document.lastModified);
-    var options = { month: "long", day: "numeric", year: "numeric" };
+    var options = { month: "short", day: "numeric", year: "numeric" };
     lastModifiedElement.textContent = lastModifiedDate.toLocaleDateString("en-US", options);
   });
 </script>
