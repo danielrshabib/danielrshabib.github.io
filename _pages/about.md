@@ -26,12 +26,12 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column1 {
       flex: 1;
-      padding: 5px 5px 5px 0; /* Right padding: 5px, Left padding: 0 */
+      padding: 0 5px 5px 0; /* Right padding: 5px, Left padding: 0 */
       text-align: left; 
     }
 
     .column1 i {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
     }
 
     .column1 h2 {
@@ -40,12 +40,12 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column2 {
       flex: 1;
-      padding: 5px 0 5px 5px; /* Right padding: 0, Left padding: 5px */
+      padding: 0 0 5px 5px; /* Right padding: 0, Left padding: 5px */
       text-align: left;
     }
 
     .column2 i {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
     }
     
     .column2 h2 {
