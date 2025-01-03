@@ -62,7 +62,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       margin: 0; /* Remove any default margin to avoid extra spacing */
     }
     .first-paragraph {
-      margin-bottom: 10px; /* Reduced margin for closer spacing */
+      margin-bottom: 0; /* Reduced margin for closer spacing */
     }
   </style>
 </head>
