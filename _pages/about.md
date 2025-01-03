@@ -83,7 +83,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 </body>
 </html>
 
-![Vanderbilt University School of Medicine Class of 2026 photo in white coats](../images/VUSMClassPhoto.png)
+![Vanderbilt University School of Medicine Class of 2026 photo in white coats](../images/VUSMClassPhoto.png){: style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;"}
 
 <br>
 During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19 information, early determinants of childhood illness, and the role of primary care in advancing health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
@@ -121,12 +121,18 @@ Throughout my medical journey, I aspire to continue becoming a better person thr
   <div class="container">
     <div class="column">
       <!-- First image -->
-      <img src="../images/GilmanFlowers.png" alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day">
+      <img 
+        src="../images/GilmanFlowers.png" 
+        alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day"
+        style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
       <p class="caption">Gilman Hall, Johns Hopkins University</p>
     </div>
     <div class="column">
       <!-- Second image -->
-      <img src="../images/NashvilleSkyline.png" alt="Skyline of Nashville Tennessee">
+      <img 
+        src="../images/NashvilleSkyline.png" 
+        alt="Skyline of Nashville Tennessee"
+        style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
       <p class="caption">Nashville, TN</p>
     </div>
   </div>
