@@ -25,7 +25,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column1 {
       flex: 1;
-      padding: 5px 5px 5px 0; /* Right padding: 5px, Left padding: 0 */
+      padding: 1px 5px 5px 0; /* Right padding: 5px, Left padding: 0 */
       text-align: left; 
     }
 
@@ -39,7 +39,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 
     .column2 {
       flex: 1;
-      padding: 5px 0 5px 5px; /* Right padding: 0, Left padding: 5px */
+      padding: 1px 0 5px 5px; /* Right padding: 0, Left padding: 5px */
       text-align: left;
     }
 
