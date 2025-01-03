@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a medical student at Vanderbilt University School of Medicine. I lead research on head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and patient-centered surgical consent forms. Additionally, I study surgical and patient-facing technology, work as a consultant for Merge Medical Device Studio, and develop AI-driven tools for medical record abstraction in clinical trials. I also volunteer as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
 
 <p class="first-paragraph">
-I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children. </p>
+I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children.
+</p>
+
 <html>
 <head>
   <!-- Add the Font Awesome CSS link below -->
@@ -22,6 +23,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
     .container {
       display: flex;
       justify-content: center; /* Center the columns horizontally */
+      margin-top: 0; /* Remove extra space above the container */
     }
 
     .column1 {
@@ -61,6 +63,8 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
       text-align: left; /* Left-align the paragraph text */
       margin: 0; /* Remove any default margin to avoid extra spacing */
     }
+
+    /* New class to reduce margin below the first paragraph */
     .first-paragraph {
       margin-bottom: 0; /* Reduced margin for closer spacing */
     }
@@ -93,7 +97,6 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19 information, early determinants of childhood illness, and the role of primary care in advancing health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
 
 Throughout my medical journey, I aspire to continue becoming a better person through each of my patients while spearheading surgical outcomes research, medical technology innovation, and advocacy for equitable healthcare and patients’ rights.
-
 
 <html>
 <head>
