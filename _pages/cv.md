@@ -150,6 +150,7 @@ redirect_from:
 
 ## Institutional Presentations
 
+* **Habib DRS**, Shou M, Rogers JL, Sun K, Wang CC, Khan A. Less is more: Risk factors and survival outcomes of overtreatment for early-stage colorectal cancer. [Poster](https://danielrshabib.github.io/files/habib2025overtreatment-poster.pdf) presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
 * **Habib D**. Exposure to people who use drugs influences perceptions about drug-related stigma. [Poster](https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing) presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.
 * **Habib D**. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.
 * **Habib D**. Mining digital media to understand the individual and societal impact of substance use disorders. [Poster](https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual. 
