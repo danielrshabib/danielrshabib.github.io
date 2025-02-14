@@ -11,4 +11,6 @@ This [poster](https://danielrshabib.github.io/files/habib2025outcomes-poster.pdf
 <br><br>
 Recommended citation: **Habib DRS**, Shou M, Naranjo C, Adegboye FO, Philips R, Tassone P, Langerman A, Khan A, Topf MC. Outcomes following neoadjuvant immunotherapy for oral cavity cancer: A propensity score matched analysis of the National Cancer Database. Poster at: American Head and Neck Society Annual Meeting at COSM; May 15, 2025; New Orleans, LA, USA. 
 <br><br>
-![Kaplan-Meier Survival Curves by Neoadjuvant Immunotherapy](../images/habib2025outcomes.png)
+<div style="text-align:center">
+    <img src="../images/habib2025outcomes.png" alt="Kaplan-Meier Survival Curves by Neoadjuvant Immunotherapy" style="height:auto; max-height:500px; min-height:100px;">
+</div>
