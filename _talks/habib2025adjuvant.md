@@ -11,4 +11,6 @@ The benefit of adjuvant chemoradiotherapy (CRT) over radiotherapy (RT) alone for
 <br><br>
 Recommended citation: **Habib DRS**, Li Y, Tassone P, Philips RH, Yalamanchi P, Holsinger FC, Topf MC. Adjuvant chemotherapy does not improve overall survival in positive surgical margin oral cavity cancer patients without extranodal extension. Poster at: American Head and Neck Society Annual Meeting at COSM; May 15, 2025; New Orleans, LA, USA. 
 <br><br>
-![Kaplan-Meier Survival Curves by Postoperative Therapy with and without Extranodal Extension](../images/habib2025adjuvant.png)
+<div style="text-align:center">
+    <img src="../images/habib2025adjuvant.png" alt="Kaplan-Meier Survival Curves by Postoperative Therapy with and without Extranodal Extension" style="height:auto; max-height:500px; min-height:100px;">
+</div>
