@@ -2,7 +2,7 @@
 title: "Outcomes following neoadjuvant immunotherapy for oral cavity cancer: A propensity score matched analysis of the National Cancer Database"	
 collection: talks	
 permalink: /talks/habib2025outcomes	
-date: 2023-05-15
+date: 2025-05-15
 type: "Poster"
 venue: 'American Head and Neck Society Annual Meeting at COSM'
 location: "New Orleans, LA, USA"
