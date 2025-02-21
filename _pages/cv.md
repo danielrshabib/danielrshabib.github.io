@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 * Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
-* Vanderbilt University School of Medicine, M.D., July 2022-May 2026 (expected)
+* Vanderbilt University School of Medicine, M.D. and Certificate in Biomedical Ethics, July 2022-May 2026 (expected)
 
 ## Medical Technology
 
@@ -76,23 +76,15 @@ redirect_from:
 ## Community Service
 
 * Jan 2024-Present: **Student Mentor**, Future is NOW (Non-violent Options Win) Nashville – Future Healers Network
-* Jan 2024-Present: **Health Educator**, Vanderbilt University School of Medicine Social Mission Committee
+* Jan 2024-Present: **Health Educator**, Dismas House of Nashville Residential Reentry Program
 * Aug 2022-Present: **Coordinator and Student Clinician**, Shade Tree Free Clinic
 * Jan 2021-July 2022: **Community Health Design and Social Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
-* Dec 2019-Feb 2020: **Hospice Volunteer**, Gilchrist Hospice Center
-* June 2015-Aug 2019: **Hospital Volunteer**, LewisGale Medical Center
+* Dec 2019-Feb 2020: **Certified End-Of-Life Specialist**, Gilchrist Hospice Center
 
 ## Leadership
 
 * July 2024-Present: **Honor Council Representative**, Vanderbilt University School of Medicine Student Government
-* Aug 2021-June 2022: **Community Assistant**, Nine East 33rd Student Apartments
 * Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
-* June 2018-Aug 2019: **Tennis Instructor**, North Cross School
-
-## Medically Relevant Undergraduate Clubs
-
-* Sep 2019-Dec 2021: **Medical Ethics Discussion Leader**, Johns Hopkins University Medical Ethics Discussion Panel
-* Sep 2019-Dec 2021: **Head of Medical Humanities Section**, Johns Hopkins University Hippocrates Medical Review
 
 ## Honors, Awards, and Grants
 
@@ -110,7 +102,8 @@ redirect_from:
 
 ## Professional and Honor Associations
 
-* 2024–: American College of Surgeons
+* 2025–: American Academy of Otolaryngology-Head and Neck Surgery, Student Member
+* 2024–: American College of Surgeons, Student Member
 * 2022–: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
 * 2021–: Omicron Delta Kappa Honor Society, Beta Circle
 
@@ -123,7 +116,6 @@ redirect_from:
 
 ## Skills
 
-* **Clinical**: Patient interviewing, chart review, informed consent, IRB approval
 * **Computer**: R, Python, MATLAB, Microsoft Excel, SQL, Unix, REDCap, Java, Canva, ImageJ, Pajek, PyMOL
 * **Language**: Conversational French
 * **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
@@ -143,6 +135,14 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Media Coverage
+
+* 2024: Medical Ethics Advisor [Article](https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients), Ethical Controversy Persists Regarding Pelvic Exams on Anesthetized Patients 
+
+## Non–Peer-Reviewed Journal Articles
+
+* **Habib D**. [Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states](http://danielrshabib.github.io/files/habib2020restriction.pdf). *Cambio*. 2020:1-12. doi:[10.13128/cambio-9729](https://doi.org/10.13128/cambio-9729)
+
 ## Undergraduate Journal Articles
 
 * **Habib D**. Computational analysis on the relationship between state political party dominance and lack of health insurance. *Hopkins Undergraduate Research Journal*. 2020:44-46.
@@ -151,6 +151,11 @@ redirect_from:
 ## Institutional Presentations
 
 * **Habib DRS**, Shou M, Rogers JL, Sun K, Wang CC, Khan A. Less is more: Risk factors and survival outcomes of overtreatment for early-stage colorectal cancer. [Poster](https://danielrshabib.github.io/files/habib2025overtreatment-poster.pdf) presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
+* Swain BB, Si CD, Jin W, **Habib DRS**, Topf MC. Identifying risk factors for pharyngocutaneous fistula formation following total laryngectomy. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
+* Doctorman S, **Habib DRS**, Vivek N, Lee VA, Larson D, Jamal N, Patel K, Zhao S, Wilcox LJ. Predictors of high-yield airway evaluations in pediatric patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
+* Larson D, Suh H, Sridhar S, **Habib DRS**, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Effect of preoperative depression on survival and treatment-related outcomes in head and neck cancer patients undergoing free flap reconstruction. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
+* Suh H, Larson D, **Habib DRS**, Sridhar S, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Contributory factors in perioperative pain scores among head and neck cancer free flap reconstruction patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
+* Bishay AE, Tay A, **Habib DRS**, Qian H, Ball TJ, Englot DJ, Dhima K, Bick SK. Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
 * **Habib D**. Exposure to people who use drugs influences perceptions about drug-related stigma. [Poster](https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing) presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.
 * **Habib D**. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.
 * **Habib D**. Mining digital media to understand the individual and societal impact of substance use disorders. [Poster](https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual. 
