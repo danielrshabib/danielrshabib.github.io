@@ -15,7 +15,7 @@ var addressPoints = [
     -86.7742984
   ],
   [
-    "\u201cBoston, MA, USA\" | American Cleft Palate-Craniofacial Association Annual Meeting | 2025 | Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia",
+    "Boston, MA, USA | American Association of Neurological Surgeons Annual Meeting | 2025 | Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia",
     42.3554334,
     -71.060511
   ],
