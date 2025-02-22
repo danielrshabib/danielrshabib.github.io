@@ -7,7 +7,7 @@ date: 2024-10-18
 venue: 'Annals of Surgery'
 clink: 'https://doi.org/10.1097/SLA.0000000000006324'
 purl: '/files/habib2024gaps.pdf'
-citation: '<b>Habib DRS</b>*, Lin G*, Langerman A. Gaps in informed consent for intimate exams under anesthesia. Ann Surg. <i>Ann Surg</i>. 2024. doi:10.1097/SLA.0000000000006568'
+citation: '<b>Habib DRS</b>*, Lin G*, Langerman A. Gaps in informed consent for intimate exams under anesthesia. <i>Ann Surg</i>. 2024. doi:10.1097/SLA.0000000000006568'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2024gaps.pdf)
 
