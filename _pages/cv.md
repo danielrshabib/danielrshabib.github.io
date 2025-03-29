@@ -40,7 +40,7 @@ redirect_from:
   * Department of Pediatrics, Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
 * Sep 2020-Dec 2021: **Student Researcher**
-  * Neuro-Oncology Surgical Outcomes Lab, Johns Hopkins Medicine
+  * [Neuro-Oncology Surgical Outcomes Lab](https://www.jhuneurolab.com/), Johns Hopkins Medicine
   * Mentor: Debraj Mukherjee, MD, MPH
 * Oct 2018-Jan 2020: **Research Assistant**
   * Wilmer Eye Institute, Johns Hopkins Medicine
@@ -49,10 +49,10 @@ redirect_from:
 ## Cancer Wet Lab
 
 * Jan 2019-Dec 2021: **Student Researcher**
-  * Institute for NanoBioTechnology, Johns Hopkins University
+  * [Institute for NanoBioTechnology](https://inbt.jhu.edu/), Johns Hopkins University
   * Mentor: Konstantinos Konstantopoulos, PhD
 * June 2020-Aug 2020: **Research Assistant**
-  * Fralin Biomedical Research Institute, Virginia Tech Carilion
+  * [Fralin Biomedical Research Institute](https://fbri.vtc.vt.edu/research/labs/lamouille.html), Virginia Tech Carilion
   * Mentor: Samy Lamouille, PhD
 
 ## Addiction Research
@@ -67,7 +67,7 @@ redirect_from:
 ## COVID-19 Research
 
 * Mar 2021-May 2022: **Research Assistant**
-  * Disability Health Research Center, Johns Hopkins University
+  * [Disability Health Research Center](https://disabilityhealth.jhu.edu/), Johns Hopkins University
   * Mentor: Bonnielin Swenor, PhD, MPH
 * June 2020-Jan 2021: **Student Researcher**
   * CoronaNet
@@ -75,9 +75,9 @@ redirect_from:
 
 ## Community Service
 
-* Jan 2024-Present: **Student Mentor**, Future is NOW (Non-violent Options Win) Nashville – Future Healers Network
-* Jan 2024-Present: **Health Educator**, Dismas House of Nashville Residential Reentry Program
-* Aug 2022-Present: **Coordinator and Student Clinician**, Shade Tree Free Clinic
+* Jan 2024-Present: **Student Mentor**, [Future is NOW (Non-violent Options Win) Nashville – Future Healers Network](https://www.vumc.org/trauma-and-scc/now)
+* Jan 2024-Present: **Health Educator**, [Dismas House of Nashville Residential Reentry Program](https://dismas.org/programs/re-entry-program/)
+* Aug 2022-Present: **Coordinator and Student Clinician**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
 * Jan 2021-July 2022: **Community Health Design and Social Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
 * Dec 2019-Feb 2020: **Certified End-Of-Life Specialist**, Gilchrist Hospice Center
 
