@@ -21,12 +21,12 @@ redirect_from:
 ## Medical Technology
 
 * Oct 2024-Present: **Consultant**
-  * Merge Medical Device Studio
+  * [Merge Medical Device Studio](https://www.mergemed.com/)
 * Sep 2024-Present: **Student Researcher**
   * Informatics Innovation, Vanderbilt University Medical Center
   * Mentor: Daniel Fabbri, PhD
 * April 2023-Aug 2023: **Clinical Trial Coordinator**
-  * GI Windows Surgical
+  * [GI Windows Surgical](https://www.giwindows.com/)
  
 ## Clinical Research
 
