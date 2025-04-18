@@ -150,7 +150,7 @@ redirect_from:
 
 ## Non–Peer-Reviewed Presentations
 
-* Naranjo C, **Habib DRS**, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. Poster presented at: National Otolaryngology Interest Group Scholars in Otolaryngology Research Conference; April 26, 2025; Virtual.
+* Naranjo C, **Habib DRS**, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. [Poster](https://danielrshabib.github.io/files/naranjo2025self-poster.pdf) presented at: National Otolaryngology Interest Group Scholars in Otolaryngology Research Conference; April 26, 2025; Virtual.
 * **Habib DRS**, Shou M, Rogers JL, Sun K, Wang CC, Khan A. Less is more: Risk factors and survival outcomes of overtreatment for early-stage colorectal cancer. [Poster](https://danielrshabib.github.io/files/habib2025overtreatment-poster.pdf) presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
 * Swain BB, Si CD, Jin W, **Habib DRS**, Topf MC. Identifying risk factors for pharyngocutaneous fistula formation following total laryngectomy. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
 * Doctorman S, **Habib DRS**, Vivek N, Lee VA, Larson D, Jamal N, Patel K, Zhao S, Wilcox LJ. Predictors of high-yield airway evaluations in pediatric patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.
