@@ -1,9 +1,9 @@
 ---	
-title: "Association between hearing aid and cochlear implant internet searches with media campaigns and federal announcements”	
+title: "Association between hearing aid and cochlear implant internet searches with media campaigns and federal announcements"
 collection: talks	
 permalink: /talks/habib2025association
 date: 2025-10-11
-type: “Poster"
+type: "Poster"
 venue: 'American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting'
 location: "Indianapolis, IN, USA"
 ---	
