@@ -5,7 +5,26 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
+ <!-- Lines 8-26 added by Bao BJ to fix icon spacing. This was done as there are discrepancies in icon size. 
+  To fix this, icons are now forced and centered in a 17px width. To revert to original simply delete these lines. -->
+  <style>
+    /* 1) Make link a flex container, restore theme’s vertical spacing */
+    .author__urls.social-icons li a {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 0;        /* 2px top & bottom (theme default), 0 left/right */
+      margin-bottom: 5px;    /* theme default gap between rows */
+    }
 
+    /* 2) Force every icon into a 17px-wide flex child and center it */
+    .author__urls.social-icons li a i {
+      flex: 0 0 17px;        /* no grow/shrink, exactly 17px wide */
+      display: inline-flex;  
+      justify-content: center; 
+      margin-right: 6px;     /* gutter between icon and text */
+    }
+  </style>
+  
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
