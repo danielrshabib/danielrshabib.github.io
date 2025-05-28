@@ -23,15 +23,24 @@
   {% endif %}
   {% if page.modified %}
     <p class="sidebar__updated">
-    <strong><i class="fa-solid fa-rotate"></i> Last Updated:</strong>
-    {{ page.modified | date: "%B %d, %Y" }}
+      <strong><i class="fa-solid fa-rotate"></i> <span class="updated-text">Last Updated:</span></strong>
+      {{ page.modified | date: "%B %d, %Y" }}
     </p>
   {% endif %}
   <footer>
-    <p class="page__date"><strong><i class="fa-solid fa-rotate" aria-hidden="true"></i>  Updated:</strong>  <span id="lastModified"></span></p>
+    <p class="page__date">
+      <strong><i class="fa-solid fa-rotate" aria-hidden="true"></i> <span class="updated-text">Updated:</span></strong>  
+      <span id="lastModified"></span>
+    </p>
   </footer>
   </div>
 {% endif %}
+
+<style>
+  .updated-text {
+      margin-left: 8px; /* Adjust the value as needed for more or less space */
+  }
+</style>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
