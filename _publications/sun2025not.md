@@ -7,7 +7,7 @@ date: 2025-06-26
 venue: 'Journal of Gastrointestinal Surgery'
 clink: 'https://doi.org/10.1016/j.gassur.2025.102138'
 purl: '/files/sun2025not.pdf'
-citation: 'Sun K, Wang CC, Shou M, <b>Habib D</b>, Ali D, Khan A. Not all cuts heal the same: Elevated anastomotic leak rates after elective colectomy for IBD and diverticulitis. <i>J Gastrointest Surg</i>. 2025. doi:10.1016/j.gassur.2025.102138'
+citation: 'Sun K, Wang CC, Shou M, <b>Habib D</b>, Rogers JL, Sethurathnam J, Ali D, Khan A. Not all cuts heal the same: Elevated anastomotic leak rates after elective colectomy for IBD and diverticulitis. <i>J Gastrointest Surg</i>. 2025. doi:10.1016/j.gassur.2025.102138'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/sun2025not.pdf)
 
