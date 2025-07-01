@@ -15,7 +15,8 @@ author_profile: true
   <li>Prasad K, Sharma R, <b>Habib D</b>, Sinard R, Mannion K, Rohde S, Langerman A, Netterville J, Rosenthal E, Lewis J, Topf MC. 
     <a href="https://danielrshabib.github.io/publications/prasad2024how">How often is cancer present in oral cavity re-resections after initial positive margins?</a> <i>Laryngoscope</i>. 2024;134(2):717-724. doi:10.1002/lary.30959</li>
 </ul>
-
+<br>
+<br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
