@@ -11,4 +11,6 @@ Although ENT issues account for up to 50% of pediatric and 25% of adult primary 
 <br><br>
 Recommended citation: **Habib DRS**, Naranjo C, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. Poster presented at: American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting; October 11, 2025; Indianapolis, IN, USA. 
 <br><br>
-![Line graph of pre- and post-intervention scores](../images/habib2025self.png)
+<div style="text-align:center">
+    <img src="../images/habib2025self.png" alt="Line graph of pre- and post-intervention scores" style="height:auto; max-height:500px; min-height:100px;">
+</div>
