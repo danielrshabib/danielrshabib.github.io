@@ -125,10 +125,31 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Conference Activity
-  <ul>{% for post in site.talks reversed %}
+## Conference Presentations
+### Oral
+<ul>
+  {% assign oral_talks = site.talks | where: "type", "Oral Presentation" %}
+  {% for post in oral_talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
+
+### Poster
+<ul>
+  {% assign poster_talks = site.talks | where: "type", "Poster" %}
+  {% for post in poster_talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
+
+### Roundtable
+<ul>
+  {% assign roundtable_talks = site.talks | where: "type", "Roundtable Presentation" %}
+  {% for post in roundtable_talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
+
 
 ## Popular Works
 <ul>{% for post in site.popularworks reversed %}
