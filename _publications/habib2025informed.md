@@ -7,7 +7,7 @@ date: 2025-08-11
 venue: 'Journal of Clinical Ethics'
 clink: 'https://doi.org/10.1086/736146'
 purl: '/files/habib2025informed.pdf'
-citation: '<b>Habib DRS</b>,Naranjo C, Langerman AJ. Informed consent challenges: A mixed-methods study of hospital ethics consultations. <i>J Clin Ethics</i>. 2025;36(3):215-223. doi:10.1086/736146'
+citation: '<b>Habib DRS</b>, Naranjo C, Langerman AJ. Informed consent challenges: A mixed-methods study of hospital ethics consultations. <i>J Clin Ethics</i>. 2025;36(3):215-223. doi:10.1086/736146'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2025informed.pdf)
 
