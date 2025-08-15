@@ -95,7 +95,7 @@ redirect_from:
   {% endfor %}</ul>
 
 ### Other Scientific Publications
-* **Habib DRS**, Jamal N, Patel K, Wootten CT, Belcher RH. Response to letter to the editor on “Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye.” *Ann Otol Rhinol Laryng*. 2025;134(9):703-704. doi:[10.1177/00034894251340544](https://doi.org/10.1177/00034894251340544)
+* **Habib DRS**, Jamal N, Patel K, Wootten CT, Belcher RH. [Response to letter to the editor on “Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye”](http://danielrshabib.github.io/files/habib2025response.pdf). *Ann Otol Rhinol Laryng*. 2025;134(9):703-704. doi:[10.1177/00034894251340544](https://doi.org/10.1177/00034894251340544)
 * **Habib D**. [Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states](http://danielrshabib.github.io/files/habib2020restriction.pdf). *Cambio*. 2020:1-12. doi:[10.13128/cambio-9729](https://doi.org/10.13128/cambio-9729)
 
 ### Popular Works
