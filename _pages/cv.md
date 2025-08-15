@@ -154,8 +154,7 @@ redirect_from:
 * Chemistry and Everyday Living–Advice from a JHU Alum. Johns Hopkins University Organic Chemistry Lab; October 5, 2023; Virtual.
 
 ## Media and Related Mentions
-
-* 2024: Medical Ethics Advisor [Article](https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients), Ethical Controversy Persists Regarding Pelvic Exams on Anesthetized Patients 
+* Kusterbeck, S. [Ethical controversy persists regarding pelvic exams on anesthetized patients](https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients). Medical Ethics Advisor. Published January 1, 2025.
 
 ## Honors, Awards, and Grants
 
