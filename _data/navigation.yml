@@ -2,7 +2,10 @@
 main:
   - title: "KairoSysAI"
     url: https://kairosysai.com
-
+ 
+  - title: "CV"
+    url: /cv/
+  
   - title: "Publications"
     url: /publications/
     
@@ -15,6 +18,5 @@ main:
   - title: "Popular Works"
     url: /popularworks/    
     
-  - title: "CV"
-    url: /cv/
+
     
