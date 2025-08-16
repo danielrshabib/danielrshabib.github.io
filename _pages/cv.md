@@ -1,17 +1,13 @@
 ---
 layout: archive
 title: "CV"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_depth: 2
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+{% include toc %}
 
 ## Education
 
