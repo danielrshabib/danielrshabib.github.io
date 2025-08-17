@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($x-large) {
-    padding-right: 2rem; // Give sidebar content space from viewport edge
+    padding-right: 0;
   }
 
   h2, h3, h4, h5, h6 {
@@ -77,7 +77,7 @@
     float: right;
     width: 300px; // Fixed width for the TOC
     margin-left: 2rem; // Space between text and TOC
-    margin-right: 0;
+    margin-right: 0; // No right margin - sits at edge of main content
     margin-bottom: 1em;
     margin-top: 0;
   }
@@ -85,7 +85,7 @@
   @include breakpoint($x-large) {
     width: 350px; // Slightly wider on very large screens
     margin-left: 2.5rem;
-    margin-right: 0;
+    margin-right: 0; // No right margin - sits at edge of main content
   }
 
   // Style the TOC container
