@@ -49,7 +49,7 @@ redirect_from:
 ### Cancer Wet Lab
 
 * Jan 2019-Dec 2021: **Cancer Researcher**
-  * [Institute for NanoBioTechnology](https://inbt.jhu.edu/), Johns Hopkins University
+  * Johns Hopkins [Institute for NanoBioTechnology](https://inbt.jhu.edu/)
   * Mentor: Konstantinos Konstantopoulos, PhD
 * June 2020-Aug 2020: **Cancer Research Assistant**
   * Virginia Tech Carilion [Fralin Biomedical Research Institute](https://fbri.vtc.vt.edu/research/labs/lamouille.html)
@@ -58,7 +58,7 @@ redirect_from:
 ### Substance Use
 
 * Jan 2022-July 2022 & Summer 2021: **Postbaccalaureate Fellow and Summer Intern**
-  * National Institute on Drug Abuse [Technology and Translational Research Unit](https://bcurtislab.com/team/)
+  * National Institute on Drug Abuse [Technology and Translational Research Unit](https://irp.nida.nih.gov/organization/tamb/ttru/)
   * Mentor: Brenda Curtis, PhD, MSPH
 * June 2020-July 2022: **Student Principal Investigator**
   * Johns Hopkins University
