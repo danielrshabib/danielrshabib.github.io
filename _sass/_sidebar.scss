@@ -64,6 +64,27 @@
     width: $right-sidebar-width;
     margin-right: 2rem;         // more spacing on very wide screens
   }
+
+}
+
+/*
+   Force TOC to always stay at top, never go to sidebar
+   ========================================================================== */
+
+.sidebar__right:has(.toc) {
+  @include breakpoint($large) {
+    position: static;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 2em;
+  }
+
+  @include breakpoint($x-large) {
+    width: 100%;
+    margin-right: 0;
+  }
 }
 
 /*
