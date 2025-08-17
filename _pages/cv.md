@@ -11,8 +11,10 @@ redirect_from:
 
 ## Education
 
-* Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
-* Vanderbilt University School of Medicine, M.D. and Certificate in Biomedical Ethics, July 2022-May 2026 (expected)
+* **Johns Hopkins University**, Aug 2018-Dec 2021
+  * B.A. in Biophysics with Honors and Minor in Bioethics
+* **Vanderbilt University School of Medicine**, July 2022-May 2026 (expected)
+  * M.D. and Certificate in Biomedical Ethics
 
 ## Medical Technology Experience
 
@@ -38,7 +40,7 @@ redirect_from:
   * Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
 * Sep 2020-Dec 2021: **Student Researcher**
-  * Johns Hopkins Medicine [Neuro-Oncology Surgical Outcomes Lab](https://www.jhuneurolab.com/)
+  * Johns Hopkins [Neuro-Oncology Surgical Outcomes Lab](https://www.jhuneurolab.com/)
   * Mentor: Debraj Mukherjee, MD, MPH
 * Oct 2018-Jan 2020: **Research Assistant**
   * Johns Hopkins Wilmer Eye Institute
