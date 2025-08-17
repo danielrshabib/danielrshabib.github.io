@@ -24,9 +24,8 @@
     }
   }
 
-
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 2rem; // Give sidebar content space from viewport edge
   }
 
   h2, h3, h4, h5, h6 {
@@ -54,23 +53,18 @@
 
   @include breakpoint($large) {
     position: relative;
-    float: right;              // current layout method
+    float: right;              // keeps sidebar on the right
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12); // spacing from main content
+    margin-right: 1.5rem;      // spacing from viewport edge
     z-index: 10;
-
-    // You can add right margin to give space from viewport edge
-    margin-right: 1.5rem;      
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-
-    // Optional: increase right spacing on very large screens
-    margin-right: 2rem;
+    margin-right: 2rem;         // more spacing on very wide screens
   }
 }
-
 
 /*
    Author profile and links
@@ -80,8 +74,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -123,6 +115,7 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
@@ -143,7 +136,6 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
