@@ -78,13 +78,13 @@
     width: 300px; // Fixed width for the TOC
     margin-left: 0.25rem; // Space between text and TOC
     margin-right: 0; // No right margin - sits at edge of main content
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     margin-top: 0;
   }
 
   @include breakpoint($x-large) {
     width: 350px; // Slightly wider on very large screens
-    margin-left: 2.5rem;
+    margin-left: 0.75rem;
     margin-right: 0; // No right margin - sits at edge of main content
   }
 
@@ -93,7 +93,7 @@
     background: #f8f9fa;
     border: 1px solid #e9ecef;
     border-radius: $border-radius;
-    padding: 1rem;
+    padding: 0.5rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 
     .nav__title {
