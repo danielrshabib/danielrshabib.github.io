@@ -54,16 +54,23 @@
 
   @include breakpoint($large) {
     position: relative;
-    float: right;
+    float: right;              // current layout method
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    margin-left: span(0.5 of 12); // spacing from main content
     z-index: 10;
+
+    // You can add right margin to give space from viewport edge
+    margin-right: 1.5rem;      
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
+
+    // Optional: increase right spacing on very large screens
+    margin-right: 2rem;
   }
 }
+
 
 /*
    Author profile and links
