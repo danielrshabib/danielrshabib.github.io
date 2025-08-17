@@ -25,8 +25,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
-    padding-right: 0;
+    padding-right: 2rem; // Give sidebar content space from viewport edge
   }
 
   h2, h3, h4, h5, h6 {
@@ -54,14 +53,16 @@
 
   @include breakpoint($large) {
     position: relative;
-    float: right;
+    float: right;              // keeps sidebar on the right
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    margin-left: span(0.5 of 12); // spacing from main content
+    margin-right: 1.5rem;      // spacing from viewport edge
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
+    margin-right: 2rem;         // more spacing on very wide screens
   }
 
 }
