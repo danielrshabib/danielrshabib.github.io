@@ -68,22 +68,59 @@
 }
 
 /*
-   Force TOC to always stay at top, never go to sidebar
+   Force TOC to always stay at top, never go to sidebar, but float right with text wrapping
    ========================================================================== */
 
 .sidebar__right:has(.toc) {
   @include breakpoint($large) {
     position: static;
-    float: none;
-    width: 100%;
-    margin-left: 0;
+    float: right;
+    width: 300px; // Fixed width for the TOC
+    margin-left: 2rem; // Space between text and TOC
     margin-right: 0;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
+    margin-top: 0;
   }
 
   @include breakpoint($x-large) {
-    width: 100%;
+    width: 350px; // Slightly wider on very large screens
+    margin-left: 2.5rem;
     margin-right: 0;
+  }
+
+  // Style the TOC container
+  .toc {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: $border-radius;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+    .nav__title {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      font-size: $type-size-6;
+      color: #495057;
+    }
+
+    .toc__menu {
+      margin-bottom: 0;
+      font-size: $type-size-7;
+      
+      li {
+        margin-bottom: 0.25rem;
+      }
+      
+      a {
+        color: #495057;
+        text-decoration: none;
+        
+        &:hover {
+          color: #007bff;
+          text-decoration: underline;
+        }
+      }
+    }
   }
 }
 
