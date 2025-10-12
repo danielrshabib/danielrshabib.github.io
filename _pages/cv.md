@@ -30,8 +30,8 @@ redirect_from:
 ## Research Experience
 ### Clinical
 
-* April 2023-Present: **[Oncologic Surgery Researcher](https://www.vumc.org/vcrg/person/daniel-habib)**
-  * Vanderbilt University Medical Center
+* April 2023-Present: **Oncologic Surgery Researcher**
+  * [Vanderbilt University Medical Center](https://www.vumc.org/vcrg/person/members)
   * Mentor: Aimal Khan, MD
 * Nov 2022-Present: **Surgical Analytics and Ethics Researcher**
   * Vanderbilt University Medical Center
@@ -61,7 +61,7 @@ redirect_from:
   * National Institute on Drug Abuse [Technology and Translational Research Unit](https://irp.nida.nih.gov/organization/tamb/ttru/)
   * Mentor: Brenda Curtis, PhD, MSPH
 * June 2020-July 2022: **Student Principal Investigator**
-  * Johns Hopkins University
+  * Johns Hopkins University Department of Sociology
   * Mentor: Andrew Cherlin, PhD
 
 ### COVID-19
@@ -85,6 +85,23 @@ redirect_from:
 
 * July 2024-Present: **Honor Council Co-Chair and Representative**, Vanderbilt University School of Medicine Student Government
 * Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
+
+## Honors, Awards, and Grants
+
+* 2025: Vanderbilt Institute for Global Health Overall Family Fellowship for International Research ($1,000)
+* 2025: Vanderbilt Institute for Clinical and Translational Research Grant ($5,000)
+* 2025: Top 10 Student Research Presentation in Vanderbilt University School of Medicine
+* 2024: Medical Student Research Initiation Grant ($4,000), American Society of Colon and Rectal Surgeons
+* 2024: Honorable Mention, Vanderbilt University Medical Center 42nd Annual Research Forum
+* 2024: National Institute on Drug Abuse Featured Paper of the Month ([April](https://irp.nida.nih.gov/featured-paper-apil-2024/)) 
+* 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
+* 2022: PanHellenic Scholarship Foundation Award ($2,500)
+* 2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
+* 2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
+* 2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
+* 2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
+* 2018: Johns Hopkins University Creative Writing Contest Winner
+* 2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
 
 ## Publications
 ### Peer-Reviewed Journal Articles
@@ -154,29 +171,12 @@ redirect_from:
 ## Media and Related Mentions
 * Kusterbeck, S. [Ethical controversy persists regarding pelvic exams on anesthetized patients](https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients). Medical Ethics Advisor. Published January 1, 2025.
 
-## Honors, Awards, and Grants
-
-* 2025: Vanderbilt Institute for Global Health Overall Family Fellowship for International Research ($1,000)
-* 2025: Vanderbilt Institute for Clinical and Translational Research Grant ($5,000)
-* 2025: Top 10 Student Research Presentation in Vanderbilt University School of Medicine
-* 2024: Medical Student Research Initiation Grant ($4,000), American Society of Colon and Rectal Surgeons
-* 2024: Honorable Mention, Vanderbilt University Medical Center 42nd Annual Research Forum
-* 2024: National Institute on Drug Abuse Featured Paper of the Month ([April](https://irp.nida.nih.gov/featured-paper-apil-2024/)) 
-* 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
-* 2022: PanHellenic Scholarship Foundation Award ($2,500)
-* 2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
-* 2021: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
-* 2021: Omicron Delta Kappa Honor Society, Beta Circle
-* 2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
-* 2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
-* 2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
-* 2019: Johns Hopkins University Creative Writing Contest Winner
-* 2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
-
 ## Professional Associations
 
 * 2025–: American Academy of Otolaryngology-Head and Neck Surgery, Student Member
 * 2024–: American College of Surgeons, Student Member
+* 2021–: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
+* 2021–: Omicron Delta Kappa Honor Society, Beta Circle
 
 ## Elective Coursework
 
