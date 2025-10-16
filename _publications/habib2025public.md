@@ -7,7 +7,7 @@ date: 2025-09-14
 venue: 'OTO Open'
 clink: 'https://doi.org/10.1002/oto2.70160'
 purl: '/files/habib2025public.pdf'
-citation: '<b>Habib DRS</b>*, Bishay AE*, Langerman AJ, Tawfik KO. Public awareness of hearing aids and cochlear implants: A Google Trends analysis of media campaigns. <i>OTO Open</i>. 2025. doi: 10.1002/oto2.70160'
+citation: '<b>Habib DRS</b>*, Bishay AE*, Langerman AJ, Tawfik KO. Public awareness of hearing aids and cochlear implants: A Google Trends analysis of media campaigns. <i>OTO Open</i>. 2025;9:e70160. doi:10.1002/oto2.70160'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2025public.pdf)
 
