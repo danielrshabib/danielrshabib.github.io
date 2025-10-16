@@ -7,7 +7,7 @@ date: 2025-06-26
 venue: 'Nature Materials'
 clink: 'https://doi.org/10.1038/s41563-025-02269-9'
 purl: '/files/tran2025cytoplasmic.pdf'
-citation: 'Tran A, Wisniewski E, Mistriotis P, Stoletov K, Parlani M, Amitrano A, Ifemembi B, Lee SJ, Bera K, Zhang Y, Tuntithavornwat S, Afthinos A, Kiepas A, Agarwal B, Nath S, Jamieson J, Zuo Y, <b>Habib D</b>, Wu PH, Martin S, Gerecht S, Gu L, Lewis J, Kalab P, Friedl P, Konstantopoulos K. Cytoplasmic anillin and Ect2 promote RhoA/myosin II-dependent confined migration and invasion. <i>Nat Mater</i>. 2025. doi:10.1038/s41563-025-02269-9'
+citation: 'Tran A, Wisniewski E, Mistriotis P, Stoletov K, Parlani M, Amitrano A, Ifemembi B, Lee SJ, Bera K, Zhang Y, Tuntithavornwat S, Afthinos A, Kiepas A, Agarwal B, Nath S, Jamieson J, Zuo Y, <b>Habib D</b>, Wu PH, Martin S, Gerecht S, Gu L, Lewis J, Kalab P, Friedl P, Konstantopoulos K. Cytoplasmic anillin and Ect2 promote RhoA/myosin II-dependent confined migration and invasion. <i>Nat Mater</i>. 2025;24(9):1476-1488 doi:10.1038/s41563-025-02269-9'
 ---
 [Download PDF here](http://danielrshabib.github.io/files/tran2025cytoplasmic.pdf)
 
