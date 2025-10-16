@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Highlighted Works in Otolaryngology
 <ul>
+    <li><b>Habib DRS</b>*, Bishay AE*, Langerman AJ, Tawfik KO. <a href="https://danielrshabib.github.io/publications/habib2025public">Public awareness of hearing aids and cochlear implants: A Google Trends analysis of media campaigns</a>. <i>OTO Open</i>. 2025;9:e70160. doi:10.1002/oto2.70160</li>
     <li>Aweeda M, Fassler C, <b>Habib DRS</b>, Miller AB, Ortega C, Prasad K, Chen CL, Lopez M, Duffus SH, Belcher RH. <a href="https://danielrshabib.github.io/publications/aweeda2025risk">Risk factors and rates for hypocalcemia after pediatric thyroidectomy: A systematic review and meta-analysis</a>. <i>OTO Open</i>. 2025;9:e70130. doi:10.1002/oto2.70130</li>
     <li>Collins RS, Lee IA, <b>Habib DRS</b>, Garner DC, Johnson DB, Patel PN, Topf MC. <a href="https://danielrshabib.github.io/publications/collins2025cost">Cost evaluation in head and neck cancer clinical trials: Implications for high-value care</a>. <i>Am J Otolaryngol</i>. 2025;46(5):104655. doi:10.1016/j.amjoto.2025.104655</li>
     <li><b>Habib DRS</b>, Jamal N, Patel K, Wootten CT, Belcher RH. <a href="https://danielrshabib.github.io/publications/habib2024perioperative">Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye</a>. <i>Ann Otol Rhinol Laryng</i>. 2024;134(4):245-248. doi:10.1177/00034894241303021</li>
