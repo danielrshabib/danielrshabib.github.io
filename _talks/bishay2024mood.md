@@ -7,7 +7,7 @@ type: "Poster"
 venue: 'American Society for Stereotactic and Functional Neurosurgery Biennial Meeting'
 location: "Nashville, TN, USA"
 ---	
-This poster discussed the impact of ventral intermediate nucleus (VIM) DBS on anxiety, depression, and cognition in essential tremor (ET) patients. Our results suggest that VIM DBS for ET is unlikely to cause adverse neuropsychological changes.
+This [poster](https://danielrshabib.github.io/files/bishay2024mood-poster.pdf) discussed the impact of ventral intermediate nucleus (VIM) DBS on anxiety, depression, and cognition in essential tremor (ET) patients. Our results suggest that VIM DBS for ET is unlikely to cause adverse neuropsychological changes.
 <br><br>
 Recommended citation: Bishay T, Lyons AT, **Habib DRS**, Hughes NC, Qian H, Summers JE, Ball, TJ, Englot, DJ, Dhima K, Bick SK. Mood and cognitive effects of deep brain stimulation for essential tremor. Poster presented at: American Society for Stereotactic and Functional Neurosurgery Biennial Meeting; June 3, 2024; Nashville, TN, USA.
 <br><br>
