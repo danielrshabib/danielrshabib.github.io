@@ -12,5 +12,5 @@ Head and neck cancer patients undergoing free flap surgery often face significan
 Recommended citation: **Habib DRS**, Sridhar S, Suh H, Larson D, Swain BB, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Risk factors for increased postoperative pain in head and neck cancer free flap reconstruction patients. Oral presentation at: American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting; October 11, 2025; Indianapolis, IN, USA. 
 <br><br>
 <div style="text-align:center">
-    <img src="../images/habib2025risk" alt="Graphic of brain with medical cross in the middle above an arrow pointing to the pain scale" style="height:auto; max-height:500px; min-height:100px;">
+    <img src="../images/habib2025risk.png" alt="Graphic of brain with medical cross in the middle above an arrow pointing to the pain scale" style="height:auto; max-height:500px; min-height:100px;">
 </div>
