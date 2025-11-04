@@ -111,20 +111,22 @@ redirect_from:
 
 ### Other Scientific Publications
 <ol>
-<li>**Habib DRS**, Jamal N, Patel K, Wootten CT, Belcher RH. [Response to letter to the editor on “Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye”](http://danielrshabib.github.io/files/habib2025response.pdf). *Ann Otol Rhinol Laryng*. 2025;134(9):703-704. doi:[10.1177/00034894251340544](https://doi.org/10.1177/00034894251340544)
-<li>**Habib D**. [Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states](http://danielrshabib.github.io/files/habib2020restriction.pdf). *Cambio*. 2020:1-12. doi:[10.13128/cambio-9729](https://doi.org/10.13128/cambio-9729)
+<li><b>Habib DRS</b>, Jamal N, Patel K, Wootten CT, Belcher RH. <a href="http://danielrshabib.github.io/files/habib2025response.pdf">Response to letter to the editor on “Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye”</a>. <i>Ann Otol Rhinol Laryng</i>. 2025;134(9):703-704. doi: <a href="https://doi.org/10.1177/00034894251340544">10.1177/00034894251340544</a></li>
+<li><b>Habib D</b>. <a href="http://danielrshabib.github.io/files/habib2020restriction.pdf">Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states</a>. <i>Cambio</i>. 2020:1-12. doi: <a href="https://doi.org/10.13128/cambio-9729">10.13128/cambio-9729</a></li>
 </ol>
   
 ### Popular Works
-<ol>{% for post in site.popularworks reversed %}
+<ol>
+  {% for post in site.popularworks reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+  {% endfor %}
+</ol>
 
 ### Undergraduate Journal Articles
 <ol>
-<li>**Habib D**. Computational analysis on the relationship between state political party dominance and lack of health insurance. *Hopkins Undergraduate Research Journal*. 2020:44-46.</li>
-<li>**Habib D**. An act divided: America’s uninsured. *The Cornell Healthcare Review*. 2019:23-24.</li>
-</ol>ol>
+<li><b>Habib D</b>. Computational analysis on the relationship between state political party dominance and lack of health insurance. <i>Hopkins Undergraduate Research Journal</i>. 2020:44-46.</li>
+<li><b>Habib D</b>. An act divided: America’s uninsured. <i>The Cornell Healthcare Review</i>. 2019:23-24.</li>
+</ol>
   
 ## Conference Presentations
 ### Oral
@@ -153,32 +155,34 @@ redirect_from:
 
 ### Local
 <ol>
-<li>**Habib DRS**, Naranjo C, Langerman AJ. Informed consent challenges: A mixed-methods study of hospital ethics consultations. [Oral presentation](https://danielrshabib.github.io/files/habib2025informed-presentation.pdf) at:  Vanderbilt University School of Medicine Student Research Symposium; December 1, 2025; Nashville, TN, USA.</li>
-<li>Naranjo C, **Habib DRS**, Kong JA, Haynes, DS, Moberly AC. Noise exposure and hearing protection behaviors in Nashville’s live-music district. [Poster](https://danielrshabib.github.io/files/naranjo2025noise-poster.pdf) presented at: Vanderbilt Population and Public Health Colloquium; November 14, 2025; Nashville, TN, USA.</li>
-<li>Gary M, **Habib D**, Giorgi S, Isman K, Aich A, Liu T, Lahnala A, Hemmons J, Kady A, Demko Z, Lou S, Fried Z, Curtis B. Systematic analysis of substance use discussions on Reddit: A novel dataset for interdisciplinary research. Poster presented at: National Institute on Drug Abuse Research Day; May 8, 2025; Baltimore, MD, USA.</li>
-<li>Naranjo C, **Habib DRS**, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. [Poster](https://danielrshabib.github.io/files/naranjo2025self-poster.pdf) presented at: National Otolaryngology Interest Group Scholars in Otolaryngology Research Conference; April 26, 2025; Virtual.</li>
-<li>**Habib DRS**, Shou M, Rogers JL, Sun K, Wang CC, Khan A. Less is more: Risk factors and survival outcomes of overtreatment for early-stage colorectal cancer. [Poster](https://danielrshabib.github.io/files/habib2025overtreatment-poster.pdf) presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>Swain BB, Si CD, Jin W, **Habib DRS**, Topf MC. Identifying risk factors for pharyngocutaneous fistula formation following total laryngectomy. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>Doctorman S, **Habib DRS**, Vivek N, Lee VA, Larson D, Jamal N, Patel K, Zhao S, Wilcox LJ. Predictors of high-yield airway evaluations in pediatric patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>Larson D, Suh H, Sridhar S, **Habib DRS**, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Effect of preoperative depression on survival and treatment-related outcomes in head and neck cancer patients undergoing free flap reconstruction. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>Suh H, Larson D, **Habib DRS**, Sridhar S, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Contributory factors in perioperative pain scores among head and neck cancer free flap reconstruction patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>Bishay AE, Tay A, **Habib DRS**, Qian H, Ball TJ, Englot DJ, Dhima K, Bick SK. Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
-<li>**Habib D**. Exposure to people who use drugs influences perceptions about drug-related stigma. [Poster](https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing) presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.</li>
-<li>**Habib D**. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.</li>
-<li>**Habib D**. Mining digital media to understand the individual and societal impact of substance use disorders. [Poster](https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual. </li>
-<li>**Habib D**. Applying a deterministic anonymous incentive method to study high school vaping. [Oral presentation](https://symposium.foragerone.com/dreams-fall-2021/presentations/33862) at: Johns Hopkins University Day of Undergraduate Research in Engineering, Arts, Medicine, and the Sciences; October 18, 2021; Virtual.</li>
-<li>**Habib D**, Elmore N, Gulas S, Ruhde N, Mathew D. The ethics of restrictions in the Middle East’s COVID-19 response. [Oral presentation](https://danielrshabib.github.io/images/habib2021ethics.png) at: 39th Annual Mid-Atlantic Undergraduate Social Research Conference; April 22, 2021; Virtual.</li>
-<li>**Habib D**. Vape use in high school social networks. [Oral presentation](https://docs.google.com/presentation/d/1EjeqKLmYhNKYt0_Q7bcUhV57z489aUBL/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true) at: Johns Hopkins University Undergraduate Research Symposium; October 27, 2020; Virtual.</li>
+<li><b>Habib DRS</b>, Naranjo C, Langerman AJ. Informed consent challenges: A mixed-methods study of hospital ethics consultations. <a href="https://danielrshabib.github.io/files/habib2025informed-presentation.pdf">Oral presentation</a> at: Vanderbilt University School of Medicine Student Research Symposium; December 1, 2025; Nashville, TN, USA.</li>
+<li>Naranjo C, <b>Habib DRS</b>, Kong JA, Haynes DS, Moberly AC. Noise exposure and hearing protection behaviors in Nashville’s live-music district. <a href="https://danielrshabib.github.io/files/naranjo2025noise-poster.pdf">Poster</a> presented at: Vanderbilt Population and Public Health Colloquium; November 14, 2025; Nashville, TN, USA.</li>
+<li>Gary M, <b>Habib D</b>, Giorgi S, Isman K, Aich A, Liu T, Lahnala A, Hemmons J, Kady A, Demko Z, Lou S, Fried Z, Curtis B. Systematic analysis of substance use discussions on Reddit: A novel dataset for interdisciplinary research. Poster presented at: National Institute on Drug Abuse Research Day; May 8, 2025; Baltimore, MD, USA.</li>
+<li>Naranjo C, <b>Habib DRS</b>, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. <a href="https://danielrshabib.github.io/files/naranjo2025self-poster.pdf">Poster</a> presented at: National Otolaryngology Interest Group Scholars in Otolaryngology Research Conference; April 26, 2025; Virtual.</li>
+<li><b>Habib DRS</b>, Shou M, Rogers JL, Sun K, Wang CC, Khan A. Less is more: Risk factors and survival outcomes of overtreatment for early-stage colorectal cancer. <a href="https://danielrshabib.github.io/files/habib2025overtreatment-poster.pdf">Poster</a> presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li>Swain BB, Si CD, Jin W, <b>Habib DRS</b>, Topf MC. Identifying risk factors for pharyngocutaneous fistula formation following total laryngectomy. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li>Doctorman S, <b>Habib DRS</b>, Vivek N, Lee VA, Larson D, Jamal N, Patel K, Zhao S, Wilcox LJ. Predictors of high-yield airway evaluations in pediatric patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li>Larson D, Suh H, Sridhar S, <b>Habib DRS</b>, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Effect of preoperative depression on survival and treatment-related outcomes in head and neck cancer patients undergoing free flap reconstruction. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li>Suh H, Larson D, <b>Habib DRS</b>, Sridhar S, Vittetoe K, Sengstack D, Topf MC, Hicks MD. Contributory factors in perioperative pain scores among head and neck cancer free flap reconstruction patients. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li>Bishay AE, Tay A, <b>Habib DRS</b>, Qian H, Ball TJ, Englot DJ, Dhima K, Bick SK. Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia. Poster presented at: Dan Beauchamp Vanderbilt University Medical Center Research Day; February 21, 2025; Nashville, TN, USA.</li>
+<li><b>Habib D</b>. Exposure to people who use drugs influences perceptions about drug-related stigma. <a href="https://drive.google.com/file/d/1LLG5mzLwjDQIfKL6LC1vxS9F9NDN2AGp/view?usp=sharing">Poster</a> presented at: National Institutes of Health Postbac Poster Day; May 20, 2022; Virtual.</li>
+<li><b>Habib D</b>. Personal encounters and subjective experience: Drug-related stigma perception on social media. Oral presentation at: National Institute on Drug Abuse Research Day; May 18, 2022; Virtual.</li>
+<li><b>Habib D</b>. Mining digital media to understand the individual and societal impact of substance use disorders. <a href="https://docs.google.com/presentation/d/110yPB1jmrSIZekYzHW51Y4iySy3_ZQyB/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true">Poster</a> presented at: National Institutes of Health Summer Research Presentation Week; August 4, 2021; Virtual.</li>
+<li><b>Habib D</b>. Applying a deterministic anonymous incentive method to study high school vaping. <a href="https://symposium.foragerone.com/dreams-fall-2021/presentations/33862">Oral presentation</a> at: Johns Hopkins University Day of Undergraduate Research in Engineering, Arts, Medicine, and the Sciences; October 18, 2021; Virtual.</li>
+<li><b>Habib D</b>, Elmore N, Gulas S, Ruhde N, Mathew D. The ethics of restrictions in the Middle East’s COVID-19 response. <a href="https://danielrshabib.github.io/images/habib2021ethics.png">Oral presentation</a> at: 39th Annual Mid-Atlantic Undergraduate Social Research Conference; April 22, 2021; Virtual.</li>
+<li><b>Habib D</b>. Vape use in high school social networks. <a href="https://docs.google.com/presentation/d/1EjeqKLmYhNKYt0_Q7bcUhV57z489aUBL/edit?usp=sharing&ouid=111727692220340482351&rtpof=true&sd=true">Oral presentation</a> at: Johns Hopkins University Undergraduate Research Symposium; October 27, 2020; Virtual.</li>
 </ol>
 
 ## Invited Talks
+<ol>
 <li>Gaps in Informed Consent. Vanderbilt University Medical Center Ethics Committee Meeting; June 10, 2025; Virtual.</li>
 <li>Chemistry and Everyday Living–Advice from a JHU Alum. Johns Hopkins University Organic Chemistry Lab; October 5, 2023; Virtual.</li>
+</ol>
 
 ## Media and Related Mentions
 <ol>
-<li>Kusterbeck, S. [Informed consent practices in anesthesia field raise ethical concerns](https://www.clinician.com/articles/informed-consent-practices-in-anesthesia-field-raise-ethical-concerns). Medical Ethics Advisor.  Published November 1, 2025.</li>
-<li>Kusterbeck, S. [Ethical controversy persists regarding pelvic exams on anesthetized patients](https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients). Medical Ethics Advisor. Published January 1, 2025.</li>
+<li>Kusterbeck, S. <a href="https://www.clinician.com/articles/informed-consent-practices-in-anesthesia-field-raise-ethical-concerns">Informed consent practices in anesthesia field raise ethical concerns</a>. <i>Medical Ethics Advisor</i>. Published November 1, 2025.</li>
+<li>Kusterbeck, S. <a href="https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients">Ethical controversy persists regarding pelvic exams on anesthetized patients</a>. <i>Medical Ethics Advisor</i>. Published January 1, 2025.</li>
 </ol>
 
 ## Professional Associations
