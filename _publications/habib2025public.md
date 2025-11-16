@@ -12,3 +12,5 @@ citation: '<b>Habib DRS</b>*, Bishay AE*, Langerman AJ, Tawfik KO. Public awaren
 [Download PDF here](http://danielrshabib.github.io/files/habib2025public.pdf)
 
 Despite the growing need for hearing technology, public interest in cochlear implants (CIs) remains low compared to hearing aids (HAs). Using Google Trends data from 2004–2024, we found that HA-related searches steadily increased, while CI searches remained relatively flat. Only a few events, like International CI Day or major policy changes, led to brief spikes in CI awareness. These findings suggest a need for more sustained efforts to raise public understanding of CIs.
+
+*equally contributing first authors
