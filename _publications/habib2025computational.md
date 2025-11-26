@@ -7,7 +7,7 @@ date: 2025-11-22
 venue: "Journal of Medical Systems"
 clink: "https://doi.org/10.1007/s10916-025-02303-y"
 purl: "/files/habib2025computational.pdf"
-citation: "<b>Habib DRS</b>, Mahajan I, Evancha B, Micheel C, Fabbri D. Computational framework for structuring and analyzing clinical trial criteria for AI-guided fine-grained matching. <i>J Med Sys</i>. 2025;49:168. doi:10.1007/s10916-025-02303-y"
+citation: "<b>Habib DRS</b>, Mahajan I, Evancha B, Micheel C, Fabbri D. Computational framework for structuring and analyzing clinical trial criteria for AI-guided fine-grained matching. <i>J Med Sys</i>. 2025;49(1):168. doi:10.1007/s10916-025-02303-y"
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2025computational.pdf)
 
