@@ -7,7 +7,7 @@ date: 2025-12-04
 venue: "American Journal of Otolaryngology"
 clink: "https://doi.org/10.1016/j.amjoto.2025.104780"
 purl: "/files/swain2025risk.pdf"
-citation: "Swain B, <b>Habib DRS</b>, Jin W, Duvall P, Sinard RJ, Mannion K, Rohde SL, Langerman AJ, Rosenthal EL, Hicks MD, Topf MC. Risk factors for dysphagia following total laryngectomy. <i>Am J Otolaryngol</i>. doi:10.1016/j.amjoto.2025.104780"
+citation: "Swain B, <b>Habib DRS</b>, Jin W, Duvall P, Sinard RJ, Mannion K, Rohde SL, Langerman AJ, Rosenthal EL, Hicks MD, Topf MC. Risk factors for dysphagia following total laryngectomy. <i>Am J Otolaryngol</i>. 2025. doi:10.1016/j.amjoto.2025.104780"
 ---
 [Download PDF here](http://danielrshabib.github.io/files/swain2025risk.pdf)
 
