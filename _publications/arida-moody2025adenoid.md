@@ -7,7 +7,7 @@ date: 2025-12-04
 venue: "American Journal of Otolaryngology"
 clink: "https://doi.org/10.1016/j.amjoto.2025.104764"
 purl: "/files/arida-moody2025adenoid.pdf"
-citation: "Arida-Moody L, <b>Habib DRS</b>, Neal EH, Whigham AS. Adenoid regrowth and obesity in a longitudinal pediatric cohort. <i>Am J Otolaryngol</i>. doi:10.1016/j.amjoto.2025.104764"
+citation: "Arida-Moody L, <b>Habib DRS</b>, Neal EH, Whigham AS. Adenoid regrowth and obesity in a longitudinal pediatric cohort. <i>Am J Otolaryngol</i>. 2025. doi:10.1016/j.amjoto.2025.104764"
 ---
 [Download PDF here](http://danielrshabib.github.io/files/arida-moody2025adenoid.pdf)
 
