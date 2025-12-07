@@ -6,6 +6,8 @@ author_profile: true
 ---
 ## Highlighted Works in Otolaryngology
 <ol>
+    <li>Swain B, <b>Habib DRS</b>, Jin W, Duvall P, Sinard RJ, Mannion K, Rohde SL, Langerman AJ, Rosenthal EL, Hicks MD, Topf MC. <a href="https://danielrshabib.github.io/publications/swain2025risk">Risk factors for dysphagia following total laryngectomy</a>. <i>Am J Otolaryngol</i>. 2025. doi:10.1016/j.amjoto.2025.104780</li>
+    <li>Arida-Moody L, <b>Habib DRS</b>, Neal EH, Whigham AS. <a href="https://danielrshabib.github.io/publications/arida-moody2025adenoid">Adenoid regrowth and obesity in a longitudinal pediatric cohort</a>. <i>Am J Otolaryngol</i>. 2025. doi:10.1016/j.amjoto.2025.104764</li>
     <li><b>Habib DRS</b>, Patro A, Wu J, Davis S, Lipscomb B, Zhao S, Patel K, Wootten C, Whigham AS. <a href="https://danielrshabib.github.io/publications/habib2025multiple">Multiple drug-induced sleep endoscopy in pediatric obstructive sleep apnea: Obstruction patterns and outcomes</a>. <i>Ann Otol Rhinol Laryngol</i>. 2025. doi:10.1177/00034894251381169</li>
     <li><b>Habib DRS</b>*, Bishay AE*, Langerman AJ, Tawfik KO. <a href="https://danielrshabib.github.io/publications/habib2025public">Public awareness of hearing aids and cochlear implants: A Google Trends analysis of media campaigns</a>. <i>OTO Open</i>. 2025;9:e70160. doi:10.1002/oto2.70160</li>
     <li>Aweeda M, Fassler C, <b>Habib DRS</b>, Miller AB, Ortega C, Prasad K, Chen CL, Lopez M, Duffus SH, Belcher RH. <a href="https://danielrshabib.github.io/publications/aweeda2025risk">Risk factors and rates for hypocalcemia after pediatric thyroidectomy: A systematic review and meta-analysis</a>. <i>OTO Open</i>. 2025;9:e70130. doi:10.1002/oto2.70130</li>
