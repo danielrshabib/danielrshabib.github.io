@@ -111,6 +111,7 @@ redirect_from:
 
 ### Other Scientific Publications
 <ol>
+<li>Vela VX, <b>Habib D</b>. Women’s contested integration into the U.S. military and the persistent inequities that affect their health and well-being. <i>J Mil Hist</i>. 2026;90(1):163-175.</li>
 <li><b>Habib DRS</b>, Jamal N, Patel K, Wootten CT, Belcher RH. <a href="http://danielrshabib.github.io/files/habib2025response.pdf">Response to letter to the editor on “Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye”</a>. <i>Ann Otol Rhinol Laryng</i>. 2025;134(9):703-704. doi: <a href="https://doi.org/10.1177/00034894251340544">10.1177/00034894251340544</a></li>
 <li><b>Habib D</b>. <a href="http://danielrshabib.github.io/files/habib2020restriction.pdf">Restriction: The COVID-19 policy type of choice for fragile Middle Eastern states</a>. <i>Cambio</i>. 2020:1-12. doi: <a href="https://doi.org/10.13128/cambio-9729">10.13128/cambio-9729</a></li>
 </ol>
