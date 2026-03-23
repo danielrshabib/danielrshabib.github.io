@@ -11,8 +11,6 @@ I am a resident in Otolaryngology–Head and Neck Surgery at University of Calif
 
 I earned my M.D. degree from Vanderbilt University School of Medicine in May 2026. I led research on cochlear implant patient experiences, head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and surgical consent form language. Additionally, I studied surgical and patient-facing technology, worked as a consultant for [Merge Medical Device Studio](https://www.mergemed.com/), and developed AI-driven tools for medical record abstraction in clinical trials. I also volunteered as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
 
-I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children.
-
 <html>
 <head>
   <!-- Add the Font Awesome CSS link below -->
@@ -95,8 +93,10 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 ![Vanderbilt University School of Medicine Class of 2026 photo in white coats](../images/VUSMClassPhoto.png){: style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;"}
 
 <br>
+I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children.
+<br><br>
 During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19 information, early determinants of childhood illness, and the role of primary care in advancing health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://irp.nida.nih.gov/organization/tamb/ttru/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
-
+<br><br>
 Throughout my medical journey, I aspire to continue becoming a better person through each of my patients while spearheading surgical outcomes research, medical technology innovation, and advocacy for equitable healthcare and patients’ rights.
 
 <html>
