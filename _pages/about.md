@@ -74,7 +74,7 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
   <div class="container">
     <div class="column1">
       <h2>Education/Training</h2>
-      <p class="grad-info"><i class="fa-sharp fa-solid fa-hospital" aria-hidden="true"></i> <b>University of California, Los Angeles</b><br><i>Residency in Otolaryngology–Head and Neck Surgery - 2031</i></p>
+      <p class="grad-info"><i class="fa-sharp fa-solid fa-hospital" aria-hidden="true"></i> <b>University of California, Los Angeles</b><br><i>ENT Residency - Expected 2031</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>M.D., Certificate in Biomedical Ethics - 2026</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. Biophysics, Bioethics Minor - 2021</i></p>
     </div>
