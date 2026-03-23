@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a medical student at Vanderbilt University School of Medicine. I lead research on cochlear implant patient experiences, head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and surgical consent form language. As founder and CEO of [KairoSys Applied Intelligence](https://www.kairosysai.com/), I am currently leading development of an AI tool with a team of software engineers to make medical device design more efficient and patient-centered by synthesizing user feedback, regulatory reports, and patent data into actionable insights. Additionally, I study surgical and patient-facing technology, work as a consultant for [Merge Medical Device Studio](https://www.mergemed.com/), and develop AI-driven tools for medical record abstraction in clinical trials. I also volunteer as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
+I am a resident in Otolaryngology–Head and Neck Surgery at University of California, Los Angeles. As founder and CEO of [KairoSys Applied Intelligence](https://www.kairosysai.com/), I currently lead development of an AI tool with a team of software engineers to make medical device design more efficient and patient-centered by synthesizing user feedback, regulatory reports, and patent data into actionable insights. 
+
+I earned my M.D. degree from Vanderbilt University School of Medicine in May 2026. I led research on cochlear implant patient experiences, head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and surgical consent form language. Additionally, I studied surgical and patient-facing technology, worked as a consultant for [Merge Medical Device Studio](https://www.mergemed.com/), and developed AI-driven tools for medical record abstraction in clinical trials. I also volunteered as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
 
 I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children.
 
@@ -71,9 +73,10 @@ I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophy
 <body>
   <div class="container">
     <div class="column1">
-      <h2>Education</h2>
+      <h2>Education/Training</h2>
+      <p class="grad-info"><i class="fa-sharp fa-solid fa-hospital" aria-hidden="true"></i> <b>University of California, Los Angeles</b><br><i>Residency in Otolaryngology–Head and Neck Surgery - 2031</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>M.D., Certificate in Biomedical Ethics - 2026</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. Biophysics, Bioethics Minor - 2021</i></p>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>Doctor of Medicine - Expected 2026</i></p>
     </div>
     <div class="column2">
       <h2>Interests</h2>
