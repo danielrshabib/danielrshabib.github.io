@@ -138,6 +138,14 @@ redirect_from:
   {% endfor %}
 </ol>
 
+### Panel
+<ol>
+  {% assign panel_talks = site.talks | where: "type", "Panel" %}
+  {% for post in panel_talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ol>
+
 ### Poster
 <ol>
   {% assign poster_talks = site.talks | where: "type", "Poster" %}
