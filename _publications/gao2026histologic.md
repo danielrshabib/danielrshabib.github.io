@@ -1,15 +1,15 @@
 ---
 title: "Histologic origin and survival in salivary duct carcinoma: A retrospective cohort study"
 collection: publications
-permalink: /publications/gao2025histologic
+permalink: /publications/gao2026histologic
 excerpt: 'Salivary duct carcinoma (SDC) is a rare and aggressive cancer that can arise either <i>de novo</i> or from a pre-existing benign tumor called pleomorphic adenoma, with <i>de novo</i> cases presenting with significantly more advanced disease (Stage IV: 61% vs 32%, p=.011; T4 tumors: 53% vs 28%, p=.040). This study analyzed 68 patients treated with curative intent to determine whether the cancers origin affects survival outcomes, finding no significant differences in overall survival (p=.28) or disease-free survival (p=.19), though patients with SDC arising from pleomorphic adenoma showed numerically higher 2-year survival rates (87% vs 81% for overall survival; 63% vs 57% for disease-free survival). Distant recurrence was the primary cause of treatment failure, occurring in 37% of <i>de novo</i> cases compared to 20% in those arising from pleomorphic adenoma (p=.23), with bone (14%), lung (11%), and liver (8%) being the most common sites. Pathologic lymph node involvement emerged as the only independent predictor of disease recurrence (hazard ratio 2.98, 95% CI 1.40-6.37, p=.005), highlighting the urgent need for novel systemic therapies such as neoadjuvant treatments to prevent distant spread, particularly in patients with nodal metastasis at diagnosis.'
-date: 2025-03-26
+date: 2026-03-26
 venue: 'OTO Open'
 clink: 'https://doi.org/10.1002/oto2.70224'
-purl: '/files/gao2025histologic.pdf'
+purl: '/files/gao2026histologic.pdf'
 citation: 'Gao L, Sridhar S, <b>Habib DRS</b>, Aweeda M, Topf MC, Langerman A. Histologic origin and survival in salivary duct carcinoma: A retrospective cohort study. <i>OTO Open</i>. 2026;10(2):e70224. doi:10.1002/oto2.70224'
 ---
 
-[Download PDF here](http://danielrshabib.github.io/files/gao2025histologic.pdf)
+[Download PDF here](http://danielrshabib.github.io/files/gao2026histologic.pdf)
 
 Salivary duct carcinoma (SDC) is a rare and aggressive cancer that can arise either <i>de novo</i> or from a pre-existing benign tumor called pleomorphic adenoma, with <i>de novo</i> cases presenting with significantly more advanced disease (Stage IV: 61% vs 32%, p=.011; T4 tumors: 53% vs 28%, p=.040). This study analyzed 68 patients treated with curative intent to determine whether the cancers origin affects survival outcomes, finding no significant differences in overall survival (p=.28) or disease-free survival (p=.19), though patients with SDC arising from pleomorphic adenoma showed numerically higher 2-year survival rates (87% vs 81% for overall survival; 63% vs 57% for disease-free survival). Distant recurrence was the primary cause of treatment failure, occurring in 37% of <i>de novo</i> cases compared to 20% in those arising from pleomorphic adenoma (p=.23), with bone (14%), lung (11%), and liver (8%) being the most common sites. Pathologic lymph node involvement emerged as the only independent predictor of disease recurrence (hazard ratio 2.98, 95% CI 1.40-6.37, p=.005), highlighting the urgent need for novel systemic therapies such as neoadjuvant treatments to prevent distant spread, particularly in patients with nodal metastasis at diagnosis.
