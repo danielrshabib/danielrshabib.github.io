@@ -1,13 +1,18 @@
 var addressPoints = [
   [
     "Boston, MA, USA | Roundtable Presentation at American Public Health Association Annual Meeting | 2022 | <a href=\"https://danielrshabib.github.io/talks/habib2022segregation\" target=\"_blank\">Segregation, coronavirus racial bias, and relationships with COVID-19 distress</a>",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "Chicago, IL, USA | Poster at American College of Surgeons Clinical Congress | 2025 | <a href=\"https://danielrshabib.github.io/talks/wang2025mortality\" target=\"_blank\">Mortality from digestive cancers among Asian American subgroups in United States</a>",
     41.8755616,
     -87.6244212
+  ],
+  [
+    "Orlando, FL, USA | Poster at Triological Society Combined Sections Meeting | 2026 | <a href=\"https://danielrshabib.github.io/talks/jin2026impact\" target=\"_blank\">Impact of mucosal versus soft tissue positive final margin status on survival outcomes in total laryngectomy patients</a>",
+    28.5421218,
+    -81.379045
   ],
   [
     "Indianapolis, IN, USA | Poster at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025association\" target=\"_blank\">Association between hearing aid and cochlear implant internet searches with media campaigns and federal announcements</a>",
@@ -36,13 +41,13 @@ var addressPoints = [
   ],
   [
     "New Orleans, LA, USA | Poster at American Head and Neck Society Annual Meeting at COSM | 2025 | <a href=\"https://danielrshabib.github.io/talks/jin2025lymph\" target=\"_blank\">Lymph node yield is not associated with survival in total laryngectomy patients</a>",
-    29.9559145,
-    -90.0730259
+    29.9561422,
+    -90.0733934
   ],
   [
     "Boston, MA, USA | Poster at American Association of Neurological Surgeons Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/bishay2025neuropsychological\" target=\"_blank\">Neuropsychological effects of GPi deep brain stimulation in medication resistant dystonia</a>",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "Indianapolis, IN, USA | Oral Presentation at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025risk\" target=\"_blank\">Risk factors for increased postoperative pain in head and neck cancer free flap reconstruction patients</a>",
@@ -50,14 +55,19 @@ var addressPoints = [
     -86.1583502
   ],
   [
-    "Madrid, Spain | Oral Presentation at International Facial Nerve Symposium | 2025 | <a href=\"https://danielrshabib.github.io/talks/barna2025unseen\" target=\"_blank\">The unseen burden of non-flaccid facial paralysis: Patient-reported psychosocial impact and treatment experience</a>",
-    40.4167047,
-    -3.7035825
-  ],
-  [
     "Nashville, TN, USA | Oral Presentation at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2023 | <a href=\"https://danielrshabib.github.io/talks/prasad2023flap\" target=\"_blank\">Flap to floor: Free flap comparative outcomes outside the ICU</a>",
     36.1622767,
     -86.7742984
+  ],
+  [
+    "Indianapolis, IN, USA | Oral Presentation at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/gao2025histologic\" target=\"_blank\">Histologic origin as a prognostic factor in salivary duct carcinoma</a>",
+    39.7683331,
+    -86.1583502
+  ],
+  [
+    "Madrid, Spain | Oral Presentation at International Facial Nerve Symposium | 2025 | <a href=\"https://danielrshabib.github.io/talks/vittetoe2025patient\" target=\"_blank\">Patient-reported barriers to diagnosis and treatment in non-flaccid facial paralysis</a>",
+    40.416782,
+    -3.703507
   ],
   [
     "Sonoma, CA, USA | Poster at Southwestern Surgical Congress Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025patient\" target=\"_blank\">Patient-reported non-routine events for same-day discharge after mastectomy</a>",
@@ -76,18 +86,18 @@ var addressPoints = [
   ],
   [
     "New Orleans, LA, USA | Poster at American Head and Neck Society Annual Meeting at COSM | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025outcomes\" target=\"_blank\">Outcomes following neoadjuvant immunotherapy for oral cavity cancer: A propensity score matched analysis of the National Cancer Database</a>",
-    29.9559145,
-    -90.0730259
+    29.9561422,
+    -90.0733934
   ],
   [
     "Boston, MA, USA | Roundtable Presentation at American Public Health Association Annual Meeting | 2022 | <a href=\"https://danielrshabib.github.io/talks/habib2022trends\" target=\"_blank\">Trends in the dehumanization of people who use drugs in American news articles from 1986 to 2020</a>",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "Orlando, FL, USA | Oral Presentation at Triological Combined Sections Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/aweeda2025risk\" target=\"_blank\">Risk factors and rates for hypocalcemia after pediatric thyroidectomy: A systematic review and meta-analysis</a>",
-    28.5421109,
-    -81.3790304
+    28.5421218,
+    -81.379045
   ],
   [
     "Indianapolis, IN, USA | Oral Presentation at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/jin2025preoperative\" target=\"_blank\">Preoperative tracheostomy is associated with recurrence in total laryngectomy patients</a>",
@@ -100,14 +110,24 @@ var addressPoints = [
     -76.610759
   ],
   [
+    "Madrid, Spain | Oral Presentation at International Facial Nerve Symposium | 2025 | <a href=\"https://danielrshabib.github.io/talks/vittetoe2025unseen\" target=\"_blank\">The unseen burden of non-flaccid facial paralysis: Patient-reported psychosocial impact and treatment experience</a>",
+    40.416782,
+    -3.703507
+  ],
+  [
     "New Orleans, LA, USA | Oral Presentation at Society of Asian Academic Surgeons Annual Meeting | 2024 | <a href=\"https://danielrshabib.github.io/talks/shou2024impact\" target=\"_blank\">Impact of neoadjuvant immunotherapy on postoperative complications after oncologic surgery</a>",
-    29.9559145,
-    -90.0730259
+    29.9561422,
+    -90.0733934
   ],
   [
     "San Francisco, CA, USA | Poster at Surgical Outcomes Club Annual Scientific Session | 2024 | <a href=\"https://danielrshabib.github.io/talks/habib2024association\" target=\"_blank\">Association of neoadjuvant immunotherapy with postoperative major morbidity after oncologic surgery</a>",
-    37.7792588,
-    -122.4193286
+    37.7879363,
+    -122.4075201
+  ],
+  [
+    "New York, NY, USA | Panel at International Symposium on Human Factors and Ergonomics in Health Care | 2026 | <a href=\"https://danielrshabib.github.io/talks/yovanoff2026navigating\" target=\"_blank\">Navigating uncharted waters: The AI revolution in human factors workflows</a>",
+    40.7127281,
+    -74.0060152
   ],
   [
     "Indianapolis, IN, USA | Oral Presentation at American Academy of Otolaryngology-Head and Neck Surgery Annual Meeting | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025trends\" target=\"_blank\">Trends in cochlear implant complications and clinical outcomes from 2016 to 2024</a>",
@@ -115,18 +135,13 @@ var addressPoints = [
     -86.1583502
   ],
   [
-    "Madrid, Spain | Oral Presentation at International Facial Nerve Symposium | 2025 | <a href=\"https://danielrshabib.github.io/talks/barna2025patient\" target=\"_blank\">Patient-reported barriers to diagnosis and treatment in non-flaccid facial paralysis</a>",
-    40.4167047,
-    -3.7035825
-  ],
-  [
     "Boston, MA, USA | Poster at Triological Society Annual Meeting at COSM | 2023 | <a href=\"https://danielrshabib.github.io/talks/prasad2023how\" target=\"_blank\">How often is cancer present in oral cavity re-resections after initial positive margins?</a>",
-    42.3554334,
-    -71.060511
+    42.3588336,
+    -71.0578303
   ],
   [
     "New Orleans, LA, USA | Poster at American Head and Neck Society Annual Meeting at COSM | 2025 | <a href=\"https://danielrshabib.github.io/talks/habib2025adjuvant\" target=\"_blank\">Adjuvant chemotherapy does not improve overall survival in positive surgical margin oral cavity cancer patients without extranodal extension</a>",
-    29.9559145,
-    -90.0730259
+    29.9561422,
+    -90.0733934
   ]
 ];
