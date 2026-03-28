@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* **University of California, Los Angeles Medical Center**, June 2026-Present
-  * Residency in Otolaryngology–Head and Neck Surgery (Expected June 2031)
+* **UCLA Medical Center**, June 2026-June 2031
+  * Residency in Otolaryngology–Head and Neck Surgery
 * **Vanderbilt University School of Medicine**, July 2022-May 2026
   * M.D. and Certificate in Biomedical Ethics
 * **Johns Hopkins University**, Aug 2018-Dec 2021
@@ -85,7 +85,7 @@ redirect_from:
 
 ## Leadership
 
-* Apr 2024-Dec 2025: **Honor Council Co-Chair and Representative**, Vanderbilt University School of Medicine Student Government
+* Apr 2024-Dec 2025: **Honor Council Co-Chair and Representative**, Vanderbilt University School of Medicine
 * Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
 
 ## Honors, Awards, and Grants
