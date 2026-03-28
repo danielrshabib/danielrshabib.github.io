@@ -11,16 +11,18 @@ redirect_from:
 
 ## Education
 
+* **University of California, Los Angeles Medical Center**, June 2026-Present
+  * Residency in Otolaryngology–Head and Neck Surgery (Expected June 2031)
+* **Vanderbilt University School of Medicine**, July 2022-May 2026
+  * M.D. and Certificate in Biomedical Ethics
 * **Johns Hopkins University**, Aug 2018-Dec 2021
   * B.A. in Biophysics with Honors and Minor in Bioethics
-* **Vanderbilt University School of Medicine**, July 2022-May 2026 (expected)
-  * M.D. and Certificate in Biomedical Ethics
 
 ## Medical Technology Experience
 
-* Jan 2025-Present: **Founder and Chief Executive Officer**
+* June 2025-Present: **Founder and Chief Executive Officer**
   * [KairoSys Applied Intelligence LLC](https://www.kairosysai.com/)
-* Sep 2024-Present: **Clinical Software Analyst**
+* Sep 2024-Nov 2025: **Clinical Software Analyst**
   * Vanderbilt University Medical Center
 * Oct 2024-Jan 2025: **Consultant**
   * [Merge Medical Device Studio](https://www.mergemed.com/)
@@ -30,12 +32,12 @@ redirect_from:
 ## Research Experience
 ### Clinical
 
-* April 2023-Present: **Oncologic Surgery Researcher**
-  * [Vanderbilt University Medical Center](https://www.vumc.org/vcrg/person/members)
-  * Mentor: Aimal Khan, MD
-* Nov 2022-Present: **Surgical Analytics and Ethics Researcher**
+* Nov 2022-May 2026: **Surgical Analytics and Ethics Researcher**
   * Vanderbilt University Medical Center
   * Mentor: Alexander Langerman, MD, SM
+* April 2023-Dec 2025: **Oncologic Surgery Researcher**
+  * [Vanderbilt University Medical Center](https://www.vumc.org/vcrg/person/members)
+  * Mentor: Aimal Khan, MD
 * Jan 2022-July 2022: **Pediatrics Research Program Coordinator**
   * Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
@@ -57,7 +59,7 @@ redirect_from:
 
 ### Substance Use
 
-* Jan 2022-July 2022 & Summer 2021: **Postbaccalaureate Fellow and Summer Intern**
+* June 2021-July 2022: **Postbaccalaureate Fellow and Summer Intern**
   * National Institute on Drug Abuse [Technology and Translational Research Unit](https://irp.nida.nih.gov/organization/tamb/ttru/)
   * Mentor: Brenda Curtis, PhD, MSPH
 * June 2020-July 2022: **Student Principal Investigator**
@@ -75,19 +77,20 @@ redirect_from:
 
 ## Community Service
 
-* Jan 2024-Present: **Health Educator**, [Future is NOW (Non-violent Options Win) Nashville – Future Healers Network](https://www.vumc.org/trauma-and-scc/now)
-* Jan 2024-Present: **Health Educator**, [Dismas House of Nashville Residential Reentry Program](https://dismas.org/programs/re-entry-program/)
-* Aug 2022-Present: **Clinic Volunteer and Peer Educator**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
+* Aug 2022-May 2026: **Clinic Volunteer and Peer Educator**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
+* Jan 2024-Dec 2025: **Health Educator**, [Future is NOW (Non-violent Options Win) Nashville – Future Healers Network](https://www.vumc.org/trauma-and-scc/now)
+* Jan 2024-Dec 2025: **Health Educator**, [Dismas House of Nashville Residential Reentry Program](https://dismas.org/programs/re-entry-program/)
 * Jan 2021-July 2022: **Community Health Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
 * Dec 2019-Feb 2020: **Certified End-Of-Life Specialist**, Gilchrist Hospice Center
 
 ## Leadership
 
-* July 2024-Present: **Honor Council Co-Chair and Representative**, Vanderbilt University School of Medicine Student Government
+* Apr 2024-Dec 2025: **Honor Council Co-Chair and Representative**, Vanderbilt University School of Medicine Student Government
 * Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
 
 ## Honors, Awards, and Grants
 
+* 2022-26: Vanderbilt University School of Medicine Williams Scholarship
 * 2025: Vanderbilt Institute for Global Health Overall Family Fellowship for International Research ($1,000)
 * 2025: Vanderbilt Institute for Clinical and Translational Research Grant ($5,000)
 * 2025: Top 10 Student Research Presentation in Vanderbilt University School of Medicine
@@ -195,8 +198,7 @@ redirect_from:
 
 ## Professional Associations
 
-* 2025–: American Academy of Otolaryngology-Head and Neck Surgery, Student Member
-* 2024–: American College of Surgeons, Student Member
+* 2025–: American Academy of Otolaryngology-Head and Neck Surgery, Member
 * 2021–: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
 * 2021–: Omicron Delta Kappa Honor Society, Beta Circle
 
@@ -209,9 +211,9 @@ redirect_from:
 
 ## Skills
 
-* **Computer**: R, Python, MATLAB, Microsoft Excel, SQL, Unix, REDCap, Java, Canva, ImageJ, Pajek, PyMOL
-* **Language**: Conversational French
-* **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
+* **Computer**: R, Python, MATLAB, Microsoft Excel, SQL, Unix, REDCap, Java, Canva
+* **Language**: Native English, Intermediate French
+* **Wet Lab**: Cell culture, Western blot, RT-qPCR, microfluidic device synthesis
 
 ## Interests and Hobbies
 * **Music**: Songwriting, singing, playing piano
