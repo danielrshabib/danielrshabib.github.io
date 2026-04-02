@@ -15,6 +15,7 @@ redirect_from:
   * Residency in Otolaryngology–Head and Neck Surgery
 * **Vanderbilt University School of Medicine**, July 2022-May 2026
   * M.D. and Certificate in Biomedical Ethics
+  * Vanderbilt Program in Interprofessional Learning
 * **Johns Hopkins University**, Aug 2018-Dec 2021
   * B.A. in Biophysics with Honors and Minor in Bioethics
 
@@ -196,18 +197,11 @@ redirect_from:
 <li>Kusterbeck, S. <a href="https://www.reliasmedia.com/articles/ethical-controversy-persists-regarding-pelvic-exams-on-anesthetized-patients">Ethical controversy persists regarding pelvic exams on anesthetized patients</a>. <i>Medical Ethics Advisor</i>. Published January 1, 2025.</li>
 </ol>
 
-## Professional Associations
+## Professional/Honor Associations
 
 * 2025–: American Academy of Otolaryngology-Head and Neck Surgery, Member
 * 2021–: Phi Beta Kappa Honor Society, Alpha Chapter of Maryland
 * 2021–: Omicron Delta Kappa Honor Society, Beta Circle
-
-## Elective Coursework
-
-* 2022-23: Vanderbilt Program in Interprofessional Learning
-* 2023: Medical Photography Spring Elective
-* 2023: Plastic Surgery Spring Elective
-* 2022: Neurosurgery Fall Elective
 
 ## Skills
 
