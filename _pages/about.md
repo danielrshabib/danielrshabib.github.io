@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a resident in Otolaryngology–Head and Neck Surgery at University of California, Los Angeles. As founder and CEO of [KairoSys Applied Intelligence](https://www.kairosysai.com/), I currently lead development of an AI tool with a team of software engineers to make medical device design more efficient and patient-centered by synthesizing user feedback, regulatory reports, and patent data into actionable insights. 
+I am a resident in Otolaryngology–Head and Neck Surgery at UCLA Medical Center. As founder and CEO of [KairoSys Applied Intelligence](https://www.kairosysai.com/), I currently lead development of an AI tool with a team of software engineers to make medical device design more efficient and patient-centered by synthesizing user feedback, regulatory reports, and patent data into actionable insights. 
 
 I earned my M.D. degree from Vanderbilt University School of Medicine in May 2026. I led research on cochlear implant patient experiences, head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and surgical consent form language. Additionally, I studied surgical and patient-facing technology, worked as a consultant for [Merge Medical Device Studio](https://www.mergemed.com/), and developed AI-driven tools for medical record abstraction in clinical trials. I also volunteered as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
 
@@ -72,7 +72,7 @@ I earned my M.D. degree from Vanderbilt University School of Medicine in May 202
   <div class="container">
     <div class="column1">
       <h2>Education/Training</h2>
-      <p class="grad-info"><i class="fa-sharp fa-solid fa-hospital" aria-hidden="true"></i> <b>University of California, Los Angeles</b><br><i>ENT Residency - Expected 2031</i></p>
+      <p class="grad-info"><i class="fa-sharp fa-solid fa-hospital" aria-hidden="true"></i> <b>UCLA Medical Center</b><br><i>ENT Residency - Expected 2031</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Vanderbilt University School of Medicine</b><br><i>M.D., Certificate in Biomedical Ethics - 2026</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>Johns Hopkins University</b><br><i>B.A. Biophysics, Bioethics Minor - 2021</i></p>
     </div>
