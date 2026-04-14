@@ -9,7 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-## Education
+## Education/Training
 
 * **UCLA Medical Center**, June 2026-June 2031
   * Residency in Otolaryngology–Head and Neck Surgery
@@ -25,7 +25,7 @@ redirect_from:
   * [KairoSys Applied Intelligence LLC](https://www.kairosysai.com/)
 * Sep 2024-Nov 2025: **Clinical Software Analyst**
   * Vanderbilt University Medical Center
-* Oct 2024-Jan 2025: **Consultant**
+* Oct 2024-Jan 2025: **Medical Consultant**
   * [Merge Medical Device Studio](https://www.mergemed.com/)
 * April 2023-Aug 2023: **Clinical Trial Coordinator**
   * [GI Windows Surgical](https://www.giwindows.com/)
@@ -42,10 +42,10 @@ redirect_from:
 * Jan 2022-July 2022: **Pediatrics Research Program Coordinator**
   * Johns Hopkins Medicine
   * Mentor: Sara Johnson, PhD, MPH
-* Sep 2020-Dec 2021: **Student Researcher**
+* Sep 2020-Dec 2021: **Neuro-Oncology Surgical Outcomes Researcher**
   * Johns Hopkins [Neuro-Oncology Surgical Outcomes Lab](https://www.jhuneurolab.com/)
   * Mentor: Debraj Mukherjee, MD, MPH
-* Oct 2018-Jan 2020: **Research Assistant**
+* Oct 2018-Jan 2020: **Mobile Free Clinic Screener**
   * Johns Hopkins Wilmer Eye Institute
   * Mentor: Bonnielin Swenor, PhD, MPH
 
@@ -69,7 +69,7 @@ redirect_from:
 
 ### COVID-19
 
-* Mar 2021-May 2022: **Research Assistant**
+* Mar 2021-May 2022: **Disability Health Research Assistant**
   * Johns Hopkins [Disability Health Research Center](https://disabilityhealth.jhu.edu/) 
   * Mentor: Bonnielin Swenor, PhD, MPH
 * June 2020-Jan 2021: **Health Policy Researcher**
@@ -78,7 +78,7 @@ redirect_from:
 
 ## Community Service
 
-* Aug 2022-May 2026: **Clinic Volunteer and Peer Educator**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
+* Aug 2022-May 2026: **Clinical Volunteer and Coordinator**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
 * Jan 2024-Dec 2025: **Health Educator**, [Future is NOW (Non-violent Options Win) Nashville – Future Healers Network](https://www.vumc.org/trauma-and-scc/now)
 * Jan 2024-Dec 2025: **Health Educator**, [Dismas House of Nashville Residential Reentry Program](https://dismas.org/programs/re-entry-program/)
 * Jan 2021-July 2022: **Community Health Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
@@ -166,8 +166,9 @@ redirect_from:
   {% endfor %}
 </ol>
 
-### Local
+### Regional and Institutional
 <ol>
+<li>Naranjo C, <b>Habib DRS</b>, Kong JA, Moberly AC. Honky tonk harmonies: Thematic analysis of hearing safety attitudes at live-music venues. In: <a href="https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/making-listening-safe-across-the-world--exhibit">World Health Organization 10 Years of Making Listening Safe from Around the World</a>; February 11, 2026; Online.</li>
 <li>Kong JA, Naranjo C, <b>Habib DRS</b>, Haynes DS, Moberly AC. Noise exposure and hearing protection behaviors in Nashville’s live-music district. <a href="https://danielrshabib.github.io/files/naranjo2025noise-poster.pdf">Poster</a> presented at: Annual Vanderbilt Institute for Population and Public Health Colloquium; November 14, 2025; Nashville, TN, USA.</li>
 <li>Gary M, <b>Habib D</b>, Giorgi S, Isman K, Aich A, Liu T, Lahnala A, Hemmons J, Kady A, Demko Z, Lou S, Fried Z, Curtis B. Systematic analysis of substance use discussions on Reddit: A novel dataset for interdisciplinary research. Poster presented at: National Institute on Drug Abuse Research Day; May 8, 2025; Baltimore, MD, USA.</li>
 <li>Naranjo C, <b>Habib DRS</b>, Patel PN. Self-paced sinusitis educational module for medical students: Improving otolaryngology knowledge for all future specialties. <a href="https://danielrshabib.github.io/files/naranjo2025self-poster.pdf">Poster</a> presented at: National Otolaryngology Interest Group Scholars in Otolaryngology Research Conference; April 26, 2025; Virtual.</li>
