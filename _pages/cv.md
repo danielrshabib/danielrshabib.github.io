@@ -129,7 +129,7 @@ redirect_from:
 
 ### Undergraduate Journal Articles
 <ol>
-<li><b>Habib D</b>. Computational analysis on the relationship between state political party dominance and lack of health insurance. <i>Hopkins Undergraduate Research Journal</i>. 2020:44-46.</li>
+<li><b>Habib D</b>. <a href="http://danielrshabib.github.io/files/habib2020computational.pdf">Computational analysis on the relationship between state political party dominance and lack of health insurance</a>. <i>Hopkins Undergraduate Research Journal</i>. 2020:44-46.</li>
 <li><b>Habib D</b>. An act divided: America’s uninsured. <i>The Cornell Healthcare Review</i>. 2019:23-24.</li>
 </ol>
   
