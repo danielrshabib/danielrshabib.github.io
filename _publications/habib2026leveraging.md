@@ -7,7 +7,7 @@ date: 2026-01-05
 venue: "American Journal of Audiology"
 clink: "https://doi.org/10.1044/2025_AJA-25-00167"
 purl: "/files/habib2026leveraging.pdf"
-citation: "<b>Habib DRS</b>, Lin J, Thompson D, Le S, Lee I, Praveen H, Demiroz GB, Walker PD, Moberly AC. Leveraging online communities to understand patient experiences with hearing aids and cochlear implants: A scoping review. <i>Am J Audiol</i>. 2026. doi:10.1044/2025_AJA-25-00167"
+citation: "<b>Habib DRS</b>, Lin J, Thompson D, Le S, Lee I, Praveen H, Demiroz GB, Walker PD, Moberly AC. Leveraging online communities to understand patient experiences with hearing aids and cochlear implants: A scoping review. <i>Am J Audiol</i>. 2026;35(1):359-377. doi:10.1044/2025_AJA-25-00167"
 ---
 [Download PDF here](http://danielrshabib.github.io/files/habib2026leveraging.pdf)
 
