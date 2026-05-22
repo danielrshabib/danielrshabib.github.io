@@ -21,8 +21,8 @@ redirect_from:
 
 ## Medical Technology Experience
 
-* June 2025-Present: **Founder and Chief Executive Officer**
-  * [KairoSys Applied Intelligence LLC](https://www.kairosysai.com/)
+* June 2025-Present: **Founder**
+  * [KairoSys Applied Intelligence](https://www.kairosysai.com/)
 * Sep 2024-Nov 2025: **Clinical Software Analyst**
   * Vanderbilt University Medical Center
 * Oct 2024-Jan 2025: **Medical Consultant**
