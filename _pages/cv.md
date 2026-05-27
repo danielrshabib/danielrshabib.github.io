@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education/Training
 
-* **UCLA Medical Center**, June 2026-June 2031
+* **UCLA Medical Center**, July 2026-June 2031
   * Residency in Otolaryngology–Head and Neck Surgery
 * **Vanderbilt University School of Medicine**, July 2022-May 2026
   * M.D. and Certificate in Biomedical Ethics
