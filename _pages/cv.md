@@ -92,7 +92,7 @@ redirect_from:
 ## Honors, Awards, and Grants
 
 * 2022-26: Vanderbilt University School of Medicine Williams Scholarship
-* 2025: Vanderbilt Institute for Global Health Overall Family Fellowship for International Research ($1,000)
+* 2025: Vanderbilt Institute for Global Health Overall Family Fellowship ($1,000)
 * 2025: Vanderbilt Institute for Clinical and Translational Research Grant ($5,000)
 * 2025: Top 10 Student Research Presentation in Vanderbilt University School of Medicine
 * 2024: Medical Student Research Initiation Grant ($4,000), American Society of Colon and Rectal Surgeons
