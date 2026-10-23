@@ -3,7 +3,7 @@ title: "Why patrons don’t use hearing protection: A qualitative study in a liv
 collection: talks
 permalink: /talks/naranjo2026why
 date: 2026-10-17
-type: “Poster"
+type: "Poster"
 venue: "American Academy of Otolaryngology–Head and Neck Surgery Annual Meeting"
 location: "Los Angeles, CA, USA"
 ---
